@@ -3,7 +3,7 @@ import styles from "./layout.module.css";
 import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 
-const name = "Your Name";
+const name = "Harshit Singhai";
 export const siteTitle = "Next.js Sample Website";
 
 export default function Layout({ children, home }) {
@@ -23,6 +23,18 @@ export default function Layout({ children, home }) {
         />
         <meta name="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary_large_image" />
+        <link
+          rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.22.0/themes/prism-okaidia.min.css"
+          integrity="sha512-mIs9kKbaw6JZFfSuo+MovjU+Ntggfoj8RwAmJbVXQ5mkAX5LlgETQEweFPI18humSPHymTb5iikEOKWF7I8ncQ=="
+          crossOrigin="anonymous"
+        />
+        {/* <link
+          rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.22.0/themes/prism-tomorrow.min.css"
+          integrity="sha512-vswe+cgvic/XBoF1OcM/TeJ2FW0OofqAVdCZiEYkd6dwGXthvkSFWOoGGJgS2CW70VK5dQM5Oh+7ne47s74VTg=="
+          crossorigin="anonymous"
+        /> */}
       </Head>
       <header className={styles.header}>
         {home ? (

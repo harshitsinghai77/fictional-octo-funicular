@@ -1,6 +1,6 @@
-import Head from "next/head";
 import Link from "next/link";
 import Layout, { siteTitle } from "../components/layout";
+import SEO from "../components/seo";
 import utilStyles from "../styles/utils.module.css";
 import { getSortedPostsData } from "../lib/posts";
 import Date from "../components/date";
@@ -17,9 +17,7 @@ export async function getStaticProps() {
 export default function Home({ allPostsData }) {
   return (
     <Layout home>
-      <Head>
-        <title>{siteTitle}</title>
-      </Head>
+      <SEO title={siteTitle} />
       <section className={utilStyles.headingMd}>
         <p>
           Nothing much. Likes to read books, looking to do some amazing work and
