@@ -1,42 +1,83 @@
-import Layout from "../../components/layout";
-import { getAllPostIds, getPostData } from "../../lib/posts";
-import SEO from "../../components/seo";
-import Date from "../../components/date";
-import utilStyles from "../../styles/utils.module.css";
+import { useRouter } from "next/router";
 
-export async function getStaticPaths() {
-  // Return a list of possible value for id
-  const paths = getAllPostIds();
-  return {
-    paths,
-    fallback: false,
-  };
+import Layout from "../../components/layout";
+import SEO from "../../components/seo";
+import ErrorPage from "next/error";
+import Container from "../../components/container";
+import PostBody from "../../components/post-body";
+import Header from "../../components/header";
+import PostHeader from "../../components/post-header";
+import { getPostById, getAllPosts } from "../../lib/api";
+import PostTitle from "../../components/post-title";
+import markdownToHtml from "../../lib/markdownToHtml";
+
+export default function Post({ post, morePosts, preview }) {
+  const router = useRouter();
+  if (!router.isFallback && !post?.id) {
+    return <ErrorPage statusCode={404} />;
+  }
+
+  return (
+    <Layout preview={preview}>
+      <Container>
+        <Header />
+        {router.isFallback ? (
+          <PostTitle>Loading…</PostTitle>
+        ) : (
+          <>
+            <article className="mb-32">
+              <SEO
+                title={post.title}
+                description={post.title || "This is the description"}
+              />
+              <PostHeader
+                title={post.title}
+                coverImage={post.coverImage}
+                date={post.date}
+                author={post.author}
+              />
+              <PostBody content={post.content} />
+            </article>
+          </>
+        )}
+      </Container>
+    </Layout>
+  );
 }
 
 export async function getStaticProps({ params }) {
-  // Fetch necessary data for the blog post using params.id
-  const postData = await getPostData(params.id);
+  const post = getPostById(params.id, [
+    "title",
+    "date",
+    "id",
+    "author",
+    "content",
+    "ogImage",
+    "coverImage",
+  ]);
+  const content = await markdownToHtml(post.content || "");
+
   return {
     props: {
-      postData,
+      post: {
+        ...post,
+        content,
+      },
     },
   };
 }
 
-export default function Post({ postData }) {
-  return (
-    <Layout>
-      <SEO
-        title={postData.title}
-        description={postData.excerpt || "This is the description"}
-      />
-      <article>
-        <h1 className={utilStyles.headingXl}>{postData.title}</h1>
-        <div className={utilStyles.lightText}>
-          <Date dateString={postData.date} />
-        </div>
-        <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
-      </article>
-    </Layout>
-  );
+export async function getStaticPaths() {
+  const posts = getAllPosts(["id"]);
+
+  return {
+    paths: posts.map((post) => {
+      return {
+        params: {
+          id: post.id,
+        },
+      };
+    }),
+    fallback: false,
+  };
 }

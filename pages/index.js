@@ -1,54 +1,49 @@
-import Link from "next/link";
-import Layout, { siteTitle } from "../components/layout";
+import Container from "../components/container";
 import SEO from "../components/seo";
-import utilStyles from "../styles/utils.module.css";
-import { getSortedPostsData } from "../lib/posts";
-import Date from "../components/date";
+import MoreStories from "../components/more-stories";
+import HeroPost from "../components/hero-post";
+import Intro from "../components/intro";
+import Layout from "../components/layout";
+import { getAllPosts } from "../lib/api";
 
 export async function getStaticProps() {
-  const allPostsData = getSortedPostsData();
+  const allPosts = getAllPosts([
+    "title",
+    "date",
+    "id",
+    "author",
+    "coverImage",
+    "excerpt",
+  ]);
+
   return {
-    props: {
-      allPostsData,
-    },
+    props: { allPosts },
   };
 }
 
-export default function Home({ allPostsData }) {
+export default function Home({ allPosts }) {
+  const heroPost = allPosts[0];
+  const morePosts = allPosts.slice(1);
+  const siteTitle = "Fictionally Irrlevant";
   return (
-    <Layout home>
-      <SEO title={siteTitle} />
-      <section className={utilStyles.headingMd}>
-        <p>
-          Nothing much. Likes to read books, looking to do some amazing work and
-          teach myself more crazy things
-        </p>
-        <p>
-          (This is a sample website - you’ll be building a site like this on
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
-        </p>
-        <p>
-          Read my new blog{" "}
-          <Link href="/posts/first-post">our Next.js tutorial</Link>
-        </p>
-      </section>
-
-      <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-        <h2 className={utilStyles.headingLg}>Blog</h2>
-        <ul className={utilStyles.list}>
-          {allPostsData.map(({ id, date, title }) => (
-            <li className={utilStyles.listItem} key={id}>
-              <Link href={`/posts/${id}`}>
-                <a>{title}</a>
-              </Link>
-              <br />
-              <small className={utilStyles.lightText}>
-                <Date dateString={date} />
-              </small>
-            </li>
-          ))}
-        </ul>
-      </section>
-    </Layout>
+    <>
+      <Layout>
+        <SEO title={siteTitle} />
+        <Container>
+          <Intro />
+          {heroPost && (
+            <HeroPost
+              title={heroPost.title}
+              coverImage={heroPost.coverImage}
+              date={heroPost.date}
+              author={heroPost.author}
+              id={heroPost.id}
+              excerpt={heroPost.excerpt}
+            />
+          )}
+          {morePosts.length > 0 && <MoreStories posts={morePosts} />}
+        </Container>
+      </Layout>
+    </>
   );
 }
