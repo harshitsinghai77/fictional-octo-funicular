@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function Intro() {
   return (
     <section className="flex-col md:flex-row flex items-center md:justify-between mt-16 mb-16 md:mb-12">
@@ -13,6 +15,12 @@ export default function Intro() {
         >
           Check out my website
         </a>
+        &nbsp;&nbsp;
+        <Link href="/devlogs">
+          <a className="underline hover:text-success duration-200 transition-colors">
+            Devlogs here
+          </a>
+        </Link>
       </h4>
     </section>
   );

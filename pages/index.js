@@ -6,7 +6,7 @@ import Intro from "../components/intro";
 import Layout from "../components/layout";
 import { getAllPosts } from "../lib/api";
 
-export async function getStaticProps() {
+export function getStaticProps() {
   const allPosts = getAllPosts([
     "title",
     "date",

@@ -1,5 +1,4 @@
 import { useRouter } from "next/router";
-
 import Layout from "../../components/layout";
 import SEO from "../../components/seo";
 import ErrorPage from "next/error";

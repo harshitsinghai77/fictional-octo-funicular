@@ -6,8 +6,8 @@ export default {
       summary:
         "Hi, I'm Harshit. I'm a software engineer currently based in India",
     },
-    description: "My daily blog",
-    siteUrl: "https://nextjs-starter-blog-demo.netlify.app/",
+    description: "an island of personal thought",
+    siteUrl: "https://fictionally-irrelevant.vercel.app/",
     language: "en-US",
     social: {
       twitter: "https://twitter.com/harshit_778",

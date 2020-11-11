@@ -1,3 +1,4 @@
+import Link from "next/link";
 import Container from "./container";
 import cn from "classnames";
 
@@ -24,15 +25,24 @@ export default function Alert({ preview }) {
             </>
           ) : (
             <>
-              The source code for this blog is&nbsp;
-              <a
-                href={`https://github.com/harshitsinghai77/fictionally-irrelevant`}
-                className="underline hover:text-success duration-200 transition-colors"
-                target="_blank"
-              >
-                available on GitHub
-              </a>
-              .
+              <div className="main-header">
+                <div>
+                  The source code for this blog is&nbsp;
+                  <a
+                    href={`https://github.com/harshitsinghai77/fictionally-irrelevant`}
+                    className="underline hover:text-success duration-200 transition-colors"
+                    target="_blank"
+                  >
+                    available on GitHub
+                  </a>
+                  .
+                </div>
+                <div>
+                  <Link href="/devlogs">
+                    <a>My daily logs</a>
+                  </Link>
+                </div>
+              </div>
             </>
           )}
         </div>
