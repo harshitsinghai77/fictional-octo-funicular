@@ -2,7 +2,7 @@ import Link from "next/link";
 import Container from "./container";
 import cn from "classnames";
 
-export default function Alert({ preview }) {
+export default function Alert({ preview, home }) {
   return (
     <div
       className={cn("border-b", {
@@ -38,8 +38,8 @@ export default function Alert({ preview }) {
                   .
                 </div>
                 <div>
-                  <Link href="/devlogs">
-                    <a>My daily logs</a>
+                  <Link href={home ? "/devlogs" : "/"}>
+                    <a>{home ? "My daily logs" : "Home"}</a>
                   </Link>
                 </div>
               </div>
