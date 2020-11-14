@@ -9,7 +9,7 @@ export default function DevLogsLayout({ children, home }) {
     <>
       <Alert preview={false} home={false} />
       <div className={styles.container}>
-        <SEO title="Devlogs" />
+        <SEO title="Harshit Singhai" />
         <div className={styles.header}>
           <Link href="/devlogs">
             <a>
