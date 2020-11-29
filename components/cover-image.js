@@ -6,7 +6,7 @@ export default function CoverImage({ title, src, id }) {
     <img
       src={src}
       alt={`Cover Image for ${title}`}
-      className={cn("shadow-small", {
+      className={cn("shadow-small hero-image", {
         "hover:shadow-medium transition-shadow duration-200": id,
       })}
     />

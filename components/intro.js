@@ -15,10 +15,10 @@ export default function Intro() {
         >
           Check out my website
         </a>
-        &nbsp;&nbsp;
+        &nbsp;&&nbsp;
         <Link href="/devlogs">
           <a className="underline hover:text-success duration-200 transition-colors">
-            Devlogs here
+            Devlogs
           </a>
         </Link>
       </h4>
