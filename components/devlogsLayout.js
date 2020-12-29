@@ -7,9 +7,9 @@ import utilStyles from "../styles/utils.module.css";
 export default function DevLogsLayout({ children, home }) {
   return (
     <>
-      <Alert preview={false} home={false} />
+      <Alert />
       <div className={styles.container}>
-        <SEO title="Harshit Singhai" />
+        <SEO title="Devlogs | Harshit" />
         <div className={styles.header}>
           <Link href="/devlogs">
             <a>

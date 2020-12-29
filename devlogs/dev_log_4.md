@@ -7,7 +7,7 @@ Hey,
 
 I woke up around 11am, probably... I immediately started working on Felix to add the link expiry feature. I didn't complete it but it's almost done. Probably needs less than an hour more. I worked on it till 4pm, (yeah I know... how could a simple feature take so looong??).
 
-I need to find a better way to work on features more effeciently. Should start by taking more breaks. Break are really helpful in finding bugs, not to make mistakes and be more careful. Usually I'm way deep in my code that I forget taking frequent break, resulting in loss of efficiency, productivity, and time. I keep on fixiting on the same bug again and again and again without thinking it through, this could be due to lack of breaks. I need to improve on that front else I'll end up wasting a lot of time then required.
+I need to find a better way to work on features more effeciently. I should probably take more breaks. Break are really essential. Usually I'm way too focus working that I often forget taking frequent breaks, resulting in loss of efficiency, productivity, and time. I keep on fixiting on the same bug again and again and again without thinking it through, this could be due to lack of breaks. I need to improve on that front else I'll end up wasting a lot of time.
 
 After working on the felix feature (which should've been much easier) I took a little break before started working on gogist.
 

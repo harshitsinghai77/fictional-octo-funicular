@@ -1,8 +1,8 @@
 ---
-title: "Working with Protocol Buffers and GRPC with Go"
+title: "Let's talk about Technical Debt in Machine Learning"
 excerpt: "Discover the benefits of using protocol buffers instead of JSON, and where to use both."
 coverImage: "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80"
-date: "2020-03-16T05:35:07.322Z"
+date: "2020-12-22T12:04:07.322Z"
 author:
   name: Harshit Singhai
   picture: "/images/profile.jpg"

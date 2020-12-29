@@ -1,6 +1,16 @@
 module.exports = {
+  purge: ["./pages/**/*.js", "./components/**/*.js"],
+  darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
+      screens: {
+        xs: { min: "0px", max: "575px" },
+        sm: { min: "575px", max: "767px" },
+        md: { min: "767px", max: "1023px" },
+        lg: { min: "1023px", max: "1279px" },
+        xl: { min: "1279px", max: "1535px" },
+        "2xl": { min: "1536px" },
+      },
       colors: {
         "accent-1": "#FAFAFA",
         "accent-2": "#EAEAEA",
@@ -8,9 +18,7 @@ module.exports = {
         success: "#0070f3",
         cyan: "#79FFE1",
       },
-      spacing: {
-        28: "7rem",
-      },
+      spacing: {},
       letterSpacing: {
         tighter: "-.04em",
       },

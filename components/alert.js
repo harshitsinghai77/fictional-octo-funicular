@@ -2,7 +2,7 @@ import Link from "next/link";
 import Container from "./container";
 import cn from "classnames";
 
-export default function Alert({ preview, home }) {
+export default function Alert({ preview }) {
   return (
     <div
       className={cn("border-b", {
@@ -11,7 +11,7 @@ export default function Alert({ preview, home }) {
       })}
     >
       <Container>
-        <div className="py-2 text-center text-sm">
+        <div className="py-1 text-center text-sm">
           {preview ? (
             <>
               This page is a preview.&nbsp;
@@ -37,9 +37,17 @@ export default function Alert({ preview, home }) {
                   </a>
                   .
                 </div>
-                <div>
-                  <Link href={home ? "/devlogs" : "/"}>
-                    <a>{home ? "My daily logs" : "Home"}</a>
+                <div className="main-header">
+                  <Link href="/">
+                    <a className="mx-1">Home</a>
+                  </Link>
+
+                  <Link href="/devlogs">
+                    <a className="mx-1">My daily logs</a>
+                  </Link>
+
+                  <Link href="/movies">
+                    <a className="mx-1">Movie logs</a>
                   </Link>
                 </div>
               </div>
