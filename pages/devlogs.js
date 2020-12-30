@@ -21,9 +21,8 @@ export default function Devlogs({ alldevlogs }) {
         <section>
           <p className={utilStyles.headingSd}>
             The main purpose of the dev logs is to help me identify and keep
-            track of the progress I make while developing things on a regular
-            basis. It helps me stay accountable to myself and serves as a
-            historical record that I can look back on.
+            track of my daily progress. It helps me stay accountable to myself
+            and serves as a historical record that I can look back on.
           </p>
         </section>
         <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>

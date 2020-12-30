@@ -28,7 +28,7 @@ export default function DevLog({ devlogsData }) {
       <div className={utilStyles.lightText}>
         <DateFormatter dateString={devlogsData.date} />
       </div>
-      <PostBody content={devlogsData.contentHtml} />
+      <PostBody content={devlogsData.processedContent} />
     </DevLogsLayout>
   );
 }

@@ -16,7 +16,7 @@ export default function HeroPost({
       <div className="mb-8 md:mb-16">
         <CoverImage title={title} src={coverImage} id={id} />
       </div>
-      <div className="md:grid md:grid-cols-2 md:col-gap-16 lg:col-gap-8 mb-20 md:mb-28">
+      <div className="lg:grid lg:grid-cols-2 lg:col-gap-16 md:col-gap-8 mb-20 sm:mb-28">
         <div>
           <h3 className="mb-4 text-4xl lg:text-6xl leading-tight">
             <Link as={`/posts/${id}`} href="/posts/[id]">
