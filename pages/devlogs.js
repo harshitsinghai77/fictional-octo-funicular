@@ -1,5 +1,5 @@
 import Link from "next/link";
-import DevLogsLayout from "../components/devlogsLayout";
+import DevLogsLayout from "../components/devlogs-layout";
 import DateFormatter from "../components/date-formatter";
 import styles from "../styles/layout.module.css";
 import utilStyles from "../styles/utils.module.css";

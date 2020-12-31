@@ -1,4 +1,4 @@
-import DevLogsLayout from "../../components/devlogsLayout";
+import DevLogsLayout from "../../components/devlogs-layout";
 import DateFormatter from "../../components/date-formatter";
 import { getAllDevLogsIds, getDevLogById } from "../../lib/devlogs-api";
 import PostBody from "../../components/post-body";

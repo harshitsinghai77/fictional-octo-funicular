@@ -1,8 +1,7 @@
 // import Link from "next/link";
 // import DateFormatter from "../components/date-formatter";
-import MoviesLayout from "../components/moviesLayout";
+import MoviesLayout from "../components/movies-layout";
 import MovieCards from "../components/movies-body";
-import styles from "../styles/layout.module.css";
 import utilStyles from "../styles/utils.module.css";
 import { getMovieData } from "../lib/movie-api";
 
