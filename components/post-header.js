@@ -15,7 +15,7 @@ export default function PostHeader({ title, coverImage, date, author }) {
         </a>
       </div>
       <div className="mb-8 lg:mb-16 sm:mx-0">
-        <CoverImage title={title} src={coverImage} />
+        <CoverImage title={title} src={coverImage} height={620} width={1240} />
       </div>
       <div className="max-w-2xl mx-auto">
         <div className="block md:hidden mb-6">
