@@ -2,6 +2,7 @@ import SEO from "./seo";
 import Alert from "./alert";
 import styles from "../styles/layout.module.css";
 import utilStyles from "../styles/utils.module.css";
+import Footer from "./footer";
 
 export default function MoviesLayout({ children }) {
   return (
@@ -12,8 +13,9 @@ export default function MoviesLayout({ children }) {
         <div className={styles.header}>
           <h1 className={utilStyles.headingLg}>Movies Logs</h1>
         </div>
-        {children}
+        <main>{children}</main>
       </div>
+      <Footer />
     </>
   );
 }
