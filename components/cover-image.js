@@ -5,6 +5,7 @@ export default function CoverImage({ title, src, id, height, width }) {
   const image = (
     <img
       src={src}
+      data-src={src}
       srcSet={src}
       alt={`Cover Image for ${title}`}
       className={cn("shadow-small object-contain", {

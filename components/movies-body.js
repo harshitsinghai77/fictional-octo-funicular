@@ -8,10 +8,8 @@ export default function MoviesCard({ movie }) {
           <div className="mb-5 bg-white">
             <img
               className="rounded-md max-h-96 object-contain"
-              src={el.imgURL}
-              loading="lazy"
-              alt="my movie"
-              srcSet={el.imgURL}
+              src={`/images/movies/${el.img_name}`}
+              alt={`my movie - ${el.title}`}
             />
           </div>
           <h2 className="font-raleway text-2xl text-gray-600">{el.title}</h2>
