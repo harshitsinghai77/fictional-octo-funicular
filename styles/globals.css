@@ -28,6 +28,13 @@ img {
   display: block;
 }
 
+::selection {
+  background: #d2f8ea; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #d2f8ea; /* Gecko Browsers */
+}
+
 .font-raleway {
   font-family: "Raleway";
 }
