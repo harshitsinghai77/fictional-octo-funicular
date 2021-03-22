@@ -1,13 +1,13 @@
 import Link from "next/link";
+import Menu from "./menu";
 import SEO from "./seo";
-import Alert from "./alert";
 import styles from "../styles/layout.module.css";
 import utilStyles from "../styles/utils.module.css";
 
 export default function DevLogsLayout({ children, home }) {
   return (
     <>
-      <Alert />
+      <Menu />
       <div className={styles.container}>
         <SEO title="Devlogs | Harshit" />
         <div className={styles.header}>

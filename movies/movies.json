@@ -2,6 +2,29 @@
   "updated_at": "12-29-2020",
   "movies": [
     {
+      "title": "Behind her eyes",
+      "imgURL": "https://m.media-amazon.com/images/M/MV5BMDk2Njg0ZTUtNTFjZS00NzUwLWEwZDQtZTg5MDZiMmJhNGEzXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg",
+      "description": "The last episode was worth the mediocrity of first few episodes. The series is short with only 6 episodes. Nothing much in the first few episodes to be honest. The mystery unfolds as we move on, the last episode in particular will hold you by your nerves as the plot unfolds leaving you wanting more. Great watch, just hold on for a while, and be patience before the story gets interesting. Be ready for the last episode to take you by surprise and blow the charts.",
+      "date": "2021-02-26T05:35:07.322Z",
+      "type": "Tv Show"
+    },
+    {
+      "title": "Leap Year",
+      "imgURL": "https://m.media-amazon.com/images/M/MV5BYmYzYzBmYmItMDZhMy00NTQyLTk1NzUtYTU5NTgyYmIzYmE3XkEyXkFqcGdeQXVyMTE2MjAzMTU3._V1_UY1200_CR99,0,630,1200_AL_.jpg",
+      "description": "The movie revolves around Anna who is in relationship with Jeremy for 4 years. Waiting for Jeremy to purpose her, she decides to travel to Dublin to propose marriage to Jeremy on Leap Day in accordance with an old Irish tradition. On her trip to Dublin, she meets Declan and thing starts getting complicated. Overall, movie is weak, unfunny for large parts, and zero spark between the leads. Apart from this, the only thing worth sticking is the beauty of the Ireland.",
+      "date": "2021-01-30T05:35:07.322Z",
+      "img_name": "leap_year.jpg",
+      "type": "Movie"
+    },
+    {
+      "title": "The White Tiger",
+      "imgURL": "https://m.media-amazon.com/images/M/MV5BYmYzYzBmYmItMDZhMy00NTQyLTk1NzUtYTU5NTgyYmIzYmE3XkEyXkFqcGdeQXVyMTE2MjAzMTU3._V1_UY1200_CR99,0,630,1200_AL_.jpg",
+      "description": "Based on the book with the same name, The white tiger tells the story of the class inequality and the emphasis on the relationship between a master and a servant and how the anger burning inside the servant finally leads to betraying his own master and killing him. The cinematography is on point. Great storytelling. The only thing lacking to become the next Slumdog Millionaire is the emotional aspect. Include that and we could have potentially witnessed another master class.",
+      "date": "2021-01-23T05:35:07.322Z",
+      "img_name": "the_white_tiger.jpg",
+      "type": "Movie"
+    },
+    {
       "title": "American Beauty",
       "imgURL": "https://m.media-amazon.com/images/M/MV5BYmYzYzBmYmItMDZhMy00NTQyLTk1NzUtYTU5NTgyYmIzYmE3XkEyXkFqcGdeQXVyMTE2MjAzMTU3._V1_UY1200_CR99,0,630,1200_AL_.jpg",
       "description": "Another Kevin Spacey classic. Few scenes were really epic and you can relate a lot with the character. 'Both my wife and daughter think I'm this chronic loser' and 'less than a year I will be dead. Of course I don't know that yet, and in a way, I am dead already.' hits really hard. Overall the movie will be more relatable once I'm in the same age bracket. It's not much relatable for me at the time but I can see most of the things happenning to me when I'm in my 60s...",

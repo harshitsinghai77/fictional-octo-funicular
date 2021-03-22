@@ -1,7 +1,7 @@
 ---
 title: "Everything you need to know before starting with Machine Learning"
-excerpt: "This is all the fundamental concepts you need to know before you began your machine learning journey. So grab a coffee and let's get started"
-coverImage: "https://images.unsplash.com/photo-1552641267-7f060a89a292?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
+excerpt: "All the fundamental concepts you need to know before you began your machine learning journey. So grab a coffee and let's get started"
+coverImage: "https://images.unsplash.com/photo-1501619757722-90657a99803b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
 date: "2021-01-11T12:04:07.322Z"
 author:
   name: Harshit Singhai
@@ -12,7 +12,23 @@ ogImage:
 
 ## When to use machine learning?
 
-If you don't know this and then it's going to be really difficult. First get a good understanding of where machine learning is being currently used and what does the future holds and then come back to the article. I'll be waiting...
+I would recommend to go online and read about where machine learning is being currently used and how tech companies are leveraging it before coming back to the article.
+
+In broader terms, use machine learning for the following situations:
+
+1. You cannot code the rules: Many human tasks (such as recognizing whether an email is spam or not spam) cannot be adequately solved using a simple (deterministic), rule-based solution. A large number of factors could influence the answer. When rules depend on too many factors and many of these rules overlap or need to be tuned very finely, it soon becomes difficult for a human to accurately code the rules. You can use ML to effectively solve this problem.
+
+2. You cannot scale: You might be able to manually recognize a few hundred emails and decide whether they are spam or not. However, this task becomes tedious for millions of emails. ML solutions are effective at handling large-scale problems.
+
+## Examples of Machine Learning Application
+
+1. Analyzing images of products on a production line to automatically classify them
+2. Detecting tumors in brain scans
+3. Automatically classifying news articles
+4. Automatically flagging offensive comments on discussion forums
+5. Summarizing long documents automatically
+6. Creating a chatbot or a personal assistant
+7. Recommending a product that a client may be interested in, based on past purchases
 
 ## Different types of machine learning systems
 
@@ -89,4 +105,92 @@ This is can be automated fairly easily using Tensorflow Extended (TFX) or Kubefl
 
 In some cases such as generative adversial neural network, training using the full set of data can take many hours, so you would typically train a new system only every 24 hours or even just weekly. If your system needs to adapt to rapidly changing data (e.g., to predict stock prices), then you need a more better solution.
 
-Also, training on the full set of data requires a lot of computing resources (CPU, memory space, disk space, disk I/O, network I/O, etc.). If the amount of data is huge, it may even be impossible to use a batch learning algorithm.
+Also, training on the full set of data requires a lot of computing resources (CPU, memory space, disk space, disk I/O, network I/O, etc.). If the amount of data is huge, it may end up costing you a lot of money and might even be impossivle to use a batch learning algorithm.
+
+### Online Learning
+
+In online learning, you train the system incrementally by feeding it data instances sequentially, either individually or in small groups called mini-batches. Each learning step is fast and cheap, so the system can learn about new data on the fly, as it arrives.
+
+One parameter of online learning systems in how fast should they adapt to the changing rate. If you set a high learning rate,then your system will rapidly adapt to new data, but it will also tend to quickly forget the old data (you don’t want a spam filter to flag only the latest kinds of spam it was shown). Conversely, if you set a low learning rate, the system will have more inertia; that is, it will learn more slowly, but it will also be less sensitive to noise in the new data or to sequences of nonrepresentative data points. Also, you have to make sure bad data is not fed to the system else the system's performance will gradually decline.
+
+## Instance-Based Versus Model-Based Learning
+
+There are two main approaches to generalization: instance-based learning and model-based learning.
+
+### Instance-Based Learning
+
+In instance based leaening, the system learns the examples by heart, then then generalizes to new cases by using a similarity measure to compare them to the learned examples. For example, the new instance would be classified as a triangle because the majority of the most similar instances belong to that class.
+
+This requires a measure of similarity between two emails. A (very basic) similarity measure between two emails could be to count the number of words they have in common. The system would flag an email as spam if it has many words in common with a known spam email.
+
+### Model-Based Learning
+
+In model based learning, we generalize from a set of examples by building a model using these examples.
+
+In this learning, we need to specify a performance measure, think of it like a utlity function, that measures how good a model, or define a cost function that measures how bad it is.
+
+For example, we can train a Linear Regression algorithm by feeding it our training examples, it finds the parameters that make the linear model fit best to our data. This is called training the model. Training the model is nothing but finding the optimal parameter values for the mathematical equation.
+
+Training a model means running an algorithm to find the model parameters that will make it best fit the training data (and hopefully make good predictions on new data).
+
+## A very basic typical Machine Learning project workflow
+
+Although in reality a machine learning workflow could be really complex and may invlove lot of complex steps. But the following steps must be present in all of the machine learning projects:
+
+1. You studied the data.
+2. You selected a model.
+3. You trained it on the training data (i.e., the learning algorithm searched for the model parameter values that minimize a cost function).
+4. Finally, you applied the model to make predictions on new cases (this is called inference), hoping that this model will generalize well.
+
+## Challenges of Machine Learning
+
+### Insufficient Quantity of Training Data
+
+It takes a lot of data for most Machine Learning algorithms to work properly. Even for very simple problems you typically need thousands of examples, and for complex problems such as image or speech recognition you may need millions of examples (unless you can reuse parts of an existing model).
+
+### Nonrepresentative Training Data
+
+Your training data must be able to generalize well, if the sample is too small, you will have a sampling noise, but even very large sample can be nonrepresentative if the sampling method is flawed. This is called sampling bias.
+
+### Poor-Quality Data
+
+Obviously, if your training data is full of errors, outliers, and noise (e.g., due to poor-quality measurements), it will make it harder for the system to detect the underlying patterns, so your system is less likely to perform well. It is often well worth the effort to spend time cleaning up your training data. The truth is, most data scientists spend a significant part of their time doing just that.
+
+### Irrelevant Features
+
+As the saying goes: garbage in, garbage out. Your system will only be capable of learning if the training data contains enough relevant features and not too many irrelevant ones. A critical part of the success of a Machine Learning project is coming up with a good set of features to train on. This process, called feature engineering, involves the following steps:
+
+1. Feature selection (selecting the most useful features to train on among existing features)
+2. Feature extraction (combining existing features to produce a more useful one⁠—as we saw earlier, dimensionality reduction algorithms can help)
+3. Creating new features by gathering new data
+
+### Overfitting the Training Data
+
+Overfitting means that the model performs well on the training data, but it does not generalize well. Complex models such as deep neural networks can detect subtle patterns in the data, but if the training set is noisy, or if it is too small (which introduces sampling noise), then the model is likely to detect patterns in the noise itself. Obviously these patterns will not generalize to new instances.
+
+Overfitting happens when the model is too complex relative to the amount and noisiness of the training data. Here are possible solutions:
+
+1. Simplify the model by selecting one with fewer parameters (e.g., a linear model rather than a high-degree polynomial model), by reducing the number of attributes in the training data, or by constraining the model.
+2. Gather more training data.
+3. Reduce the noise in the training data (e.g., fix data errors and remove outliers).
+
+### Underfitting the Training Data
+
+As you might guess, underfitting is the opposite of overfitting: it occurs when your model is too simple to learn the underlying structure of the data.
+
+Here are the main options for fixing this problem:
+
+1. Select a more powerful model, with more parameters.
+2. Feed better features to the learning algorithm (feature engineering).
+3. Reduce the constraints on the model (e.g., reduce the regularization hyperparameter).
+
+### Data Mismatch
+
+In some cases, it’s easy to get a large amount of data for training, but this data probably won’t be perfectly representative of the data that will be used in production.
+
+## Summary
+
+1. Machine Learning is about making machines get better at some task by learning from data, instead of having to explicitly code rules.
+2. There are many different types of ML systems: supervised or not, batch or online, instance-based or model-based.
+3. In an ML project you gather data in a training set, and you feed the training set to a learning algorithm.
+4. The system will not perform well if your training set is too small, or if the data is not representative, is noisy, or is polluted with irrelevant features (garbage in, garbage out). Lastly, your model needs to be neither too simple (in which case it will underfit) nor too complex (in which case it will overfit).

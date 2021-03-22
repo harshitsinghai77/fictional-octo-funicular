@@ -1,7 +1,7 @@
 ---
 title: "HTTP Requests with Go"
 excerpt: "In this blog post, were going to see how we can make http requests using Go. We cover all the basic http requests like GET, POST and others. How to use json encoder and decoder and other things."
-coverImage: "https://storage.googleapis.com/gopherizeme.appspot.com/gophers/db248fdd04d02e221b1f72ea10c85ccba1797b18.png"
+coverImage: "https://images.unsplash.com/photo-1485470733090-0aae1788d5af?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=791&q=80"
 date: "2020-11-17T01:24:07.322Z"
 author:
   name: Harshit Singhai

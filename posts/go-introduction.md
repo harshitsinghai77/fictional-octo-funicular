@@ -1,7 +1,7 @@
 ---
 title: "Glorified hello world with Go"
 excerpt: "A hitchinker guide to all the basics of Golang. This post is all you need to get started with the Go programming language. It covers all the basics in depth to help you get started with Go. If you're a novice developer or have some experience working with Python or Javascript and wants to make transaction to go, this post is more than enough to get onboard with your Go journey... I promise"
-coverImage: "https://storage.googleapis.com/gopherizeme.appspot.com/gophers/3c1677f739756b052a83c53ba8325eb66ad330cb.png"
+coverImage: "https://images.unsplash.com/photo-1440964829947-ca3277bd37f8?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mzh8fHdhbGxwYXBlcnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
 date: "2020-11-16T01:56:07.322Z"
 author:
   name: Harshit Singhai

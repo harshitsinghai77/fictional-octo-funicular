@@ -8,7 +8,7 @@ export default function MoviesCard({ movie }) {
           <div className="mb-5 bg-white">
             <img
               className="rounded-md max-h-96 object-contain"
-              src={`/images/movies/${el.img_name}`}
+              src={el.img_name ? `/images/movies/${el.img_name}` : el.imgURL}
               alt={`my movie - ${el.title}`}
             />
           </div>
