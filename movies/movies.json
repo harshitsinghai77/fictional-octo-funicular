@@ -2,6 +2,27 @@
   "updated_at": "12-29-2020",
   "movies": [
     {
+      "title": "Steve Jobs 2015",
+      "imgURL": "https://i.pinimg.com/564x/8e/97/d6/8e97d600f06c9f6fa6a47c764c8d193c.jpg",
+      "description": "Todo...",
+      "date": "2021-04-11T05:35:07.322Z",
+      "type": "Movie"
+    },
+    {
+      "title": "The Imitation Game",
+      "imgURL": "https://occ-0-1723-1722.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAABcgvVma9Vn9qBHh5ggKwR-1Wyy8FtY1C6bfWCdI3lTJ4rXT9U8zKfMg3xekG8xKx63YpZaNvaw4Rn4skUDJPciS54fhAxoKU4w.jpg",
+      "description": "Todo...",
+      "date": "2021-03-29T05:35:07.322Z",
+      "type": "Movie"
+    },
+    {
+      "title": "Lady In The Van",
+      "imgURL": "https://i2.netflixmovies.com/dibsl9ebc/image/upload/w_600,h_891,c_lfill,g_north/rf971xtivoedkfdsvmmq.jpg",
+      "description": "A sweet watch. There is nothing much to be taken from the movie except few good scenes and magnificent Maggie Smith. It's a touching story of human connections, but feels like a very forgettable movie. The acting is on point and make it worth while watching it but nothing to take home once the movie ends.",
+      "date": "2021-03-22T05:35:07.322Z",
+      "type": "Movie"
+    },
+    {
       "title": "Behind her eyes",
       "imgURL": "https://m.media-amazon.com/images/M/MV5BMDk2Njg0ZTUtNTFjZS00NzUwLWEwZDQtZTg5MDZiMmJhNGEzXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg",
       "description": "The last episode was worth the mediocrity of first few episodes. The series is short with only 6 episodes. Nothing much in the first few episodes to be honest. The mystery unfolds as we move on, the last episode in particular will hold you by your nerves as the plot unfolds leaving you wanting more. Great watch, just hold on for a while, and be patience before the story gets interesting. Be ready for the last episode to take you by surprise and blow the charts.",
@@ -107,7 +128,7 @@
     {
       "title": "The Good Doctor",
       "imgURL": "https://images-na.ssl-images-amazon.com/images/I/51tBFj0%2BqvL._AC_SX385_.jpg",
-      "description": "I'll recommend it in a heartbeat. Totally worth. You can't help but fall in love with Dr.Murphy. I like how each character has developed from day one till now, Murphy specifically. The detailing of emotions and thoughts and creativity of solving the problems by thinking out of box every thing is amazing about the show!",
+      "description": "I'll recommend it in a heartbeat. Totally worth. You can't help but fall in love with Dr.Murphy. Murphy character development is amazing given he has Autism. All the episodes will interesting enough to keep you hooked, and wanting more.",
       "date": "2020-07-23T05:35:07.322Z",
       "img_name": "the_good_doctor.jpg",
       "type": "Tv Show"

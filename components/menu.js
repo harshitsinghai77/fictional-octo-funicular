@@ -37,7 +37,7 @@ export default function Alert({ preview }) {
                   </a>
                   .
                 </div>
-                <div className="main-header">
+                <div>
                   <Link href="/">
                     <a className="mx-1">Home</a>
                   </Link>
