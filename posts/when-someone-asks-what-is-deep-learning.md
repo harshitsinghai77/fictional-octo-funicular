@@ -2,7 +2,7 @@
 title: "When some one asks what is Deep Learning?"
 excerpt: "This post is the defination of deep learning in a nutshell. You may need some prior information or some basic idea of what a neural network is. This is not for complete begineers, but if you're familiar with the lingo, then this will help you to have a clearer defination of what deep learning is or does."
 coverImage: "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80"
-date: "2020-11-18T15:49:07.322Z"
+date: "2020-11-22T15:49:07.322Z"
 author:
   name: Harshit Singhai
   picture: "/images/profile.jpg"

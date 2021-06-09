@@ -1,5 +1,5 @@
 ---
-title: "Data Orchestration  - Airflow"
+title: "Data Orchestration with Airflow"
 excerpt: "Data Orchestration is the automation of data-driven processes from end-to-end, including preparing data, making decisions based on that data, and taking actions based on those decisions. It's a process that often spans across many different systems, departments, and types of data."
 coverImage: "https://images.unsplash.com/photo-1538474705339-e87de81450e8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
 date: "2021-05-20T12:04:07.322Z"

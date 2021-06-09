@@ -49,6 +49,10 @@ export default function Alert({ preview }) {
                   <Link href="/movies">
                     <a className="mx-1">Movie logs</a>
                   </Link>
+
+                  <Link href="/chelsea-2021">
+                    <a className="mx-1">Chelsea UCL</a>
+                  </Link>
                 </div>
               </div>
             </>
