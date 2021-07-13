@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Agile for Software Engineers."
+title: "Introduction to Agile for Software Engineers"
 excerpt: "Have you ever wondered how the agile team organizes their software development process? Having been working in a young startup as a software engineer intern I learned a thing or two about agile."
 coverImage: "https://miro.medium.com/max/973/1*MjyqGl4vnururnqcyldpYQ.jpeg"
 date: "2019-08-17T12:04:07.322Z"

@@ -124,7 +124,7 @@ Chance to work in new technologies that helped me pick up in-demand skills. It a
 
 Tech is just a tool, try to look at things from a business perspective, figure out what the customers want. Other things are equally crucial. Try not to be too tech-centric.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L90ywD3vc1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="90%" height="315" src="https://www.youtube.com/embed/L90ywD3vc1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## My takeaway
 

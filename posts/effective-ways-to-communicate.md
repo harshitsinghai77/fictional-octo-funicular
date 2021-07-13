@@ -1,5 +1,5 @@
 ---
-title: "Effective ways to communicate."
+title: "Effective ways to communicate"
 excerpt: "Good communication is a must have skill If you want to be an effective leader, the time and effort you put into improving your communication skills is one of the best investments that you can make in your career."
 coverImage: "https://images.unsplash.com/photo-1610984781854-e74efe3d6ab5?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
 date: "2021-01-30T12:04:07.322Z"

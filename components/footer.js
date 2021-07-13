@@ -9,9 +9,8 @@ export default function Footer() {
             May the Source be with you 🚀
           </h3>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
-            <p className="mx-3 bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0">
-              Persistence is very important. You should not give up unless you
-              are forced to give up. - Elon Musk
+            <p className="mx-3 bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-8 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0">
+              A lion doesn’t concern himself with the opinions of a sheep.
             </p>
           </div>
         </div>
