@@ -1,7 +1,7 @@
 ---
 title: "Noisli - Your digital place for focus"
-excerpt: "Noisli - Your digital place for focus. Noisli allows you to create your own personalized environment. Cancel background distraction and become more productive with Noisli."
-coverImage: "https://images.unsplash.com/photo-1542614362-4152151cf0cb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
+excerpt: "Noisli allows you to create your own personalized environment. Cancel background distraction and become more productive with Noisli."
+coverImage: "https://images.unsplash.com/photo-1588392382834-a891154bca4d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=755&q=80"
 date: "2021-06-15T12:04:07.322Z"
 author:
   name: Harshit Singhai
@@ -12,7 +12,15 @@ ogImage:
 
 Noisli is your little helper and companion no matter if you need to focus, tune out other noises or if you want to have a moment of calm and relax.
 
-# [Click here to check the Demo](https://noisli.netlify.app/)
+With Noisli you can mix and match different sounds in order to
+create your perfect sound environment. In places where it is
+either too loud or too quiet, Noisli helps to mask annoying
+noises and to create a pleasant sound environment in order to stay
+focused and relax.
+
+## [Be Productive with Noisli](https://noisli-landing-page.netlify.app/)
+
+## [Get started with Noisli](https://noisli.netlify.app/)
 
 ![noisli-your-digital-place-to-focus](https://i.ibb.co/y5XkhmM/a68935094797.png)
 
@@ -69,7 +77,20 @@ Chose among 16 high quality background sounds and adjust the volume for each of 
 # Advanced Setting for your workflow
 
 Noisli offers customized settings to help you have the most productive day.
+<img src="https://i.ibb.co/RYNm0Db/timer-settings.png" width="80%" />
 
-![noisli-your-digital-place-to-focus](https://i.ibb.co/BN8b4Kh/90d04889cf06.png)
+# Get Analytics
 
-## [Try Noisli Now - https://noisli.netlify.app/](https://noisli.netlify.app/) 
+Keep track of how your week looks like with Noisli.
+
+Analytics help you get insights and keep track of how productive your day was. Set the timer and start working. Our analytics updates after every Pomodoro session.
+
+<img src="https://i.ibb.co/mqs36Gx/analytics.png" width="80%" />
+
+# Customize your environment
+
+Have full customizability over your environment. Chose between dynamic and static background color and how many seconds should the background color change. Anything to help you create the perfect environment 🙂.
+
+<img src="https://i.ibb.co/Yhm3zKz/preference.png" width="80%" />
+
+## [Try Now - https://noisli.netlify.app/](https://noisli-landing-page.netlify.app/)

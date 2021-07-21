@@ -7,20 +7,30 @@ export default function Intro() {
         Fictionally Irrelevant.
       </h1>
       <h4 className="text-center xl:text-left lg:text-left text-lg mt-5 lg:pl-8">
-        My daily learnings. Could be relevant, most probably Irrelevant. &nbsp;
+        Hey I'm Harshit, software engineer currently based in India. Interested
+        in Data Engineering and MLOps.
+        <br />
         <a
-          href="https://harshitsinghai77.github.io/"
+          href="https://noisli-landing-page.netlify.app/"
           target="_blank"
           className="underline hover:text-success duration-200 transition-colors"
         >
-          Check out my website
+          Current Side Project - Noisli
         </a>
-        &nbsp;&&nbsp;
+        <br />
+        <a
+          href="https://github.com/harshitsinghai77"
+          target="_blank"
+          className="underline hover:text-success duration-200 transition-colors"
+        >
+          Check out my Github
+        </a>
+        {/* &nbsp;&&nbsp;
         <Link href="/devlogs">
           <a className="underline hover:text-success duration-200 transition-colors">
-            Devlogs
+            Check my Devlogs
           </a>
-        </Link>
+        </Link> */}
       </h4>
     </section>
   );
