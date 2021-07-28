@@ -18,9 +18,9 @@ either too loud or too quiet, Noisli helps to mask annoying
 noises and to create a pleasant sound environment in order to stay
 focused and relax.
 
-## [Be Productive with Noisli](https://noisli-landing-page.netlify.app/)
+[**Be Productive with Noisli**](https://noisli-landing-page.netlify.app/)
 
-## [Get started with Noisli](https://noisli.netlify.app/)
+[**Get started with Noisli**](https://noisli.netlify.app/)
 
 ![noisli-your-digital-place-to-focus](https://i.ibb.co/y5XkhmM/a68935094797.png)
 
