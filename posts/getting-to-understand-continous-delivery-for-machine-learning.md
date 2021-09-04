@@ -10,9 +10,23 @@ ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
 
-In this article, we're going to go through some reasons why it's a good idea to package and automate continous delivery for machine learning projects.
+In this article, we're going to discuss some reasons why you should package and automate continous delivery for your machine learning projects.
 
-## Critical checks you can add to verify a packaged model in a container is built correctly
+## What does packaging a container mean?
+
+Packaging a container means deploying it as a Docker container so that it can be easily deployed within the organization's kubernetes cluster.
+
+It also makes it easier for other developer to install and run your project without installing and setting up the project in the local environment.
+
+It's recommend to package your machine learning model into a container for ease of access, portabillity, sharing, distributing, and easy deployment.
+
+## What are characteristics of package machine learning models?
+
+1. Once the ml model is packaged as a container, it is effortless to run a container locally.
+2. Deploy the container in the cloud.
+3. Other can quickly try it out and interact with the container.
+
+## Critical checks you should add to verify a packaged model in a container is built correctly
 
 1. Automated Checks
 
@@ -59,21 +73,9 @@ Few reasons why you should consider cloud pipeline over Github Actions is that c
 
 Those features don’t exist in other common platforms like Github Actions, or if they do, they aren’t as well-thought-out because the primary goal of platforms like Github Actions or Jenkins isn’t to train machine learning models, but rather be as generic as possible to accommodate for most common use cases.
 
-Also, specialized machines for training (for example, GPU intensive tasks) are just not available or hard to configure in a generic pipeline offering like GH.
+Also, specialized machines for training (for example, GPU intensive tasks) are just not available or hard to configure in a generic pipeline offering like Github Actions.
 
-## What does packaging a container mean?
-
-Packaging a container means deploying it as a Docker container so that it can be easily deployed within the organization's kubernetes cluster.
-
-It also makes it easier for other developer to install and run your project without installing and setting up the project in the local environment.
-
-It's recommend to package your machine learning model into a container for ease of access, portabillity, sharing, distributing, and easy deployment.
-
-## What are characteristics of package machine learning models?
-
-1. Once the ml model is packaged as a container, it is effortless to run a container locally.
-2. Deploy the container in the cloud, with the ability to scale up or down as needed.
-3. Other can quickly try it out and interact with the container.
+## Conclusion
 
 I hope you are now convinced why you should package your machine learning model inside a container and automate Continous Integration in your next machine learning project.
 

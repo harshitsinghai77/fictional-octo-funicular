@@ -17,14 +17,14 @@ EDA for me is the most monotonous yet crucial task in the machine learning pipel
 > At a high level, EDA is the practice of describing the data by means of statistical and visualization techniques to bring important aspects of that data into focus for further analysis.This involves looking at your data set from many angles, describing it, and summarizing it without making any assumptions about its contents.
 
 ## Pandas-profiling
-[https://pypi.org/project/pandas-profiling/](https://pypi.org/project/pandas-profiling/)
 
+[https://pypi.org/project/pandas-profiling/](https://pypi.org/project/pandas-profiling/)
 
 `pip install pandas-profiling`
 
 For the dataset, I’ve used [The Complete Pokemon Dataset](https://www.kaggle.com/rounakbanik/pokemon) from Kaggle. Download the zip file and extract the pokemon.csv file.
 
-Import the libraries. 
+Import the libraries.
 
 ```python
 import pandas as pd
