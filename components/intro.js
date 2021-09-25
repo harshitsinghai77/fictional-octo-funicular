@@ -11,11 +11,11 @@ export default function Intro() {
         in Data Engineering and MLOps.
         <br />
         <a
-          href="https://noisli-landing-page.netlify.app/"
+          href="https://nemo-landing-page.netlify.app/"
           target="_blank"
           className="underline hover:text-success duration-200 transition-colors"
         >
-          Current Side Project - Noisli
+          Current Side Project - Nemo
         </a>
         <br />
         <a

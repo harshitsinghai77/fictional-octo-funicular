@@ -1,7 +1,7 @@
 ---
 title: "Always keep your word."
 excerpt: "One of the most underrated trait for growth and to become successful is the power of keeping your word."
-coverImage: "https://images.unsplash.com/photo-1502082553048-f009c37129b9"
+coverImage: "https://images.unsplash.com/photo-1482148454461-aaedae4b30bb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80"
 date: "2021-08-07T12:04:07.322Z"
 author:
   name: Harshit Singhai
