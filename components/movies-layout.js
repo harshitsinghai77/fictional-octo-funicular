@@ -8,7 +8,7 @@ export default function MoviesLayout({ children }) {
   return (
     <>
       <Menu />
-      <div className="mt-16 mx-28">
+      <div className="mt-16 mx-28 xs:mx-10">
         <SEO title="Movielogs | Harshit" />
         <div className={styles.header}>
           <h1 className={utilStyles.headingLg}>Movies Logs</h1>

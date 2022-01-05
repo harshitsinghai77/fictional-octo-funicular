@@ -2,7 +2,7 @@ import DateFormatter from "./date-formatter";
 
 export default function BooksCard({ books }) {
   return (
-    <div className="grid gap-5 grid-cols-3 sm:grid-cols-2 md:grid-cols-2">
+    <div className="grid gap-5 grid-cols-3 sm:grid-cols-2 md:grid-cols-2 xs:grid-cols-1">
       {books.map((el, index) => (
         <div className="mb-14 " key={index}>
           <div className="mb-5 bg-white">

@@ -106,6 +106,6 @@ runMain();
 
 ## Rarible Collection
 
-[https://rinkeby.rarible.com/collection/0x2Ab703e0b960698215AFd3Ec55c33A6CDcf31823](https://rinkeby.rarible.com/collection/0x2Ab703e0b960698215AFd3Ec55c33A6CDcf31823)
+[Click here to see the collection](https://rinkeby.rarible.com/collection/0x2Ab703e0b960698215AFd3Ec55c33A6CDcf31823)
 
 That’s it for today, see you soon. :)

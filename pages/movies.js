@@ -2,7 +2,6 @@
 // import DateFormatter from "../components/date-formatter";
 import MoviesLayout from "../components/movies-layout";
 import MovieCards from "../components/movies-body";
-import utilStyles from "../styles/utils.module.css";
 import { getMovieData } from "../lib/movie-api";
 
 export function getStaticProps() {
@@ -19,7 +18,7 @@ export default function MovieLogs({ movie }) {
     <>
       <MoviesLayout>
         <div className="mt-5 mb-10">
-          <p className={utilStyles.headingSd}>
+          <p className="text-base">
             The main purpose of the movie logs is to help me identify and keep
             track of all the movies and tv shows I watch during a year. It helps
             me stay accountable to myself and serves as a historical record that
