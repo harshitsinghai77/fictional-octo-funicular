@@ -1,0 +1,19 @@
+{
+  "updated_at": "05-01-20222",
+  "books": [
+    {
+      "title": "Dopamine Nation",
+      "imgURL": "https://images-na.ssl-images-amazon.com/images/I/61wKKrcUO7L.jpg",
+      "description": "Todo...",
+      "date": "2022-01-05T05:35:07.322Z",
+      "author": "Dr. Anna Lembke"
+    },
+    {
+      "title": "YOU",
+      "imgURL": "https://images-na.ssl-images-amazon.com/images/I/61LV9hXE7fL.jpg",
+      "description": "Todo...",
+      "date": "2022-01-04T05:35:07.322Z",
+      "author": "Caroline Kepnes"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 ---
 title: "Use Brave if you're not using it already."
 excerpt: "Three times faster than Chrome. Better privacy by default than Firefox. Uses 35% less battery on mobile."
-coverImage: "https://miro.medium.com/max/1400/1*SzoDqFU1xb2t1jWxyIpQvw.jpeg"
+coverImage: "https://images.unsplash.com/photo-1517649281203-dad836b4abe5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
 date: "2021-10-17T12:04:07.322Z"
 author:
   name: Harshit Singhai

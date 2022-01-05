@@ -47,7 +47,11 @@ export default function Alert({ preview }) {
                   </Link>
 
                   <Link href="/movies">
-                    <a className="mx-1">Movie logs</a>
+                    <a className="mx-1">Movies</a>
+                  </Link>
+
+                  <Link href="/books">
+                    <a className="mx-1">Books</a>
                   </Link>
                 </div>
               </div>

@@ -4,14 +4,14 @@ import styles from "../styles/layout.module.css";
 import utilStyles from "../styles/utils.module.css";
 import Footer from "./footer";
 
-export default function MoviesLayout({ children }) {
+export default function BooksLayout({ children }) {
   return (
     <>
       <Menu />
       <div className="mt-16 mx-28">
-        <SEO title="Movielogs | Harshit" />
+        <SEO title="BooksLogs | Harshit" />
         <div className={styles.header}>
-          <h1 className={utilStyles.headingLg}>Movies Logs</h1>
+          <h1 className={utilStyles.headingLg}>Books Logs</h1>
         </div>
         <main>{children}</main>
       </div>
