@@ -8,7 +8,7 @@ export default function BooksLayout({ children }) {
   return (
     <>
       <Menu />
-      <div className="mt-16 mx-28 xs:m-8">
+      <div className="mt-16 mx-28 xs:mx-10">
         <SEO title="BooksLogs | Harshit" />
         <div className={styles.header}>
           <h1 className={utilStyles.headingLg}>Books Logs</h1>

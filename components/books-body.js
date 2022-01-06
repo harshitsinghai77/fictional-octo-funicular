@@ -4,10 +4,10 @@ export default function BooksCard({ books }) {
   return (
     <div className="grid gap-5 grid-cols-3 sm:grid-cols-2 md:grid-cols-2 xs:grid-cols-1">
       {books.map((el, index) => (
-        <div className="mb-14 " key={index}>
+        <div className="mb-14 xs:mb-0" key={index}>
           <div className="mb-5 bg-white">
             <img
-              className="rounded-md max-h-96 w-4/5 object-contain"
+              className="rounded-md max-h-96 w-auto xs:ml-4 object-contain"
               src={el.img_name ? `/images/movies/${el.img_name}` : el.imgURL}
               alt={`my movie - ${el.title}`}
             />
