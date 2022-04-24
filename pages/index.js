@@ -27,7 +27,7 @@ export default function Home({ allPosts }) {
   const siteTitle = "Fictionally Irrlevant";
   return (
     <>
-      <Layout>
+      <Layout defaultSEOImage={true}>
         <SEO title={siteTitle} />
         <Container>
           <Intro />

@@ -5,8 +5,9 @@ export default function Intro() {
         Fictionally Irrelevant.
       </h1>
       <h4 className="text-center xl:text-left lg:text-left text-lg mt-5 lg:pl-8">
-        Hey I'm Harshit, software engineer currently based in India. Interested
-        in Data Engineering and MLOps.
+        Hey I'm Harshit, Software Engineer currently based in India. Interested
+        in Data Engineering and MLOps. I've experience working with 4 different
+        startups as a Software Engineer.
         <br />
         <a
           href="https://nemo-landing-page.netlify.app/"

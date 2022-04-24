@@ -1,0 +1,2 @@
+prod:
+	npx vercel --prod

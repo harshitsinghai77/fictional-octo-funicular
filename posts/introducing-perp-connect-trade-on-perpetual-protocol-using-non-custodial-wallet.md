@@ -30,9 +30,15 @@ Do things better with Perp Connect:
 6. View historical price action on a tradingview chart directly in the app.
 7. Sign in using Google, Discord, Twitter, Apple.
 
-# Tech
+## Tech
 
 Perp Connect iOS and macOS app are built on top of Swift. The backend is built using Python and web3.py and hosted on AWS Lambda.
+
+## Contribution
+
+You can check my contributions here.
+
+[https://github.com/Perpconnect/backend/commits/main](https://github.com/Perpconnect/backend/commits/main)
 
 ## Website
 
@@ -47,5 +53,7 @@ Perp Connect iOS and macOS app are built on top of Swift. The backend is built u
 [https://www.perp.fi/](https://www.perp.fi/)
 
 [https://perp.monkeydagger.tech/](https://perp.monkeydagger.tech/)
+
+## Conclusion
 
 That’s it for today, see you soon. :)

@@ -1,6 +1,6 @@
 ---
 title: "Everything you need to know to upload Images to IPFS"
-excerpt: "Everything I learned while working with image and IPFS."
+excerpt: "Everything I learned while working with image in IPFS."
 coverImage: "https://miro.medium.com/max/10418/1*OB3Vk1P6L6iHoHAQGYROXw.png"
 date: "2021-12-28T12:04:07.322Z"
 author:
@@ -10,7 +10,15 @@ ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
 
-Code snippet to add user uploaded image, SVG images or base64 images to IPFS.
+The InterPlanetary File System is a protocol and peer-to-peer network for storing and sharing data in a distributed file system. IPFS uses content-addressing to uniquely identify each file in a global namespace connecting all computing devices.
+
+Simply put, IPFS is the easiest way to store data on the decentralized web.
+
+In this blog post we're going to look at how to uploaded image, SVG images or base64 images to IPFS.
+
+## web3.storage
+
+To find more about storage in web3, do check [https://web3.storage/](https://web3.storage/)
 
 # Getting Started with IPFS using React.
 
@@ -38,7 +46,7 @@ export const retrieveImageFromIPFS = (ipfsHash) => {
 };
 ```
 
-## Upload Image using react-dropzone and Send it to IPFS
+## Upload Image using react-dropzone
 
 ```javascript
 import React, { useCallback, useState } from "react";
@@ -147,8 +155,7 @@ export const convertSVGToBuffer = async (svgElement) => {
 ```
 
 This function will take someText as an input, will create a SVG and return it as a static markup.
-
-Here's how to send your awesome SVG to IPFS
+Now you can upload your awesome SVG to IPFS.
 
 ```javascript
 const uploadTextSVGToIpfs = async () => {
@@ -163,7 +170,7 @@ const uploadTextSVGToIpfs = async () => {
 
 ## Upload Base64 encoded image to IPFS
 
-Here's how to directly upload base64 encoded image to IPFS.
+Directly upload base64 encoded image to IPFS.
 
 ```javascript
 const base64EncodedImageToIPFS = async (base64ImageString) => {
@@ -176,5 +183,7 @@ const base64EncodedImageToIPFS = async (base64ImageString) => {
 ```
 
 `base64EncodedImageToIPFS` will take base64 image as an input, will convert it too blob, create a file object from the blob and upload the file to ipfs.
+
+## Conclusion
 
 That’s it for today, see you soon. :)

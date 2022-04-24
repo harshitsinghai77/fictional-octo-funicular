@@ -17,7 +17,7 @@ export default function Post({ post, morePosts, preview }) {
   }
 
   return (
-    <Layout preview={preview}>
+    <Layout preview={preview} defaultSEOImage={false}>
       <Container>
         <Header />
         {router.isFallback ? (
@@ -27,7 +27,8 @@ export default function Post({ post, morePosts, preview }) {
             <article className="mb-32">
               <SEO
                 title={post.title}
-                description={post.title || "This is the description"}
+                contentDescription={post.title}
+                contentImage={post.coverImage}
               />
               <PostHeader
                 title={post.title}

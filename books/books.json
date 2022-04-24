@@ -14,6 +14,55 @@
       "description": "Todo...",
       "date": "2022-01-04T05:35:07.322Z",
       "author": "Caroline Kepnes"
+    },
+    {
+      "title": "Hidden Bodies",
+      "imgURL": "https://m.media-amazon.com/images/I/414rPCZa9VL.jpg",
+      "description": "Todo...",
+      "date": "2022-01-17T05:35:07.322Z",
+      "author": "Caroline Kepnes"
+    },
+    {
+      "title": "Outliers",
+      "imgURL": "https://images-na.ssl-images-amazon.com/images/I/71oGFD0KrlL.jpg",
+      "description": "Todo...",
+      "date": "2022-01-17T05:35:07.322Z",
+      "author": "Malcolm Gladwell"
+    },
+    {
+      "title": "Unfu*k Yourself",
+      "imgURL": "https://images-na.ssl-images-amazon.com/images/I/A12aMXqNrZL.jpg",
+      "description": "Todo...",
+      "date": "2022-01-18T05:35:07.322Z",
+      "author": "Gary John Bishop"
+    },
+    {
+      "title": "Blink",
+      "imgURL": "https://m.media-amazon.com/images/I/51DYWjJcEzL.jpg",
+      "description": "Todo...",
+      "date": "2022-02-11T05:35:07.322Z",
+      "author": "Malcolm Gladwell"
+    },
+    {
+      "title": "You Love Me",
+      "imgURL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1600863656l/54847920.jpg",
+      "description": "Todo...",
+      "date": "2022-02-22T05:35:07.322Z",
+      "author": "Caroline Kepnes"
+    },
+    {
+      "title": "So Good They Can't Ignore You",
+      "imgURL": "https://www.grandcentralpublishing.com/wp-content/uploads/2017/06/9781455509102.jpg?fit=1709%2C2600",
+      "description": "Todo...",
+      "date": "2022-03-20T05:35:07.322Z",
+      "author": "Cal Newport"
+    },
+    {
+      "title": "A Common-Sense Guide to Data Structures and Algorithms - 2nd Edition",
+      "imgURL": "https://images-na.ssl-images-amazon.com/images/I/81HW8lmRduL.jpg",
+      "description": "Todo...",
+      "date": "2022-04-12T05:35:07.322Z",
+      "author": "Jay Wengrow"
     }
   ]
 }

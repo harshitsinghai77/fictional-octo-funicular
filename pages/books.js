@@ -20,8 +20,8 @@ export default function BookLogs({ books }) {
         <div className="mt-5 mb-10">
           <p className="text-base">
             The main purpose of the book logs is to help me identify and keep
-            track of all the fiction and non-fiction books I've read throughout
-            the year.
+            track of all the fiction and non-fiction books I read throughout the
+            year.
           </p>
         </div>
         <BooksCard books={books} />

@@ -1,6 +1,6 @@
 ---
 title: "System Design - Red Flags"
-excerpt: "Don't do this when desiging system."
+excerpt: "Things to look out for while designing your software system."
 coverImage: "https://images.unsplash.com/photo-1436968188282-5dc61aae3d81?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80"
 date: "2022-01-11T01:56:07.322Z"
 author:

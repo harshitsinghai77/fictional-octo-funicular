@@ -56,7 +56,7 @@ We're using Livepeer for streaming infrastructure, IPFS for information storage 
 
 ## Demo
 
-[https://cautious-palm-tree.vercel.app/](https://cautious-palm-tree.vercel.app/)
+[https://loop-web3.netlify.app/](https://loop-web3.netlify.app/)
 
 ## Showcase
 
@@ -64,6 +64,8 @@ We're using Livepeer for streaming infrastructure, IPFS for information storage 
 
 ## Github
 
-[https://github.com/shreyaspapi/cautious-palm-tree](https://github.com/shreyaspapi/cautious-palm-tree)
+[https://github.com/harshitsinghai77/web3-loop](https://github.com/harshitsinghai77/web3-loop)
+
+## Conclusion
 
 That’s it for today, see you soon. :)

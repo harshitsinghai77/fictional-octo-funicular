@@ -1,7 +1,7 @@
 ---
-title: "Companies innovating using blockchain-based solutions."
-excerpt: "Some Dapps that are innovating with blockchain-based solutions:"
-coverImage: "https://images.unsplash.com/photo-1516214104703-d870798883c5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+title: "Companies innovating using blockchain."
+excerpt: "Which companies are leveraging blockchain and what are they using it for?"
+coverImage: "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80"
 date: "2021-11-18T12:04:07.322Z"
 author:
   name: Harshit Singhai
@@ -9,6 +9,10 @@ author:
 ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
+
+Before beginning my Blockchain journey, I was curiois to find about 2 things. First, which top companies are using blokchain and second, what are they using it for?
+
+Here's a brief summary of what I found.
 
 ## Provenance
 
@@ -25,5 +29,7 @@ Everledger is a Dapp that aims to replace the paper certification process for di
 ## Pfizer
 
 The pharmaceutical company Pfizer is partnering with the biotechnology company Genentech to develop MediLedger, a blockchain-based drug delivery tracking system. The aim is to verify the provenance and authenticity of Pfizer drug deliveries throughout the entire distribution chain to prevent thefts, fraud, and counterfeiting.
+
+## Conclusion
 
 That’s it for today, see you soon. :)

@@ -4,9 +4,9 @@ export default {
     author: {
       name: "Harshit Singhai",
       summary:
-        "Hi, I'm Harshit. I'm a software engineer working at Deepsource.",
+        "Hi, I'm Harshit. I'm a Software Engineer currently based in India.",
     },
-    description: "an island of personal thought",
+    description: "Fictionally Irrelevant.",
     siteUrl: "https://fictionally-irrelevant.vercel.app/",
     language: "en-US",
     social: {

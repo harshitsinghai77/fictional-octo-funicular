@@ -2,6 +2,48 @@
   "updated_at": "12-29-2020",
   "movies": [
     {
+      "title": "Badhaai Do",
+      "imgURL": "https://m.media-amazon.com/images/M/MV5BZjExNGM5MTMtNTFlNy00OThlLTlhYzctOWEzZjQ4MWY3YTUyXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_.jpg",
+      "description": "Todo...",
+      "date": "2022-03-18T05:35:07.322Z",
+      "type": "Tv Show"
+    },
+    {
+      "title": "Locke & Key Season 2",
+      "imgURL": "https://resizing.flixster.com/aY5IjT0sOYLG3KfPfFufY6Mrl8U=/ems.ZW1zLXByZC1hc3NldHMvdHZzZWFzb24vYjc2YmNjZDktMzBjOS00ZTQ4LWJlM2UtZmVlMzA3ZTIwMmUyLmpwZw==",
+      "description": "Todo...",
+      "date": "2022-03-02T05:35:07.322Z",
+      "type": "Tv Show"
+    },
+    {
+      "title": "Locke & Key Season 1",
+      "imgURL": "https://flxt.tmsimg.com/assets/p17699282_b_v13_ab.jpg",
+      "description": "Todo...",
+      "date": "2022-02-13T05:35:07.322Z",
+      "type": "Tv Show"
+    },
+    {
+      "title": "Pushpa: The Rise",
+      "imgURL": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/pushpa--the-rise-et00129538-08-12-2021-01-21-46.jpg",
+      "description": "Todo...",
+      "date": "2022-02-04T05:35:07.322Z",
+      "type": "Movie"
+    },
+    {
+      "title": "Venom (2018)",
+      "imgURL": "https://m.media-amazon.com/images/M/MV5BNzAwNzUzNjY4MV5BMl5BanBnXkFtZTgwMTQ5MzM0NjM@._V1_.jpg",
+      "description": "Todo...",
+      "date": "2022-01-22T05:35:07.322Z",
+      "type": "Movie"
+    },
+    {
+      "title": "Every Day",
+      "imgURL": "https://m.media-amazon.com/images/M/MV5BZTQ0OWM4MTItNmY4NC00ZDMyLTkxZWYtNTU5ZGY4NjBlNWM3XkEyXkFqcGdeQXVyODI1MzgzNjM@._V1_.jpg",
+      "description": "Todo...",
+      "date": "2022-01-15T05:35:07.322Z",
+      "type": "Movie"
+    },
+    {
       "title": "Spiderman - No Way Home",
       "imgURL": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_FMjpg_UX1000_.jpg",
       "description": "Todo...",
@@ -76,11 +118,18 @@
       "type": "Movie"
     },
     {
-      "title": "YOU",
+      "title": "YOU Season2",
       "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkVr6pUmVjfGARjI0uhJOwvTfoGHzfEnJNxZ0oUMec3q09rDrA",
       "description": "Woah. Talk about stalker murdering psychopath, antisocial, narcissistic this show has everything. Can't wait for the next season. I'll recommend it to anyone. Some episodes were really good. A good watch overally, worth it. Surely not a time waste. Highly recommended.",
-      "date": "2020-08-10T05:35:07.322Z",
+      "date": "2020-09-14T05:35:07.322Z",
       "img_name": "you.jpg",
+      "type": "Tv Show"
+    },
+    {
+      "title": "YOU Season1",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/c/c6/You_Season_1.jpg",
+      "description": "Woah. Talk about stalker murdering psychopath, antisocial, narcissistic this show has everything. Can't wait for the next season. I'll recommend it to anyone. Some episodes were really good. A good watch overally, worth it. Surely not a time waste. Highly recommended.",
+      "date": "2020-08-10T05:35:07.322Z",
       "type": "Tv Show"
     },
     {

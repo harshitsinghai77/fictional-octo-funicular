@@ -1,6 +1,9 @@
 import Head from "next/head";
+import { getSiteMetaData } from "../utils/helpers";
 
-export default function Meta() {
+const siteMetadata = getSiteMetaData();
+
+export default function Meta({ defaultSEOImage }) {
   return (
     <Head>
       <link
@@ -31,24 +34,42 @@ export default function Meta() {
       <meta name="msapplication-config" content="/favicon/browserconfig.xml" />
       <meta name="theme-color" content="#000" />
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
-      <meta name="description" content={`Blog by Harshit Singhai`} />
+      <meta
+        name="description"
+        content={`Fictionally Irrelevant by Harshit Singhai`}
+      />
 
-      <meta property="og:image" content="MY HOME IMAGE" />
-      <meta name="og:title" content="Next.js Sample Website" />
-      <meta name="twitter:card" content="summary_large_image" />
+      {defaultSEOImage && (
+        <>
+          <meta
+            property="og:image"
+            content="/images/fictionallyIrrelevant.png"
+          />
+          <meta name="twitter:card" content="Fictionally Irrelevant." />
+          <meta name="twitter:title" content="Fictionally Irrelevant." />
+          <meta name="twitter:description" content="Fictionally Irrelevant." />
+          <meta
+            property="twitter:image"
+            content="/images/fictionallyIrrelevant.png"
+          />
+          <meta name="twitter:creator" content={siteMetadata.social.twitter} />
+        </>
+      )}
 
+      <meta name="og:title" content="Fictionally Irrelevant." />
       <link
         rel="stylesheet"
-        href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.22.0/themes/prism-okaidia.min.css"
-        integrity="sha512-mIs9kKbaw6JZFfSuo+MovjU+Ntggfoj8RwAmJbVXQ5mkAX5LlgETQEweFPI18humSPHymTb5iikEOKWF7I8ncQ=="
+        href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.27.0/themes/prism.min.css"
+        integrity="sha512-tN7Ec6zAFaVSG3TpNAKtk4DOHNpSwKHxxrsiw4GHKESGPs5njn/0sMCUMl2svV4wo4BK/rCP7juYz+zx+l6oeQ=="
         crossOrigin="anonymous"
+        referrerPolicy="no-referrer"
       />
 
       <link
         rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
       />
-      <script src="https://player.vimeo.com/api/player.js"></script>
+      {/* <script src="https://player.vimeo.com/api/player.js"></script> */}
     </Head>
   );
 }

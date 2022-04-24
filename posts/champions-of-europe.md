@@ -1,5 +1,5 @@
 ---
-title: "Champions of Europe 21"
+title: "Champions of Europe 2021"
 excerpt: "Date: 29 May 2021, Chelsea 2021 Champions of Europe"
 coverImage: "https://i.ibb.co/85rRKL2/4e70ea988522.jpg"
 date: "2021-05-30T01:56:07.322Z"
