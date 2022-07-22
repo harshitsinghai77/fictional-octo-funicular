@@ -60,13 +60,24 @@ $ npm install
 $ npm start
 ```
 
+### How It Works
+
+![alt text](https://raw.githubusercontent.com/harshitsinghai77/pluto/master/static/images/pluto_14.png)
+![alt text](https://raw.githubusercontent.com/harshitsinghai77/pluto/master/static/images/pluto_3.png)
+![alt text](https://raw.githubusercontent.com/harshitsinghai77/pluto/master/static/images/pluto_12.png)
+![alt text](https://raw.githubusercontent.com/harshitsinghai77/pluto/master/static/images/pluto_5.png)
+![alt text](https://raw.githubusercontent.com/harshitsinghai77/pluto/master/static/images/pluto_6.png)
+![alt text](https://raw.githubusercontent.com/harshitsinghai77/pluto/master/static/images/pluto_1.png)
+![alt text](https://raw.githubusercontent.com/harshitsinghai77/pluto/master/static/images/pluto_7.png)
+![alt text](https://raw.githubusercontent.com/harshitsinghai77/pluto/master/static/images/pluto_13.png)
+
 ## Github
 
-(https://github.com/harshitsinghai77/pluto)[https://github.com/harshitsinghai77/pluto]
+[https://github.com/harshitsinghai77/pluto](https://github.com/harshitsinghai77/pluto)
 
 ## Demo
 
-(https://plutoai.netlify.app/)[https://plutoai.netlify.app/]
+[https://plutoai.netlify.app/](https://plutoai.netlify.app/)
 
 ## Video Demo
 
