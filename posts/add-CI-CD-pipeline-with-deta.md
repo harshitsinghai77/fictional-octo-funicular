@@ -10,9 +10,7 @@ ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
 
-I recently decided to add CI/CD pipeline to my side project Nemo. On every push to master, I want to run tests and automatically deploy the project to Deta once all the tests are passed.
-
-The decided to use Github Actions.
+I recently decided to add CI/CD pipeline to my side project Nemo. On every push to master, I want to run tests and automatically deploy the project to Deta using Github Actions.
 
 ## Prerequisite
 
