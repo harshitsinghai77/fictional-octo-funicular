@@ -1,8 +1,8 @@
 ---
-title: "Python: Implement Autocomplete feature using bare Data Structure."
+title: "Python: Implement Autocomplete feature using Trie."
 excerpt: "We will be implementing our own Autocomplete feature from scratch using just Python and some recursion magic."
 coverImage: "https://images.unsplash.com/photo-1604537372136-89b3dae196e3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
-date: "2022-04-18T12:04:07.322Z"
+date: "2022-10-20T12:04:07.322Z"
 author:
   name: Harshit Singhai
   picture: "/images/profile.jpg"
