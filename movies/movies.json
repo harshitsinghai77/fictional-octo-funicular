@@ -2,6 +2,13 @@
   "updated_at": "12-29-2020",
   "movies": [
     {
+      "title": "Laal Singh Chaddha",
+      "imgURL": "https://m.media-amazon.com/images/M/MV5BMTY4YjFhMzUtMWIxMC00NDI2LTgxOGYtMDM1ZGQ1ZDUxZTE0XkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_.jpg",
+      "description": "Todo...",
+      "date": "2022-10-18T05:35:07.322Z",
+      "type": "Movie"
+    },
+    {
       "title": "Badhaai Do",
       "imgURL": "https://m.media-amazon.com/images/M/MV5BZjExNGM5MTMtNTFlNy00OThlLTlhYzctOWEzZjQ4MWY3YTUyXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_.jpg",
       "description": "Todo...",

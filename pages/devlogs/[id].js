@@ -1,10 +1,10 @@
 import React from "react";
-import { AuthProvider, useAuth } from "../../lib/authentication/devlogs";
-import DevLogsLayout from "../../components/devlogs-layout";
-import DateFormatter from "../../components/date-formatter";
-import { getAllDevLogsIds, getDevLogById } from "../../lib/devlogs-api";
-import PostBody from "../../components/post-body";
-import utilStyles from "../../styles/utils.module.css";
+import { AuthProvider, useAuth } from "lib/authentication/devlogs";
+import DevLogsLayout from "components/devlogs/devlogs-layout";
+import DateFormatter from "components/date-formatter";
+import { getAllDevLogsIds, getDevLogById } from "lib/devlogs-api";
+import PostBody from "components/posts/post-body";
+import utilStyles from "styles/utils.module.css";
 
 export async function getStaticProps({ params }) {
   const devlogsData = await getDevLogById(params.id);

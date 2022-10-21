@@ -1,9 +1,8 @@
-import Link from "next/link";
-import Avatar from "../components/avatar";
-import DateFormatter from "../components/date-formatter";
-import CoverImage from "../components/cover-image";
-import PostTitle from "../components/post-title";
-import utilStyles from "../styles/utils.module.css";
+import Avatar from "components/avatar";
+import DateFormatter from "components/date-formatter";
+import CoverImage from "components/cover-image";
+import PostTitle from "components/posts/post-title";
+import utilStyles from "styles/utils.module.css";
 
 export default function PostHeader({ title, coverImage, date, author }) {
   return (

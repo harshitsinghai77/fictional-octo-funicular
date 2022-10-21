@@ -3,11 +3,11 @@ import Layout from "../../components/layout";
 import SEO from "../../components/seo";
 import ErrorPage from "next/error";
 import Container from "../../components/container";
-import PostBody from "../../components/post-body";
+import PostBody from "../../components/posts/post-body";
 import Header from "../../components/header";
-import PostHeader from "../../components/post-header";
+import PostHeader from "../../components/posts/post-header";
 import { getPostById, getAllPosts } from "../../lib/api";
-import PostTitle from "../../components/post-title";
+import PostTitle from "../../components/posts/post-title";
 import markdownToHtml from "../../lib/markdownToHtml";
 
 export default function Post({ post, morePosts, preview }) {

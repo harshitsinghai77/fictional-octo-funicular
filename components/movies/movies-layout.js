@@ -1,8 +1,8 @@
-import Menu from "./menu";
-import SEO from "./seo";
-import styles from "../styles/layout.module.css";
-import utilStyles from "../styles/utils.module.css";
-import Footer from "./footer";
+import Menu from "components/menu";
+import SEO from "components/seo";
+import styles from "styles/layout.module.css";
+import utilStyles from "styles/utils.module.css";
+import Footer from "components/footer";
 
 export default function MoviesLayout({ children }) {
   return (

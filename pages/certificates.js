@@ -1,3 +1,5 @@
+// import Link from "next/link";
+// import DateFormatter from "../components/date-formatter";
 import MoviesLayout from "../components/movies/movies-layout";
 import MovieCards from "../components/movies/movies-body";
 import { getMovieData } from "../lib/movie-api";

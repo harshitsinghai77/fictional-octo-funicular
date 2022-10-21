@@ -1,7 +1,7 @@
 // import Link from "next/link";
 // import DateFormatter from "../components/date-formatter";
-import BooksLayout from "../components/books-layout";
-import BooksCard from "../components/books-body";
+import BooksLayout from "../components/books/books-layout";
+import BooksCard from "../components/books/books-body";
 import { getBookData } from "../lib/books-api";
 
 export function getStaticProps() {

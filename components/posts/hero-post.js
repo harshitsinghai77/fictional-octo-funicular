@@ -1,6 +1,6 @@
-import Avatar from "../components/avatar";
-import DateFormatter from "../components/date-formatter";
-import CoverImage from "../components/cover-image";
+import Avatar from "components/avatar";
+import DateFormatter from "components/date-formatter";
+import CoverImage from "components/cover-image";
 import Link from "next/link";
 
 export default function HeroPost({
@@ -8,7 +8,7 @@ export default function HeroPost({
   coverImage,
   date,
   excerpt,
-  author,
+  // author,
   id,
 }) {
   return (

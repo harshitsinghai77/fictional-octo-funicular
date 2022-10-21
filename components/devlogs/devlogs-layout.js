@@ -1,8 +1,8 @@
 import Link from "next/link";
-import Menu from "./menu";
-import SEO from "./seo";
-import styles from "../styles/layout.module.css";
-import utilStyles from "../styles/utils.module.css";
+import Menu from "components/menu";
+import SEO from "components/seo";
+import styles from "styles/layout.module.css";
+import utilStyles from "styles/utils.module.css";
 
 export default function DevLogsLayout({ children, home }) {
   return (

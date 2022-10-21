@@ -28,7 +28,10 @@ export default function ChelseaChampionsOfEurope() {
           <h1>Champions of Europe 2021</h1>
         </div>
         {videListVimeo.map((element) => (
-          <div style={{ padding: "56.21% 0 0 0", position: "relative" }}>
+          <div
+            key={element}
+            style={{ padding: "56.21% 0 0 0", position: "relative" }}
+          >
             <iframe
               src={`https://player.vimeo.com/video/${element}?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479`}
               frameBorder="0"
