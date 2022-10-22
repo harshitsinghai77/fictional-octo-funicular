@@ -1,6 +1,6 @@
-import MoviesLayout from "../components/movies/movies-layout";
-import MovieCards from "../components/movies/movies-body";
-import { getMovieData } from "../lib/movie-api";
+import MoviesLayout from "components/movies/movies-layout";
+import MovieCards from "components/movies/movies-body";
+import { getMovieData } from "lib/movie-api";
 
 export function getStaticProps() {
   const movie = getMovieData();

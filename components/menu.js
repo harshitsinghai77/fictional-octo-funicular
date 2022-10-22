@@ -53,6 +53,10 @@ export default function Menu({ preview }) {
                   <Link href="/books">
                     <a className="mx-1">Books</a>
                   </Link>
+
+                  <Link href="/certificates">
+                    <a className="mx-1">Certifications</a>
+                  </Link>
                 </div>
               </div>
             </>

@@ -722,4 +722,4 @@ results_df.sort_values('Total Points scored', ascending=False)
 
 ## Conclusion
 
-Parallelize Pandas using the Python's multiprocessing.
+Parallelize Pandas using Python's multiprocessing.

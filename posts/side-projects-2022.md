@@ -1,8 +1,8 @@
 ---
-title: "Side Projects so far..."
-excerpt: "All the projects I've built since college."
+title: "Side Projects 2022"
+excerpt: "All the projects I've built since college till date."
 coverImage: "https://images.unsplash.com/photo-1666115884136-95be94587a5e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80"
-date: "2022-10-20T12:04:07.322Z"
+date: "2022-10-22T12:04:07.322Z"
 author:
   name: Harshit Singhai
   picture: "/images/profile.jpg"
@@ -140,6 +140,96 @@ Todobase helps you keep track of your tasks and to-do list.
 With Nemo you can mix and match different sounds in order to create your perfect sound environment. Todobase helps you stay on top of your work routine, tasks and todolist.
 
 **Source Code** [https://github.com/harshitsinghai77/todobase](https://github.com/harshitsinghai77/todobase)
+
+# Vocabby
+
+[https://gre-word-meaning.vercel.app/](https://gre-word-meaning.vercel.app/)
+
+<img src='https://iili.io/D2KW6g.png' />
+
+Copy word in clipboard, hover to the website and get word meaning instantly.
+
+**Source Code** [https://github.com/harshitsinghai77/gre-word-meaning](https://github.com/harshitsinghai77/gre-word-meaning)
+
+# Streek
+
+[https://github.com/harshitsinghai77/streek-data-etl](https://github.com/harshitsinghai77/streek-data-etl)
+
+<img src="https://iili.io/Dd608v.png" />
+
+Boilerplate code to create a REST API using Python, FastAPI, and Postgres..
+Includes Pytest, CI/CD pipeline using Github Actions. Using `docker-compose` to automatically set Docker Posgtres Container and App on a seperate container. CI/CD pipeline will automatically push the most recent build to Docker Hub. Automatic test case -> dump the csv data to Posgtres docker container while running test cases in CI/CD Github Action container to mimic test data.
+
+**Source Code** [https://github.com/harshitsinghai77/streek-data-etl](https://github.com/harshitsinghai77/streek-data-etl)
+
+# deployFlag
+
+[https://github.com/harshitsinghai77/deployFlag](https://github.com/harshitsinghai77/deployFlag)
+
+<img src="https://raw.githubusercontent.com/harshitsinghai77/deployFlag/master/images/deployFlag.png" />
+
+deployFlag is boilercode for training machine learning algorithms across threads or machines using Celery's distributed task queue.
+
+Ocave and deployFlag are distributed services which communicate on a producer consumer system pattern. They both run on seperate machines and interact with each other via a broker service (RabbitMQ).
+
+**Source Code** [https://github.com/harshitsinghai77/deployFlag](https://github.com/harshitsinghai77/deployFlag)
+
+# MLOps Fetal Health Classifier
+
+[https://github.com/harshitsinghai77/mlops-fetal-health-classifier](https://github.com/harshitsinghai77/mlops-fetal-health-classifier)
+
+<img src="https://iili.io/Ddt5Ob.png" />
+
+Boilerplate code to containerized FastAPI Application to classify the health of a fetus as Normal, Suspect or Pathological using Cardiotocograms CTG data.
+
+This dataset contains 2126 records of features extracted from Cardiotocogram exams, which were then classified by three expert obstetritians into 3 classes:
+
+1. Normal
+2. Suspect
+3. Pathological
+
+Using various classifers to train the dataset and comparing model performance to chose the best model out of all the classifiers.
+The output is the Accuracy, Recall, Precision, F1 Score of the chosen classifier. Saved the model as `.joblib` and output the name of the saved model along with the accuracy.
+
+Model deployed in Azure using Azure Machine Learning Studio
+`Endpoint: http://5534d0ff-e421-4bee-bcb1-aa8d66be732d.centralindia.azurecontainer.io/score`
+
+Note: Azure terminated the endpoint.
+
+# Stackup
+
+[https://github.com/harshitsinghai77/schedule-long-task-using-python-node-go](https://github.com/harshitsinghai77/schedule-long-task-using-python-node-go)
+
+<img src='https://iili.io/DdDiyg.png' />
+
+Boilerplate code to implemented long running task using Node.js+Bull, Python+Celery, and Golang.
+
+Long-running tasks usually require time and resources on the servers. For instance, when user trigger off a long running task, there is no way to tap into it and pause/stop/terminate the task, upon realizing that an erroneous request went through from one of the clients (mostly web or pipeline).
+
+Solution:
+
+1. User can now stop the long-running task at any given point in time, and can choose to resume or terminate it.
+2. This will ensure that the resources like compute/memory/storage/time are used efficiently at our end, and do not go into processing tasks that have already been stopped.
+
+Implemented the REST API in Node, Python and Go to pause/stop/terminate the long running task.
+
+Features:
+
+1. Schedule a new task
+2. Check progress and status of the task
+3. Pause/Resume the task
+4. Terminate the task
+5. Deploy the container
+6. Increase the sleep time to mimick long-running task.
+
+Running it Locally
+Go to the specific branch to find out specific language implementation.
+
+1. Python: [https://github.com/harshitsinghai77/schedule-long-task-using-python-node-go/tree/python-celery](https://github.com/harshitsinghai77/schedule-long-task-using-python-node-go/tree/python-celery)
+2. Node: [https://github.com/harshitsinghai77/schedule-long-task-using-python-node-go/tree/node_bull](https://github.com/harshitsinghai77/schedule-long-task-using-python-node-go/tree/node_bull)
+3. Go: [https://github.com/harshitsinghai77/schedule-long-task-using-python-node-go/tree/go](https://github.com/harshitsinghai77/schedule-long-task-using-python-node-go/tree/go)
+
+**Source Code** [https://github.com/harshitsinghai77/schedule-long-task-using-python-node-go](https://github.com/harshitsinghai77/schedule-long-task-using-python-node-go)
 
 ## Conclusion
 
