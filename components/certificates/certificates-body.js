@@ -1,16 +1,15 @@
-import { useLayoutEffect, useRef, useState, memo } from "react";
+import { useLayoutEffect, useEffect, useRef, useState, memo } from "react";
 import { Document, Page, pdfjs } from "react-pdf";
 
 pdfjs.GlobalWorkerOptions.workerSrc = `//unpkg.com/pdfjs-dist@${pdfjs.version}/legacy/build/pdf.worker.min.js`;
 
 const rootCertificateDirectory = "certificate/";
 
-const CertificateCard = ({ certificates }) => {
+const CertificateCardChild = ({ certificates }) => {
   const ref = useRef(null);
   const [documentWidth, setDocumentWidth] = useState(550);
 
   useLayoutEffect(() => {
-    console.log("ref.current.offsetWidth", ref.current.offsetWidth);
     let width = 550;
     if (ref.current.offsetWidth < 450) {
       width = 420;
@@ -42,6 +41,24 @@ const CertificateCard = ({ certificates }) => {
       <RenderCertificate />
     </div>
   );
+};
+
+const CertificateCard = (props) => {
+  const [showChild, setShowChild] = useState(false);
+
+  // More information - https://gist.github.com/gaearon/e7d97cdf38a2907924ea12e4ebdf3c85
+  // Wait until after client-side hydration to show
+
+  useEffect(() => {
+    setShowChild(true);
+  }, []);
+
+  if (!showChild) {
+    // You can show some kind of placeholder UI here
+    return <></>;
+  }
+
+  return <CertificateCardChild {...props} />;
 };
 
 export default memo(CertificateCard);
