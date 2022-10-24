@@ -63,6 +63,16 @@ Easily use most common machine learning models with a simple API call.
 4. Story so far - WeBase provides a wide array of models like NSFW classification, removing image background, colorize B/W image, gender classification, object detection, face recognition, neural style transfer, summarize text, sentiment analysis, and much more.
 
 <img src='https://iili.io/tS6SFS.png' />
+<br />
+<img src='https://miro.medium.com/max/875/1*iTKjnlynWyfuXk_1P3Da5A.jpeg' />
+<br />
+<img src='https://miro.medium.com/max/875/1*sar8Z8N7P9ewRhgM36PF-A.jpeg' />
+<br />
+<img src='https://miro.medium.com/max/875/1*3HZEWaY4tAV4Fh6MWHoNNA.jpeg' />
+<br />
+<img src='https://miro.medium.com/max/875/1*cBLspBPoSg91a0z3RhmtTA.jpeg' />
+<br />
+<img src='https://miro.medium.com/max/875/1*rtUaAVnf5AcvjTc0c8CSuw.jpeg' />
 
 **Get Started** [https://app-webase.netlify.app/](https://app-webase.netlify.app/)
 
@@ -75,11 +85,41 @@ Easily use most common machine learning models with a simple API call.
 **Source Code**
 [https://github.com/harshitsinghai77/webase](https://github.com/harshitsinghai77/webase)
 
-Test Credentials
-Email - harshitsinghai77@gmail.com
+Test Credentials <br />
+Email - harshitsinghai77@gmail.com <br />
 Password - Pass@12345
 
 Note: Some app features won't work properly because the hosting limit has exceeded. The ML models were initially deployed for free using gcp/aws. But due to free limit exceeded and unable to pay for the cloud bills (need 💰💰💰 for AWS bill), the backend serving the app has autoatically been termnined. Some features might still work as different ML endpoint were hosted in different cloud providers.
+
+# Loop
+
+[https://loop-web3.netlify.app/](https://loop-web3.netlify.app/)
+[https://cautious-palm-tree.vercel.app/](https://cautious-palm-tree.vercel.app/)
+
+<img src='https://iili.io/DAhfzG.png' />
+
+Supporting creators 3.0. A platform that helps you support your favourite creators without draining your pockets.
+
+A platform where people can support their favourite creators. To support creators they stake some amount in the creator's pool, this complete amount can be withdrawn and creators get the interest generated!
+
+We're all familiar with how we support creators in the Web2 world. We have been picking our brains to figure out how we would make this a better experience on Web3. Loop is a content-creator-first platform built to address the needs of Creator 3.0.
+
+Imagine if you could support your favorite creators without actually spending anything!
+
+Behind the scenes, we're using the Aave protocol to stake user funds and generate interest. The users can get their funds back anytime and the creators can withdraw the interest generated on the pool.
+
+With Loop, creators can also LIVE stream their content and do much more.
+
+**Get Started** [https://loop-web3.netlify.app/](https://loop-web3.netlify.app/)
+
+**Check WeBase on Youtube**
+[https://www.youtube.com/watch?v=rM7JOhKNZjY](https://www.youtube.com/watch?v=rM7JOhKNZjY)
+
+**Blog**
+[https://fictionally-irrelevant.vercel.app/posts/introducing-loop](https://fictionally-irrelevant.vercel.app/posts/introducing-loop)
+
+**Source Code**
+[https://github.com/harshitsinghai77/web3-loop](https://github.com/harshitsinghai77/web3-loop)
 
 # Noiist
 
@@ -111,17 +151,28 @@ As I cannot host airflow in cloud (need 💰💰💰 for AWS bill), the project 
 
 Convert your favorite shot into any famous artistic painting using Pluto AI.
 
-Pluto uses a TensorFlow implementation of Neural Style Transfer wrapped as a REST API. We also have a custom neural style transfer model [https://github.com/harshitsinghai77/pluto/blob/master/backend/model/nst.py](https://github.com/harshitsinghai77/pluto/blob/master/backend/model/nst.py). Using Flask to serve the model. ReactJs to serve frontend. We use Firebase to store user images. Another parameter we record is the user rating of the image. This is for future optimization of our model.
+Pluto uses a TensorFlow implementation of Neural Style Transfer wrapped as a REST API. We also have a custom neural style transfer model [https://tinyurl.com/muhz56m8](https://tinyurl.com/muhz56m8). Using Flask to serve the model. ReactJs to serve frontend. We use Firebase to store user images. Another parameter we record is the user rating of the image. This is for future optimization of our model.
 
 <img src='https://iili.io/tgv7qP.png' />
 
 **Get Started** [https://plutoai.netlify.app/](https://plutoai.netlify.app/)
 
+<img src='https://raw.githubusercontent.com/harshitsinghai77/pluto/master/static/images/pluto_3.png' />
+<br />
+<img src='https://raw.githubusercontent.com/harshitsinghai77/pluto/master/static/images/pluto_6.png' />
+<br />
+<img src='https://raw.githubusercontent.com/harshitsinghai77/pluto/master/static/images/pluto_7.png' />
+<br/>
+
+Result
+
+<img src='https://raw.githubusercontent.com/harshitsinghai77/pluto/master/static/images/pluto_13.png' />
+
 **Source Code**
 
 1. [https://github.com/harshitsinghai77/pluto](https://github.com/harshitsinghai77/pluto)
-2. ML Model: [https://github.com/harshitsinghai77/pluto/blob/master/backend/model/tf_v2.py](https://github.com/harshitsinghai77/pluto/blob/master/backend/model/tf_v2.py)
-3. Custom ML Model: [https://github.com/harshitsinghai77/pluto/blob/master/backend/model/nst.py](https://github.com/harshitsinghai77/pluto/blob/master/backend/model/nst.py)
+2. ML Model: [https://tinyurl.com/588a8pjc](https://tinyurl.com/588a8pjc)
+3. Custom ML Model: [https://tinyurl.com/muhz56m8](https://tinyurl.com/muhz56m8)
 
 <img src='https://raw.githubusercontent.com/harshitsinghai77/pluto/master/static/images/pluto_2.png' />
 
@@ -133,9 +184,13 @@ Note: Might not work as of now, Heroku Free Dynamo shut down the python backend 
 
 <img src='https://iili.io/trJsWl.png' />
 
-Todobase is your little helper and companion to keep track of your daily and weekly tasks.
+Todobase is your glorified little helper and companion to keep track of your daily and weekly tasks.
 
-Todobase helps you keep track of your tasks and to-do list.
+Todobase is just another simpled to-do list glorified to sound cool. It helps you keep track of your tasks and to-do list (just like any other todo app).
+
+I made it in college, so it was kinda big deal than (not really).
+
+<img src='https://iili.io/Dufrj2.png' />
 
 With Nemo you can mix and match different sounds in order to create your perfect sound environment. Todobase helps you stay on top of your work routine, tasks and todolist.
 
@@ -174,7 +229,7 @@ Ocave and deployFlag are distributed services which communicate on a producer co
 
 **Source Code** [https://github.com/harshitsinghai77/deployFlag](https://github.com/harshitsinghai77/deployFlag)
 
-# MLOps Fetal Health Classifier
+# Certility - Fetal Health Classifier using MLOps
 
 [https://github.com/harshitsinghai77/mlops-fetal-health-classifier](https://github.com/harshitsinghai77/mlops-fetal-health-classifier)
 
@@ -192,9 +247,6 @@ Using various classifers to train the dataset and comparing model performance to
 The output is the Accuracy, Recall, Precision, F1 Score of the chosen classifier. Saved the model as `.joblib` and output the name of the saved model along with the accuracy.
 
 Model deployed in Azure using Azure Machine Learning Studio
-`Endpoint: http://5534d0ff-e421-4bee-bcb1-aa8d66be732d.centralindia.azurecontainer.io/score`
-
-Note: Azure terminated the endpoint.
 
 # Stackup
 
@@ -233,6 +285,8 @@ Go to the specific branch to find out specific language implementation.
 
 ## Conclusion
 
-We learned how to use GridSearchCV and Pipline to create machine learning Pipelines.
+That's it, all the side projects that I'm little proud of. Lot of them sounds basic but at the time they were a good learning experience. A lot of the projects are broken because of excessive AWS/GCP bills. I tried to maintain them until a certain point, but eventually gave up. No one really uses the project so It's fruitless to spend time supporting and maintaining them.
+
+I'll be building more projects (hopefully meaningful) in the future. Feel free to reach out to me for collaboration.
 
 That’s it for today, see you soon. :)
