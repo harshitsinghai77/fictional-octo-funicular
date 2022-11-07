@@ -10,9 +10,7 @@ ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
 
-Looking back I found that I've worked on multiple projects throughout and after college. It's difficult to keep track of all the side projects I've built or worked on so far. This post will help me to keep track of all my past, current and ongoing projects.
-
-The better projects will be on top and as you go down you're see my least promising projects.
+Looking back, I found that it's difficult to keep track of all the side projects I've worked on throughout college. This post will help me to keep track of all my past, current and ongoing projects.
 
 # Nemo
 
@@ -89,7 +87,7 @@ Test Credentials <br />
 Email - harshitsinghai77@gmail.com <br />
 Password - Pass@12345
 
-Note: Some app features won't work properly because the hosting limit has exceeded. The ML models were initially deployed for free using gcp/aws. But due to free limit exceeded and unable to pay for the cloud bills (need 💰💰💰 for AWS bill), the backend serving the app has autoatically been termnined. Some features might still work as different ML endpoint were hosted in different cloud providers.
+Note: Some app features won't work because the hosting limit has been exceeded. ML models were initially deployed for free in gcp/aws. But due to free tier limit and unable to pay for the cloud bills (need 💰💰💰 for AWS/GCP bill), the backend serving the app has automatically been termnined. Some features might still work as different ML endpoint were hosted in different cloud providers.
 
 # Loop
 
@@ -176,7 +174,7 @@ Result
 
 <img src='https://raw.githubusercontent.com/harshitsinghai77/pluto/master/static/images/pluto_2.png' />
 
-Note: Might not work as of now, Heroku Free Dynamo shut down the python backend serving the ML model.
+Note: Might not work as of now, Heroku Free Dynamo shut down the python app serving the ML model.
 
 # ToDoBase
 
@@ -188,7 +186,7 @@ Todobase is your glorified little helper and companion to keep track of your dai
 
 Todobase is just another simpled to-do list glorified to sound cool. It helps you keep track of your tasks and to-do list (just like any other todo app).
 
-I made it in college, so it was kinda big deal than (not really).
+I made it during college, so it was kinda big deal back than (not really).
 
 <img src='https://iili.io/Dufrj2.png' />
 
@@ -223,9 +221,11 @@ Includes Pytest, CI/CD pipeline using Github Actions. Using `docker-compose` to 
 
 <img src="https://raw.githubusercontent.com/harshitsinghai77/deployFlag/master/images/deployFlag.png" />
 
-deployFlag is boilercode for training machine learning algorithms across threads or machines using Celery's distributed task queue.
+deployFlag is boilercode for training machine learning algorithms asynchronous using process or threads using Celery's distributed task queue.
 
 Ocave and deployFlag are distributed services which communicate on a producer consumer system pattern. They both run on seperate machines and interact with each other via a broker service (RabbitMQ).
+
+This can be used for usecases where you want to train a unique machine learning model for each unique user. The model should be lightweighted and minimal. This approach won't be able to train large ML models, might run into memory error.
 
 **Source Code** [https://github.com/harshitsinghai77/deployFlag](https://github.com/harshitsinghai77/deployFlag)
 
@@ -246,7 +246,7 @@ This dataset contains 2126 records of features extracted from Cardiotocogram exa
 Using various classifers to train the dataset and comparing model performance to chose the best model out of all the classifiers.
 The output is the Accuracy, Recall, Precision, F1 Score of the chosen classifier. Saved the model as `.joblib` and output the name of the saved model along with the accuracy.
 
-Model deployed in Azure using Azure Machine Learning Studio
+Model deployed in Azure using Azure Machine Learning Studio.
 
 # Stackup
 
@@ -254,7 +254,7 @@ Model deployed in Azure using Azure Machine Learning Studio
 
 <img src='https://iili.io/DdDiyg.png' />
 
-Boilerplate code to implemented long running task using Node.js+Bull, Python+Celery, and Golang.
+Boilerplate code to implemented long running task using Node.js+Bull, Python+Celery, and Go.
 
 Long-running tasks usually require time and resources on the servers. For instance, when user trigger off a long running task, there is no way to tap into it and pause/stop/terminate the task, upon realizing that an erroneous request went through from one of the clients (mostly web or pipeline).
 
