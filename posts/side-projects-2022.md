@@ -20,7 +20,7 @@ Looking back, I found that it's difficult to keep track of all the side projects
 
 Nemo is your little helper and companion no matter if you need to focus, tune out other noises or if you want to have a moment of calm and relaxation.
 
-With Nemo you can mix and match different sounds in order to create your perfect sound environment. In places where it is either too loud or too quiet, Nemo helps to mask annoying noises and to create a pleasant sound environment in order to stay focused and relax.
+With Nemo you can mix and match different sounds to create your perfect environment. In places where it is either too loud or too quiet, Nemo helps to mask annoying noises and to create a pleasant environment in order to stay focused and relax.
 
 Nemo analytics help you keep track of your productivity and focussed session with weekly insights and much more.
 
@@ -190,7 +190,7 @@ I made it during college, so it was kinda big deal back than (not really).
 
 <img src='https://iili.io/Dufrj2.png' />
 
-With Nemo you can mix and match different sounds in order to create your perfect sound environment. Todobase helps you stay on top of your work routine, tasks and todolist.
+With Nemo you can mix and match different sounds in order to create your perfect environment. Todobase helps you stay on top of your work routine, tasks and todolist.
 
 **Source Code** [https://github.com/harshitsinghai77/todobase](https://github.com/harshitsinghai77/todobase)
 
