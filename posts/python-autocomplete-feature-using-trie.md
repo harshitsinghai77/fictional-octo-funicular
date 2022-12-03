@@ -1,6 +1,6 @@
 ---
 title: "Python: Implement Autocomplete feature using Trie."
-excerpt: "We will be implementing our own Autocomplete feature from scratch using just Python and some recursion magic."
+excerpt: "Autocomplete is a common feature in modern search engines and applications, which provides suggestions and predictions as the user types in a query or keyword. In this article, we will explore how to implement an autocomplete feature using Python and a data structure called a Trie."
 coverImage: "https://images.unsplash.com/photo-1604537372136-89b3dae196e3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
 date: "2022-10-20T12:04:07.322Z"
 author:

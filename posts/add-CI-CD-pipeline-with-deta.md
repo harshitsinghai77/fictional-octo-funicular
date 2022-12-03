@@ -1,6 +1,6 @@
 ---
 title: "CI/CD Deployment using Deta and Github Actions."
-excerpt: "Deploy to Deta on every push to your main branch."
+excerpt: "CI/CD, or Continuous Integration/Continuous Deployment, is a software development practice that involves the automated and frequent integration, testing, and deployment of software changes. In this article, we will explore how to use Deta and GitHub Actions to create a CI/CD deployment pipeline, and some of the key benefits and considerations of doing so."
 coverImage: "https://images.unsplash.com/photo-1530292178889-67a8dc571e85?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
 date: "2022-06-20T12:04:07.322Z"
 author:

@@ -1,6 +1,6 @@
 ---
 title: "Getting started with CRUD API using Go"
-excerpt: "How to create a basic CRUD API using go-restful package and SQLite3."
+excerpt: "Creating, reading, updating, and deleting data (CRUD) are fundamental operations in many applications. In this article, we will explore how to create a CRUD API using Go, a popular and powerful programming language."
 coverImage: "https://images.unsplash.com/photo-1549880181-56a44cf4a9a5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
 date: "2020-11-20T12:04:07.322Z"
 author:

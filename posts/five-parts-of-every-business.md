@@ -1,6 +1,6 @@
 ---
 title: "Five Parts of Every Business - Lessons to learn before building your product."
-excerpt: "The Five Parts of Every Business and Ten Ways to Evaluate a Market"
+excerpt: "Every business consists of five key parts that work together to create a successful and sustainable enterprise. In this article, we will explore the five parts of every business, and some of the lessons that entrepreneurs can learn before building their product."
 coverImage: "https://images.unsplash.com/photo-1524758631624-e2822e304c36?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
 date: "2022-01-23T12:04:07.322Z"
 author:

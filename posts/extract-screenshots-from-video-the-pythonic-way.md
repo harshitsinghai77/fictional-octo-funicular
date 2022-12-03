@@ -1,6 +1,6 @@
 ---
 title: "Extract Screenshots from Video — The Pythonic Way"
-excerpt: "Convert your video to images using Python."
+excerpt: "Extracting screenshots from videos is a common task for data analysts and engineers. In this article, we will explore how to extract screenshots from videos using Python, one of the most popular and versatile programming languages."
 coverImage: "https://images.unsplash.com/photo-1503434396599-58ba8a18d932?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
 date: "2020-06-20T12:04:07.322Z"
 author:

@@ -1,6 +1,6 @@
 ---
 title: "Everything you need to know to upload Images to IPFS"
-excerpt: "Everything I learned while working with image in IPFS."
+excerpt: "IPFS, or InterPlanetary File System, is a decentralized and distributed file system that allows users to store and share files on a peer-to-peer network. In this article, we will explore how to upload images to IPFS, and some of the key considerations and best practices for doing so."
 coverImage: "https://miro.medium.com/max/10418/1*OB3Vk1P6L6iHoHAQGYROXw.png"
 date: "2021-12-28T12:04:07.322Z"
 author:

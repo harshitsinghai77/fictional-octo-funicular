@@ -1,6 +1,6 @@
 ---
 title: "React + Django for Prototyping Modern Web Application"
-excerpt: "Why you should use React and Django for your MVP product or side project?"
+excerpt: "React and Django are two popular web development technologies that can be used together to create modern and dynamic web applications. In this article, we will explore how to use React and Django together for prototyping web applications, including the benefits and potential challenges of this approach."
 coverImage: "https://images.unsplash.com/photo-1488330890490-c291ecf62571?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
 date: "2021-02-18T12:04:07.322Z"
 author:
@@ -10,7 +10,7 @@ ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
 
-This article is written as part of my 6 monthly internship journey as an undergrad.
+One of the key benefits of using React and Django together for prototyping web applications is that they provide a powerful and flexible development stack. React is a JavaScript library for building user interfaces, and it allows developers to create highly interactive and responsive web applications. Django is a Python web framework that provides a range of tools and features for building web applications, including an ORM, templating engine, and built-in authentication system. By combining these two technologies, developers can quickly and easily prototype web applications that have rich and engaging user experiences.
 
 I worked as a Software Engineer Intern at Finception. Finception is a Bengaluru based FinTech startup. They’re working on their upcoming personalized financial planner called Plumo. You may know about them from their popular financial newsletter called [Finshots](https://finshots.in/archive/).
 

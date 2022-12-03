@@ -1,6 +1,6 @@
 ---
 title: "Demystifying GitHub API to Fetch the Top 3 Repositories by stars using Node.js"
-excerpt: "Recently, I decided to write a simple API, to fetch data from Github and returns the top 3 repositories of an organization by stars."
+excerpt: "The GitHub API is a powerful tool for data analysts and engineers who want to retrieve and analyze data from the popular code-hosting platform. In this article, we will explore how to use the GitHub API to fetch the top 3 repositories by stars using Node.js"
 coverImage: "https://images.unsplash.com/photo-1535063406830-27dfae54262a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
 date: "2020-07-22T12:04:07.322Z"
 author:

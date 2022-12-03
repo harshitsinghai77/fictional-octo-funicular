@@ -1,6 +1,6 @@
 ---
 title: "Nemo - Your digital place for focus"
-excerpt: "Nemo allows you to create your own personalized environment. Cancel background distraction and become more productive with Nemo."
+excerpt: "Nemo is a new digital platform that aims to help people stay focused and productive in today's busy and distracting world. Nemo allows you to create your own personalized environment. Cancel background distraction and become more productive with Nemo."
 coverImage: "https://images.unsplash.com/photo-1534269222346-5a896154c41d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
 date: "2021-06-15T12:04:07.322Z"
 author:

@@ -1,6 +1,6 @@
 ---
 title: "Data Engineering: Eventual Consistency"
-excerpt: Breaking down Eventual Consistency, how it is different from Strongly Consistency, when to use Eventual Consistency, and conflict resolution.
+excerpt: Consistency is a fundamental concept in distributed systems, and it refers to the state of data and information in a system at a given time. In this article, we will explore two of the key types of consistency in distributed systems, eventual consistency and strong consistency.
 coverImage: "https://images.unsplash.com/photo-1646578264746-480cc7c7bf6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80"
 date: "2022-03-18T12:04:07.322Z"
 author:

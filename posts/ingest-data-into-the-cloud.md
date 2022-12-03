@@ -1,6 +1,6 @@
 ---
 title: "Ingest data into AWS."
-excerpt: "Let's take a look at few AWS services to ingest and analyze data in the cloud."
+excerpt: "Ingesting data into AWS is a common task for data engineers and analysts. In this article, we will explore some of the key methods for ingesting data into AWS, including batch and streaming options."
 coverImage: "https://images.unsplash.com/photo-1565008447742-97f6f38c985c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80"
 date: "2022-03-27T12:04:07.322Z"
 author:
@@ -11,6 +11,10 @@ ogImage:
 ---
 
 In this post we will talk about different services offered by AWS to ingest data into the cloud. We will start with the most common and widely used service called AWS S3. We will talk about the advantages of using S3 as a data lake, and how to continually capture data.
+
+One common method for ingesting data into AWS is to use batch processing. This involves transferring data from external sources, such as databases or files, into AWS storage systems, such as Amazon S3 or Amazon EBS. This can be accomplished using tools such as the AWS Data Pipeline.
+
+Another option for ingesting data into AWS is to use streaming processing. This involves continuously transferring data from external sources into AWS storage systems, in real-time or near-real-time. This can be useful for handling high-volume, fast-moving data, such as log files or sensor data. AWS offers a range of tools and services for streaming data, including Amazon Kinesis, Amazon DynamoDB Streams, and Amazon Kinesis Firehose.
 
 We will also take a look at warehouse service like Amazon Redshift, and talk about Amazon Redshift Spectrum.
 

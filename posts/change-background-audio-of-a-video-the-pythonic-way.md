@@ -1,6 +1,6 @@
 ---
 title: "Change background audio of a video— The Pythonic Way"
-excerpt: "Change the audio of a video file programatically using Python."
+excerpt: "Editing the audio of a video is a common task for data analysts and engineers. In this article, we will explore how to change the background audio of a video using Python, one of the most popular and versatile programming languages."
 coverImage: "https://images.unsplash.com/photo-1554223789-df81106a45ed?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80"
 date: "2020-07-08T12:04:07.322Z"
 author:

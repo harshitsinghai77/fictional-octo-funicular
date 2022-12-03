@@ -1,6 +1,6 @@
 ---
 title: "The Rise of the Robo Advisors"
-excerpt: "I had the opportunity to work as a software engineer intern for a startup working on Robo advisor. Robo advisor has been there for quite some time in the USA market, but the Indian market hasn’t seen such adaption."
+excerpt: "I had the opportunity to work as a software engineer intern for a startup working on Robo advisor. The rise of robo advisors, or automated investment platforms, has been one of the most significant developments in the financial services industry in recent years. In this article, we will explore the rise of robo advisors, and some of the key factors that have contributed to their growth and success."
 coverImage: "https://miro.medium.com/max/1362/1*E75KBeymx4yIBhl7HtKGYQ.jpeg"
 date: "2020-07-15T01:56:07.322Z"
 author:
@@ -11,6 +11,8 @@ ogImage:
 ---
 
 Ever heard of Robo advisors?
+
+A robo advisor is an online platform or application that uses algorithms and artificial intelligence (AI) to provide investment advice and manage investment portfolios. Robo advisors are typically designed for retail investors who are looking for a low-cost and convenient way to invest their money, and they are often used as an alternative to traditional financial advisors and investment managers.
 
 I had the opportunity to work as a software engineer intern for a startup working on a Robo advisor. Robo advisor has been there for quite some time in the USA market, but the Indian market hasn’t seen such adaption.
 

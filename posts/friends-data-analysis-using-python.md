@@ -1,6 +1,6 @@
 ---
 title: "F.R.I.E.N.D.S — Data Analysis using Python"
-excerpt: "So, I just finished watching Friends recently, again. FRIENDS is one of my favorite sitcoms and I’m sure I’m not alone in having rewatched the entire series more than once. I’ve always wondered if there was anything left to know about this group."
+excerpt: "F.R.I.E.N.D.S is a popular American television sitcom that aired from 1994 to 2004. In this article, we will explore how to perform data analysis on the F.R.I.E.N.D.S dataset using Python"
 coverImage: "https://i.ibb.co/f2G7dRc/63113c9e71da.jpg"
 date: "2021-03-05T12:04:07.322Z"
 author:

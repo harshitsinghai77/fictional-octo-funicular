@@ -1,6 +1,6 @@
 ---
 title: "Companies innovating using blockchain."
-excerpt: "Which companies are leveraging blockchain and what are they using it for?"
+excerpt: "Blockchain technology has the potential to revolutionize a wide range of industries, from finance and healthcare to supply chain management and beyond. In this article, we will explore some of the innovative companies that are using blockchain to drive change and drive growth."
 coverImage: "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80"
 date: "2021-11-18T12:04:07.322Z"
 author:

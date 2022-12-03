@@ -1,6 +1,6 @@
 ---
 title: "Everything you need to know before starting with Machine Learning"
-excerpt: "All the fundamental concepts you need to know before you began your machine learning journey. So grab a coffee and let's get started"
+excerpt: "Machine learning is a rapidly growing field that is transforming many industries and applications. If you are thinking about getting started with machine learning, there are a few key things that you should know before you begin. In this article, we will explore some of the key concepts and considerations that you should be aware of before starting with machine learning."
 coverImage: "https://images.unsplash.com/photo-1484312152213-d713e8b7c053?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
 date: "2021-01-11T12:04:07.322Z"
 author:

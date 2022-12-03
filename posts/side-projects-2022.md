@@ -1,6 +1,6 @@
 ---
 title: "Side Projects 2022"
-excerpt: "All the projects I've built since college till date."
+excerpt: "Over the years, I have worked on a variety of personal projects in my free time, ranging from web apps to machine learning to Data Engineering to Web3. In this collection, you will find a selection of my most interesting and successful projects, each with its own unique challenges and accomplishments. I hope you enjoy exploring them as much as I enjoyed creating them!"
 coverImage: "https://images.unsplash.com/photo-1666115884136-95be94587a5e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80"
 date: "2022-10-22T12:04:07.322Z"
 author:
@@ -10,7 +10,7 @@ ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
 
-Looking back, I found that it's difficult to keep track of all the side projects I've worked on throughout college. This post will help me to keep track of all my past, current and ongoing projects.
+Over the years, I have worked on a variety of personal projects in my free time, ranging from web apps to machine learning to Data Engineering to Web3. In this collection, you will find a selection of my most interesting and successful projects, each with its own unique challenges and accomplishments. I hope you enjoy exploring them as much as I enjoyed creating them!
 
 # Nemo
 
@@ -118,6 +118,18 @@ With Loop, creators can also LIVE stream their content and do much more.
 
 **Source Code**
 [https://github.com/harshitsinghai77/web3-loop](https://github.com/harshitsinghai77/web3-loop)
+
+# Web3 Build
+
+[Opensea NFT](https://opensea.io/0xdcd0527cc1D33411C63171c4F9488e3E0be88858?tab=private)
+
+<img src ='https://pbs.twimg.com/media/Fivv_fJXkAEugZ6?format=jpg&name=4096x4096' />
+
+Here are my `buildspace cohort` NFT's
+
+<img src="https://i.ibb.co/bL24Yd0/nfts.png" />
+
+Created and deployed multiple web3 projects as part of Buildspace builds.
 
 # Noiist
 

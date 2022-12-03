@@ -1,6 +1,6 @@
 ---
 title: "Wave-at-me"
-excerpt: "Getting started with the most basic web3 app."
+excerpt: "Getting started with web3 Dapp using React and Solidity. Web3 Dapps are decentralized applications (Dapps) that are built on top of the web3 stack, which includes technologies such as blockchain, smart contracts, and distributed storage. In this article, we will explore how to get started with building web3 Dapps using React and Solidity, two popular and powerful technologies for building Dapps."
 coverImage: "https://images.unsplash.com/photo-1559827260-dc66d52bef19?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
 date: "2021-12-08T12:04:07.322Z"
 author:

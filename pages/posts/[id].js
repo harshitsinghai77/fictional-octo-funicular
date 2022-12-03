@@ -27,8 +27,8 @@ export default function Post({ post, morePosts, preview }) {
             <article className="mb-32">
               <SEO
                 title={post.title}
-                contentDescription={post.title}
-                contentImage={post.coverImage}
+                coverImage={post.coverImage}
+                excerpt={post.excerpt}
               />
               <PostHeader
                 title={post.title}
@@ -54,6 +54,7 @@ export async function getStaticProps({ params }) {
     "content",
     "ogImage",
     "coverImage",
+    "excerpt",
   ]);
 
   const content = await markdownToHtml(post.content || "");

@@ -1,6 +1,6 @@
 ---
 title: "Data Orchestration with Airflow"
-excerpt: "Data Orchestration is the automation of data-driven processes from end-to-end, including preparing data, making decisions based on that data, and taking actions based on those decisions. It's a process that often spans across many different systems, departments, and types of data."
+excerpt: "Data orchestration is the process of managing and coordinating the flow of data between different systems and applications. Airflow is a popular open-source platform for data orchestration that allows users to define, schedule, and monitor data pipelines. In this article, we will explore how Airflow can be used for data orchestration and some of the key features and benefits of the platform."
 coverImage: "https://images.unsplash.com/photo-1538474705339-e87de81450e8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
 date: "2021-05-20T12:04:07.322Z"
 author:

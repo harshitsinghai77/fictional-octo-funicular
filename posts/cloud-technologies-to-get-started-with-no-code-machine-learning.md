@@ -1,6 +1,6 @@
 ---
 title: "Automate your ML workflow with no code Machine Learning."
-excerpt: "If you had only had 4 hours to train a model and put it into production to save the world, would you be writing code? Let's take a look at some cloud and open source tools available to automate your Machine Learning workflow."
+excerpt: "No-code machine learning is a type of machine learning that allows users to create and deploy ML models without the need for coding or data science expertise. No-code machine learning platforms, such as WeBase, provide users with a range of pre-built and customizable ML models and tools, which can be used to automate common steps in an ML workflow, such as data preparation, model training, and deployment."
 coverImage: "https://images.unsplash.com/photo-1469474968028-56623f02e42e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=753&q=80"
 date: "2021-08-05T12:04:07.322Z"
 author:

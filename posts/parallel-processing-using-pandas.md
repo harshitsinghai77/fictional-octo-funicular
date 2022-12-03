@@ -1,6 +1,6 @@
 ---
 title: "Multiprocessing with Pandas"
-excerpt: "Using Python's multiprocessing to process pandas dataframe paralelly."
+excerpt: "Multiprocessing is a powerful tool for improving the performance of data analysis tasks, and Pandas is a popular Python library for working with structured data.By leveraging the power of multiple CPU cores, multiprocessing allows Pandas to split data processing tasks across multiple processes, resulting in faster and more efficient computation."
 coverImage: "https://images.unsplash.com/photo-1666115883713-c5766e9d668e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80"
 date: "2022-09-16T12:04:07.322Z"
 author:
@@ -10,7 +10,7 @@ ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
 
-Pandas is a powerful tool when it comes to data manipulation using Python.
+Multiprocessing is a powerful tool for improving the performance of data analysis tasks, and Pandas is a popular Python library for working with structured data. By leveraging the power of multiple CPU cores, multiprocessing allows Pandas to split data processing tasks across multiple processes, resulting in faster and more efficient computation. In this article, we will explore how to use multiprocessing with Pandas to speed up your data analysis workflow and improve the performance of your code.
 
 In this post, we're going to use multiprocessing to process each subset of our dataframe parallelly.
 

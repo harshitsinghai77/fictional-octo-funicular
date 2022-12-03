@@ -1,6 +1,6 @@
 ---
 title: "Introducing WeBase — Making deep learning simple"
-excerpt: "This article is written as part of my final capstone project at Bennett University. In this article, I’ll tell you about WeBase, its purpose, how is it useful, and how to make the most out of it."
+excerpt: "WeBase is a new deep learning platform that aims to make the process of building and training deep learning models simpler and more accessible. In this article, we will introduce WeBase and explore some of its key features and benefits.WeBase is a cloud-based platform that provides a user-friendly interface for building and training deep learning models. It allows users to quickly and easily create and configure their models using a drag-and-drop interface, without the need for complex coding or technical expertise."
 coverImage: "https://miro.medium.com/max/1400/1*qc8gdXkCCnBOtgLeaqYX_Q.png"
 date: "2020-12-18T12:04:07.322Z"
 author:
@@ -11,6 +11,7 @@ ogImage:
 ---
 
 ## Content
+
 1. Problem Statement
 2. Introducing WeBase
 3. Deep Learning as a Service
@@ -26,6 +27,7 @@ ogImage:
 13. Conclusion
 
 ## Platform
+
 Before we move on, here’s a demo link
 
 [Landing Page](https://webaseai.netlify.com/)
@@ -66,6 +68,7 @@ WeBase enables organizations to overcome the common barriers to deep learning de
 ![Webase](https://miro.medium.com/max/875/1*MXlMW5ToF_QPDtTj3KhHlw.png)
 
 # Is WeBase really needed?
+
 ![Webase](https://miro.medium.com/max/875/1*2fhB6D_aB7ERwwnvQki6UA.png)
 
 Data Science is a very dynamic field. Not a lot of time has gone since deep learning became the defacto for the best solution for a lot of problems like self-driving cars, object detection, face recognition, violence detection, etc. However, it’s hard to keep up with the advancement. According to the statistics, there is a huge demand and supply gap when it comes to machine learning engineer. In such a scenario it becomes more important to come up with solutions that can help startups and organizations looking to adopt machine learning.

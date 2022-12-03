@@ -1,6 +1,6 @@
 ---
 title: "Game of Thrones - NFT"
-excerpt: "A web app to mint game of thrones NFT in Rinkeby Network."
+excerpt: "Game of Thrones is a popular American fantasy television series that aired from 2011 to 2019. In this article, we will explore how the world of Game of Thrones is being brought to the world of non-fungible tokens (NFTs). Non-fungible tokens, or NFTs, are digital assets that are unique and cannot be replicated or exchanged for other assets on a one-to-one basis. NFTs are built on blockchain technology and they are increasingly being used to represent and trade digital collectibles, such as artwork, music, and other forms of media."
 coverImage: "https://images.unsplash.com/photo-1512510002561-b32d0f7dcab5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=893&q=80"
 date: "2021-12-19T12:04:07.322Z"
 author:

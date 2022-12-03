@@ -1,6 +1,6 @@
 ---
 title: "Champions of Europe 2021"
-excerpt: "Date: 29 May 2021, Chelsea 2021 Champions of Europe"
+excerpt: "On May 29, 2021, Chelsea Football Club won the UEFA Champions League for the first time in their history. The Blues defeated Manchester City 1-0 in the final, thanks to a first-half goal from Chelsea midfielder Kai Havertz."
 coverImage: "https://i.ibb.co/85rRKL2/4e70ea988522.jpg"
 date: "2021-05-30T01:56:07.322Z"
 author:

@@ -1,6 +1,6 @@
 ---
 title: "Scikit-learn's GridSearchCV and Pipeline to build Machine Learning models"
-excerpt: "A Simple Example of Pipeline in Machine Learning with Scikit-learn"
+excerpt: "Scikit-learn is a popular and widely-used Python library for machine learning and data analysis. In this article, we will explore two of the key features of Scikit-learn, GridSearchCV and Pipeline, and how they can be used to build machine learning models."
 coverImage: "https://images.unsplash.com/photo-1461301214746-1e109215d6d3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
 date: "2022-08-28T12:04:07.322Z"
 author:
@@ -13,7 +13,6 @@ ogImage:
 There are many steps to building a model, from creating training and test sets, to fitting a classifier or regressor, to tuning its parameters, to evaluating its performance on new data. Imputation can be seen as the first step of this machine learning process, the entirety of which can be viewed within the context of a pipeline. Scikit-learn provides a pipeline constructor that allows you to piece together these steps into one process and thereby simplify your workflow.
 
 ## Creating machine learning Pipelines.
-
 
 ```python
 # Import the Imputer module
@@ -85,7 +84,7 @@ from sklearn.pipeline import Pipeline
 # Setup the pipeline steps: steps
 steps = [('scaler', StandardScaler()),
         ('knn', KNeighborsClassifier())]
-        
+
 # Create the pipeline: pipeline
 pipeline = Pipeline(steps)
 
@@ -165,7 +164,7 @@ steps = [('imputation', Imputer(missing_values='NaN', strategy='mean', axis=0)),
          ('scaler', StandardScaler()),
          ('elasticnet', ElasticNet())]
 
-# Create the pipeline: pipeline 
+# Create the pipeline: pipeline
 pipeline = Pipeline(steps)
 
 # Specify the hyperparameter space
@@ -187,6 +186,7 @@ print("Tuned ElasticNet R squared: {}".format(r2))
 ```
 
 Output
+
 ```terminal
 Tuned ElasticNet Alpha: {'elasticnet__l1_ratio': 1.0}
 Tuned ElasticNet R squared: 0.8862016570888217

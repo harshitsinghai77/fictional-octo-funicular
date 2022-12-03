@@ -1,6 +1,6 @@
 ---
 title: "Loop - Content Creators 3.0"
-excerpt: "A platform that helps you support your favourite creators without draining your pockets."
+excerpt: "A platform that helps you support your favourite creators without draining your pockets. Loop is a new platform for content creators that aims to revolutionize the way that creators produce, distribute, and monetize their content. In this article, we will explore some of the key features and benefits of Loop, and how it is transforming the world of content creation."
 coverImage: "https://images.unsplash.com/photo-1613294326794-e7c74fe886e2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
 date: "2021-11-25T12:04:07.322Z"
 author:
@@ -9,6 +9,12 @@ author:
 ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
+
+Loop is a new platform for content creators that aims to revolutionize the way that creators produce, distribute, and monetize their content. In this article, we will explore some of the key features and benefits of Loop, and how it is transforming the world of content creation.
+
+One of the key features of Loop is its decentralized and blockchain-based architecture, which allows creators to have full control and ownership over their content. Loop uses blockchain technology and smart contracts to enable creators to publish, distribute, and monetize their content in a transparent and secure manner. This allows creators to retain the rights and ownership of their content, and to receive fair and transparent compensation for their work.
+
+Another advantage of Loop is its focus on building a community of creators and supporters.
 
 We're all familiar with how we support creators in the Web2 world. We have been picking our brains to figure out how we would make this a better experience on Web3. Loop is a content-creator-first platform built to address the needs of Creator 3.0.
 

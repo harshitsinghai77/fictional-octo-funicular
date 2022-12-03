@@ -1,6 +1,6 @@
 ---
 title: "Be productive with Nemo"
-excerpt: "Nemo is your little helper and companion no matter if you need to focus, tune out other noises or if you want to have a moment of calm and relax."
+excerpt: "Nemo is your little helper and companion no matter if you need to focus, tune out other noises or if you want to have a moment of calm and relax. Nemo is a digital platform that provides users with a customizable and personalized space for focus and productivity. This can be particularly useful for people who work in noisy or distracting environments, or who need to focus on specific tasks or projects."
 coverImage: "https://images.unsplash.com/photo-1493441883526-0ed85220dc0c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=891&q=80"
 date: "2021-07-22T12:04:07.322Z"
 author:

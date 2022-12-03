@@ -1,6 +1,6 @@
 ---
 title: "Why you should package your Machine Learning Project."
-excerpt: "Why you should package your machine learning model inside a container and automate Continous Integration in your next machine learning project?"
+excerpt: "Packaging machine learning (ML) projects is the process of bundling the code, data, and dependencies of an ML project into a single, self-contained unit. Packaging ML projects has a number of benefits, including making it easier to share, deploy, and maintain ML projects. In this article, we will explore some of the key reasons why you should package your ML project."
 coverImage: "https://images.unsplash.com/photo-1576201836106-db1758fd1c97?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
 date: "2021-07-28T12:04:07.322Z"
 author:

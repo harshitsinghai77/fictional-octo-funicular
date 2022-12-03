@@ -1,6 +1,6 @@
 ---
 title: "Glorified Hello World with Go"
-excerpt: "A hitchinker guide to all the basics of Golang. This post is all you need to get started with the Go programming language. It covers all the basics in depth to help you get started with Go. If you're a novice developer or have some experience working with Python or Javascript and wants to make transaction to go, this post is more than enough to get onboard with your Go journey... I promise"
+excerpt: "A hitchinker guide to all the basics of Golang. This post is all you need to get started with the Go programming language. It covers all the basics in depth to help you get started with Go. Go is a popular and powerful programming language that is well-suited to a wide range of applications."
 coverImage: "https://images.unsplash.com/photo-1454496522488-7a8e488e8606?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=755&q=80"
 date: "2020-11-16T01:56:07.322Z"
 author:
