@@ -1,8 +1,8 @@
 ---
 title: "Side Projects 2022"
 excerpt: "Over the years, I have worked on a variety of personal projects in my free time, ranging from web apps to machine learning to Data Engineering to Web3. In this collection, you will find a selection of my most interesting and successful projects, each with its own unique challenges and accomplishments. I hope you enjoy exploring them as much as I enjoyed creating them!"
-coverImage: "https://images.unsplash.com/photo-1666115884136-95be94587a5e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80"
-date: "2022-10-22T12:04:07.322Z"
+coverImage: "https://lexica-serve-encoded-images2.sharif.workers.dev/md/c334db1e-571a-45e0-953c-eec226b776b3"
+date: "2022-12-22T12:04:07.322Z"
 author:
   name: Harshit Singhai
   picture: "/images/profile.jpg"
@@ -39,9 +39,52 @@ Nemo analytics help you keep track of your productivity and focussed session wit
 **Source code:**
 
 1. [Nemo Frontend (React)](https://github.com/harshitsinghai77/nemo-frontend)
-2. [Nemo Backend (Python API)](https://github.com/harshitsinghai77/nemo-backend)
+2. [Nemo Backend (Python)](https://github.com/harshitsinghai77/nemo-backend)
 3. [Nemo Landing Page (Next JS)](https://github.com/harshitsinghai77/noisli-landing-page-nextjs)
 4. [CI/CD (Github Actions)](https://github.com/harshitsinghai77/nemo-backend/blob/master/.github/workflows/main.yml)
+
+# Nemo Lofi
+
+[https://nemo-app.netlify.app/lofi](https://nemo-app.netlify.app/lofi)
+
+<img src='https://iili.io/HBVlHrb.jpg' />
+
+Nemo Lofi is a lofi music player by Nemo that allows you to listen to lofi sounds to help you focus, be productive and get work done. Nemo makes it perfect for listening to while you work, study or simply want to unwind. With Nemo Lofi, you can choose from a variety of lofi tracks to suit your mood and needs.
+
+Nemo lofi lets you choose from a variety of lofi tracks to suit your mood and needs. All you have to do is select the track you want to listen to and set a timer for how long you want to listen. Nemo Lofi will then play the track for the specified amount of time, allowing you to focus and get work done.
+
+<img src='https://iili.io/HB6gw3F.png' />
+
+**Get Started** [Nemo Lofi](https://nemo-app.netlify.app/lofi)
+
+**Find out more:** [Introducing Nemo Lofi](https://fictionally-irrelevant.vercel.app/posts/introducing-nemo-lofi)
+
+<img src='https://iili.io/HB6NLKJ.png' />
+
+**Source code:** [Nemo Lofi Frontend](https://github.com/harshitsinghai77/nemo-frontend)
+
+# Nemo Thread
+
+[https://nemo-thread.deta.dev/](https://nemo-thread.deta.dev/)
+
+<img src='https://i.ibb.co/TKcYKqL/Screenshot-from-2022-12-21-12-28-00.png' />
+
+Are you tired of losing track of those amazing Twitter threads you come across? Do you wish there was an easier way to save and organize them? Introducing Nemo Threads – the solution to all your Twitter thread woes.
+
+With Nemo Threads, you can create your own wall of favorite threads, all in one convenient place. And if you want to see what threads your friends are saving, simply check out their public Nemo Threads wall with their Twitter handle.
+
+But that's not all – Nemo Threads is completely free and doesn't even require a sign-up process. And, as a bonus, it's brought to you by the creators of [Nemo](https://nemo-landing-page.netlify.app/) – a helpful tool for increasing productivity, relaxation, and focus.
+
+<img src='https://iili.io/Hz7OZ5G.png' />
+
+Saving Twitter threads have never been easier. No sign up required. Just tag `@focus_with_nemo` and you're done.
+
+**Get Started** [Nemo Threads](https://nemo-thread.deta.dev/)
+
+**Find out more:** [Introducing Nemo Thread](https://fictionally-irrelevant.vercel.app/posts/introducing-nemo-thread)
+
+**Source Code**
+[https://github.com/harshitsinghai77/nemo-thread](https://github.com/harshitsinghai77/nemo-thread)
 
 # WeBase
 
@@ -89,6 +132,56 @@ Password - Pass@12345
 
 Note: Some app features won't work because the hosting limit has been exceeded. ML models were initially deployed for free in gcp/aws. But due to free tier limit and unable to pay for the cloud bills (need 💰💰💰 for AWS/GCP bill), the backend serving the app has automatically been termnined. Some features might still work as different ML endpoint were hosted in different cloud providers.
 
+# AI Generated MessiNFT using Flow and Cadence
+
+[https://messi-nft.netlify.app/](https://messi-nft.netlify.app/)
+
+<img src='https://iili.io/HIsxQKG.png' />
+
+As someone who is passionate about both art and technology, I am always looking for new ways to combine these two worlds. That's why I was excited to explore the world of NFTs and the potential they have for creating unique, digital art experiences.
+
+Mint your own AI Generated MessiNFT 🐐 on Flow blockchain.
+
+Experience the future of art with AI generated Messi NFTs on Flow.
+
+AI images are generated using Stable Diffusion and Dreambooth.
+
+**Get Started** [https://messi-nft.netlify.app/](https://messi-nft.netlify.app/)
+
+**Read more about MessiNFT here**
+[https://fictionally-irrelevant.vercel.app/posts/ai-generated-messi-nft-on-flow-web3](https://fictionally-irrelevant.vercel.app/posts/ai-generated-messi-nft-on-flow-web3)
+
+**Source Code**
+[https://github.com/harshitsinghai77/messi-ai-generated-nft-flow-cadence](https://github.com/harshitsinghai77/messi-ai-generated-nft-flow-cadence)
+
+# SignatureDAO
+
+[https://signature-dao.netlify.app/](https://signature-dao.netlify.app/)
+
+<img src='https://iili.io/HCdJHpj.png' />
+
+Your NFT Signature is an identity you can use in the Web3 world, any way you want!
+
+Introducing the personalized Signature NFT - a unique and one-of-a-kind digital asset that is all your own. Type or draw your signature, and claim it to receive your very own NFT on your address. Use it as your digital identity, signature, or anything else you can imagine. With your personalized Signature NFT, the possibilities are endless. Claim your spot now and join the revolution!"
+
+Be a part of the revolution, get the early mover advantage, and support and grow with the best decentralized communities as a core member of the incredible One Million Signature DAO.
+
+Own a Signature NFT and gain access to a whole world of upcoming airdrops, reward NFTs, and much more!
+
+Our vision is to creating a fair and transparent system to support artists, developers and community members of the emerging NFT, DeFi and metaverse space.
+
+**Get Started** [https://signature-dao.netlify.app/](https://signature-dao.netlify.app/)
+
+**Contract in Polygon** [Polygon Mumbai Test](https://mumbai.polygonscan.com/address/0xcAF2F8591E1Ba89210C6D690cE4d102c101Df1CC)
+
+**NFT in Opensea** [Opensea Collection](https://testnets.opensea.io/collection/1-million-signatures-vwoajmf3fb)
+
+**Read more about SignatureDao here**
+[https://fictionally-irrelevant.vercel.app/posts/signature-dao](https://fictionally-irrelevant.vercel.app/posts/signature-dao)
+
+**Source Code**
+[github.com/harshitsinghai77/signatureDao](https://github.com/harshitsinghai77/signatureDao)
+
 # Loop
 
 [https://loop-web3.netlify.app/](https://loop-web3.netlify.app/)
@@ -110,14 +203,16 @@ With Loop, creators can also LIVE stream their content and do much more.
 
 **Get Started** [https://loop-web3.netlify.app/](https://loop-web3.netlify.app/)
 
-**Check WeBase on Youtube**
+**ETH Global** [showcase.ethglobal.com/web3jam/loop](https://showcase.ethglobal.com/web3jam/loop)
+
+**Loop on Youtube**
 [https://www.youtube.com/watch?v=rM7JOhKNZjY](https://www.youtube.com/watch?v=rM7JOhKNZjY)
 
 **Blog**
 [https://fictionally-irrelevant.vercel.app/posts/introducing-loop](https://fictionally-irrelevant.vercel.app/posts/introducing-loop)
 
 **Source Code**
-[https://github.com/harshitsinghai77/web3-loop](https://github.com/harshitsinghai77/web3-loop)
+[github.com/harshitsinghai77/web3-loop](https://github.com/harshitsinghai77/web3-loop)
 
 # Web3 Build
 
@@ -167,16 +262,16 @@ Pluto uses a TensorFlow implementation of Neural Style Transfer wrapped as a RES
 
 **Get Started** [https://plutoai.netlify.app/](https://plutoai.netlify.app/)
 
-<img src='https://raw.githubusercontent.com/harshitsinghai77/pluto/master/static/images/pluto_3.png' />
+<img src='https://iili.io/HB6q9Bp.png' />
 <br />
-<img src='https://raw.githubusercontent.com/harshitsinghai77/pluto/master/static/images/pluto_6.png' />
+<img src='https://iili.io/HB6fbTJ.png' />
 <br />
-<img src='https://raw.githubusercontent.com/harshitsinghai77/pluto/master/static/images/pluto_7.png' />
+<img src='https://iili.io/HB6fpQR.png' />
 <br/>
 
 Result
 
-<img src='https://raw.githubusercontent.com/harshitsinghai77/pluto/master/static/images/pluto_13.png' />
+<img src='https://iili.io/HB6qJ4I.png' />
 
 **Source Code**
 
@@ -184,7 +279,7 @@ Result
 2. ML Model: [https://tinyurl.com/588a8pjc](https://tinyurl.com/588a8pjc)
 3. Custom ML Model: [https://tinyurl.com/muhz56m8](https://tinyurl.com/muhz56m8)
 
-<img src='https://raw.githubusercontent.com/harshitsinghai77/pluto/master/static/images/pluto_2.png' />
+<img src='https://iili.io/HB6qHEN.png' />
 
 Note: Might not work as of now, Heroku Free Dynamo shut down the python app serving the ML model.
 
@@ -204,7 +299,7 @@ I made it during college, so it was kinda big deal back than (not really).
 
 With Nemo you can mix and match different sounds in order to create your perfect environment. Todobase helps you stay on top of your work routine, tasks and todolist.
 
-**Source Code** [https://github.com/harshitsinghai77/todobase](https://github.com/harshitsinghai77/todobase)
+**Source Code** [github.com/harshitsinghai77/todobase](https://github.com/harshitsinghai77/todobase)
 
 # Vocabby
 
@@ -218,7 +313,7 @@ Copy word in clipboard, hover to the website and get word meaning instantly.
 
 # Streek
 
-[https://github.com/harshitsinghai77/streek-data-etl](https://github.com/harshitsinghai77/streek-data-etl)
+[github.com/harshitsinghai77/streek-data-etl](https://github.com/harshitsinghai77/streek-data-etl)
 
 <img src="https://iili.io/Dd608v.png" />
 
@@ -229,9 +324,9 @@ Includes Pytest, CI/CD pipeline using Github Actions. Using `docker-compose` to 
 
 # deployFlag
 
-[https://github.com/harshitsinghai77/deployFlag](https://github.com/harshitsinghai77/deployFlag)
+[github.com/harshitsinghai77/deployFlag](https://github.com/harshitsinghai77/deployFlag)
 
-<img src="https://raw.githubusercontent.com/harshitsinghai77/deployFlag/master/images/deployFlag.png" />
+<img src="https://iili.io/HBPBlTu.png" />
 
 deployFlag is boilercode for training machine learning algorithms asynchronous using process or threads using Celery's distributed task queue.
 
@@ -239,7 +334,7 @@ Ocave and deployFlag are distributed services which communicate on a producer co
 
 This can be used for usecases where you want to train a unique machine learning model for each unique user. The model should be lightweighted and minimal. This approach won't be able to train large ML models, might run into memory error.
 
-**Source Code** [https://github.com/harshitsinghai77/deployFlag](https://github.com/harshitsinghai77/deployFlag)
+**Source Code** [github.com/harshitsinghai77/deployFlag](https://github.com/harshitsinghai77/deployFlag)
 
 # Certility - Fetal Health Classifier using MLOps
 
@@ -262,7 +357,7 @@ Model deployed in Azure using Azure Machine Learning Studio.
 
 # Stackup
 
-[https://github.com/harshitsinghai77/schedule-long-task-using-python-node-go](https://github.com/harshitsinghai77/schedule-long-task-using-python-node-go)
+[github.com/harshitsinghai77/schedule-long-task-using-python-node-go](https://github.com/harshitsinghai77/schedule-long-task-using-python-node-go)
 
 <img src='https://iili.io/DdDiyg.png' />
 
@@ -289,11 +384,11 @@ Features:
 Running it Locally
 Go to the specific branch to find out specific language implementation.
 
-1. Python: [https://github.com/harshitsinghai77/schedule-long-task-using-python-node-go/tree/python-celery](https://github.com/harshitsinghai77/schedule-long-task-using-python-node-go/tree/python-celery)
-2. Node: [https://github.com/harshitsinghai77/schedule-long-task-using-python-node-go/tree/node_bull](https://github.com/harshitsinghai77/schedule-long-task-using-python-node-go/tree/node_bull)
-3. Go: [https://github.com/harshitsinghai77/schedule-long-task-using-python-node-go/tree/go](https://github.com/harshitsinghai77/schedule-long-task-using-python-node-go/tree/go)
+1. Python: [/schedule-long-task-using-python-node-go/tree/python-celery](https://github.com/harshitsinghai77/schedule-long-task-using-python-node-go/tree/python-celery)
+2. Node: [/schedule-long-task-using-python-node-go/tree/node_bull](https://github.com/harshitsinghai77/schedule-long-task-using-python-node-go/tree/node_bull)
+3. Go: [/schedule-long-task-using-python-node-go/tree/go](https://github.com/harshitsinghai77/schedule-long-task-using-python-node-go/tree/go)
 
-**Source Code** [https://github.com/harshitsinghai77/schedule-long-task-using-python-node-go](https://github.com/harshitsinghai77/schedule-long-task-using-python-node-go)
+**Source Code** [/schedule-long-task-using-python-node-go](https://github.com/harshitsinghai77/schedule-long-task-using-python-node-go)
 
 ## Conclusion
 
@@ -301,4 +396,4 @@ That's it, all the side projects that I'm little proud of. Lot of them sounds ba
 
 I'll be building more projects (hopefully meaningful) in the future. Feel free to reach out to me for collaboration.
 
-That’s it for today, see you soon. :)
+That’s it for today, see you soon. :) -->

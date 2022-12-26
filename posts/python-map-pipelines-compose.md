@@ -2,7 +2,7 @@
 title: "Python: Functional Programming with Map, Compose and Pipe."
 excerpt: "Python is a versatile programming language that is well-suited to a variety of programming paradigms. One of these paradigms is functional programming, which focuses on the use of functions to transform and manipulate data. In this article, we will explore some of the key concepts of functional programming in Python, including map, compose, and pipe."
 coverImage: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
-date: "2022-04-24T12:04:07.322Z"
+date: "2022-05-24T12:04:07.322Z"
 author:
   name: Harshit Singhai
   picture: "/images/profile.jpg"
