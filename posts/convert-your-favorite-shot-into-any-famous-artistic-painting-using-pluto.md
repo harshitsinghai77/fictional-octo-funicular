@@ -1,7 +1,7 @@
 ---
 title: "Convert your favorite shot into any famous artistic painting using Pluto."
 excerpt: "Use AI to convert your favorite shot into any artistic painting. Ever since Deep Neural Style Transfer was introduced in 2016 Neural Style Transfer by Leon Gatys et al, the world has been fascinated by the creative power of Deep Learning Algorithms. Following the footseps of many people who were curious to build their own implementation, I designed Pluto, to make it super easy for people to try my Neural Style Transfer."
-coverImage: "https://raw.githubusercontent.com/harshitsinghai77/pluto/master/static/images/video_thumbnail.png"
+coverImage: "https://iili.io/HTFghBf.png"
 date: "2020-11-28T12:04:07.322Z"
 author:
   name: Harshit Singhai
@@ -62,14 +62,14 @@ $ npm start
 
 ### How It Works
 
-![alt text](https://raw.githubusercontent.com/harshitsinghai77/pluto/master/static/images/pluto_14.png)
-![alt text](https://raw.githubusercontent.com/harshitsinghai77/pluto/master/static/images/pluto_3.png)
-![alt text](https://raw.githubusercontent.com/harshitsinghai77/pluto/master/static/images/pluto_12.png)
-![alt text](https://raw.githubusercontent.com/harshitsinghai77/pluto/master/static/images/pluto_5.png)
-![alt text](https://raw.githubusercontent.com/harshitsinghai77/pluto/master/static/images/pluto_6.png)
-![alt text](https://raw.githubusercontent.com/harshitsinghai77/pluto/master/static/images/pluto_1.png)
-![alt text](https://raw.githubusercontent.com/harshitsinghai77/pluto/master/static/images/pluto_7.png)
-![alt text](https://raw.githubusercontent.com/harshitsinghai77/pluto/master/static/images/pluto_13.png)
+![alt text](https://iili.io/HTFgVXs.png)
+![alt text](https://iili.io/HTFgImF.png)
+![alt text](https://iili.io/HTFgRLJ.png)
+![alt text](https://iili.io/HTFgx5P.png)
+![alt text](https://iili.io/HTFg7qv.png)
+![alt text](https://iili.io/HTFgze1.png)
+![alt text](https://iili.io/HTFg1et.png)
+![alt text](https://iili.io/HTFgEmX.png)
 
 ## Github
 
@@ -85,7 +85,7 @@ $ npm start
 
 ## Pluto Showcase
 
-![alt text](https://raw.githubusercontent.com/harshitsinghai77/pluto/master/static/images/pluto_2.png)
+![alt text](https://iili.io/HTFg07I.png)
 
 ## Conclusion
 

@@ -6,8 +6,10 @@ export default function Intro() {
       </h1>
       <h4 className="text-center xl:text-left lg:text-left text-lg mt-5 lg:pl-8">
         Hey I'm Harshit, working as a Data Engineer currently based in India.
-        Interested in Data Engineering and MLOps. I've experience working with 4
-        different startups as a Software Engineer.
+        Interested in AI, Data Engineering and Web3. As a Software Engineer, I
+        have worked with startups in various roles. In my spare time, I enjoy
+        building projects, reading books, playing football, and supporting
+        Chelsea FC.
         <br />
         <a
           href="https://nemo-landing-page.netlify.app/"
@@ -17,13 +19,35 @@ export default function Intro() {
           Current Side Project - Nemo
         </a>
         <br />
-        <a
-          href="https://github.com/harshitsinghai77"
-          target="_blank"
-          className="underline hover:text-success duration-200 transition-colors"
-        >
-          Check out my Github
-        </a>
+        <div className="flex flex-row mt-4">
+          <a href="https://github.com/harshitsinghai77">
+            <img
+              src="https://img.icons8.com/ios-filled/50/000000/github.png"
+              className="mr-2"
+              alt="Github"
+              width="30"
+              height="30"
+            />
+          </a>
+          <a href="https://twitter.com/harshit_778">
+            <img
+              src="https://img.icons8.com/ios-filled/50/000000/twitter.png"
+              className="mr-2"
+              alt="Twitter"
+              width="30"
+              height="30"
+            />
+          </a>
+          <a href="https://www.linkedin.com/in/harshitsinghai/">
+            <img
+              src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"
+              className="mr-2"
+              alt="LinkedIn"
+              width="30"
+              height="30"
+            />
+          </a>
+        </div>
         {/* &nbsp;&&nbsp;
         <Link href="/devlogs">
           <a className="underline hover:text-success duration-200 transition-colors">

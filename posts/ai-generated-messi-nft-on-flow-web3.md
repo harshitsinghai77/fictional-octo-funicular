@@ -29,9 +29,9 @@ Both Stable Diffusion and Dreambooth can be used to generate a wide range of AI 
 <img src="https://bafkreia35jevoi6ziwyqrt3ftridnccahoiln23zy26oqppvuyk7ifzdoy.ipfs.nftstorage.link/" />
 <br />
 
-## Get stated with installing wallet extension
+## No wallet extension required.
 
-If you're interested in experiencing the future of art and collecting, I invite you to join me in minting your own AI-generated Messi NFT on Flow. It's easy to get started – simply connect your wallet using Blocto and you'll be ready to go in just 10 seconds.
+It's easy to get started – No need to install any chrome wallet extension, simply connect using your email address via Blocto and you'll be ready to go in just 10 seconds.
 
 ## Flow
 

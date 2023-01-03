@@ -2,6 +2,27 @@
   "updated_at": "12-29-2020",
   "movies": [
     {
+      "title": "The Girl with the Dragon Tattoo",
+      "imgURL": "https://m.media-amazon.com/images/M/MV5BMTczNDk4NTQ0OV5BMl5BanBnXkFtZTcwNDAxMDgxNw@@._V1_.jpg",
+      "description": "Todo...",
+      "date": "2023-01-02T05:35:07.322Z",
+      "type": "Movie"
+    },
+    {
+      "title": "Shutter Island",
+      "imgURL": "https://www.whatsnewnetflix.com/wp-content/uploads/netflix/tt1130884-poster.jpg",
+      "description": "Todo...",
+      "date": "2022-12-27T05:35:07.322Z",
+      "type": "Movie"
+    },
+    {
+      "title": "Locke & Key Season 3",
+      "imgURL": "https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQRDfMNInZ6zhGWVEK84yerPl9IXsD7DQ4xwRqEMFajjtONBNTtLXSJoKjHfuXCg9_j_VOsWJ_hNOescf46vXmyDuRfXob9XT57edVN4w4q9tzEg9FQDf0BfOnb5e1Gsz8bhZ813cYwht0mMsHsVdQHIX.jpg?r=949",
+      "description": "Todo...",
+      "date": "2022-08-06T05:35:07.322Z",
+      "type": "Movie"
+    },
+    {
       "title": "Laal Singh Chaddha",
       "imgURL": "https://m.media-amazon.com/images/M/MV5BMTY4YjFhMzUtMWIxMC00NDI2LTgxOGYtMDM1ZGQ1ZDUxZTE0XkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_.jpg",
       "description": "Todo...",
@@ -94,26 +115,16 @@
     },
     {
       "title": "Leap Year",
-      "imgURL": "https://m.media-amazon.com/images/M/MV5BYmYzYzBmYmItMDZhMy00NTQyLTk1NzUtYTU5NTgyYmIzYmE3XkEyXkFqcGdeQXVyMTE2MjAzMTU3._V1_UY1200_CR99,0,630,1200_AL_.jpg",
+      "imgURL": "https://images.moviesanywhere.com/5376715ceb2340e5596d3eb11af8d140/2eee0fdd-dbd6-4d81-9f25-7dc9c9475847.jpg",
       "description": "The movie revolves around Anna who is in relationship with Jeremy for 4 years. Waiting for Jeremy to purpose her, she decides to travel to Dublin to propose marriage to Jeremy on Leap Day in accordance with an old Irish tradition. On her trip to Dublin, she meets Declan and thing starts getting complicated. Overall, movie is weak, unfunny for large parts, and zero spark between the leads. Apart from this, the only thing worth sticking is the beauty of the Ireland.",
       "date": "2021-01-30T05:35:07.322Z",
-      "img_name": "leap_year.jpg",
       "type": "Movie"
     },
     {
       "title": "The White Tiger",
-      "imgURL": "https://m.media-amazon.com/images/M/MV5BYmYzYzBmYmItMDZhMy00NTQyLTk1NzUtYTU5NTgyYmIzYmE3XkEyXkFqcGdeQXVyMTE2MjAzMTU3._V1_UY1200_CR99,0,630,1200_AL_.jpg",
+      "imgURL": "https://m.media-amazon.com/images/M/MV5BMDVkMDRkMzItN2EyYS00ZTI5LTljYzgtNzRmZDQ0OTQ3M2VjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
       "description": "Based on the book with the same name, The white tiger tells the story of the class inequality and the emphasis on the relationship between a master and a servant and how the anger burning inside the servant finally leads to betraying his own master and killing him. The cinematography is on point. Great storytelling. The only thing lacking to become the next Slumdog Millionaire is the emotional aspect. Include that and we could have potentially witnessed another master class.",
       "date": "2021-01-23T05:35:07.322Z",
-      "img_name": "the_white_tiger.jpg",
-      "type": "Movie"
-    },
-    {
-      "title": "American Beauty",
-      "imgURL": "https://m.media-amazon.com/images/M/MV5BYmYzYzBmYmItMDZhMy00NTQyLTk1NzUtYTU5NTgyYmIzYmE3XkEyXkFqcGdeQXVyMTE2MjAzMTU3._V1_UY1200_CR99,0,630,1200_AL_.jpg",
-      "description": "Another Kevin Spacey classic. Few scenes were really epic and you can relate a lot with the character. 'Both my wife and daughter think I'm this chronic loser' and 'less than a year I will be dead. Of course I don't know that yet, and in a way, I am dead already.' hits really hard. Overall the movie will be more relatable once I'm in the same age bracket. It's not much relatable for me at the time but I can see most of the things happenning to me when I'm in my 60s...",
-      "date": "2021-01-17T05:35:07.322Z",
-      "img_name": "american_beauty.jpg",
       "type": "Movie"
     },
     {
@@ -121,7 +132,6 @@
       "imgURL": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThI6ktngNrFXQfEO3YQaDbaqbtNEMS_2t8n6eW5dACoMM9nXEj",
       "description": "A good watch. The movie reflect on the betrayal of McDonald's brothers and how Ray Kroc went behind their back, took their legacy and called himself The Founder. The movie is the perfect example of a wolf in the hen house. Ray Kroc was onboarded as a franchiser, what went on to raise his own empire based on the Mcdonalds branding and eventually buying the company from the brothers leaving them with nothing but penny of what could potentially be billions.",
       "date": "2020-12-30T05:35:07.322Z",
-      "img_name": "the_founder.jpg",
       "type": "Movie"
     },
     {
@@ -129,12 +139,11 @@
       "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkVr6pUmVjfGARjI0uhJOwvTfoGHzfEnJNxZ0oUMec3q09rDrA",
       "description": "Woah. Talk about stalker murdering psychopath, antisocial, narcissistic this show has everything. Can't wait for the next season. I'll recommend it to anyone. Some episodes were really good. A good watch overally, worth it. Surely not a time waste. Highly recommended.",
       "date": "2020-09-14T05:35:07.322Z",
-      "img_name": "you.jpg",
       "type": "Tv Show"
     },
     {
       "title": "YOU Season1",
-      "imgURL": "https://upload.wikimedia.org/wikipedia/en/c/c6/You_Season_1.jpg",
+      "imgURL": "https://images.justwatch.com/poster/243481452/s332/season-1.%7Bformat%7D ",
       "description": "Woah. Talk about stalker murdering psychopath, antisocial, narcissistic this show has everything. Can't wait for the next season. I'll recommend it to anyone. Some episodes were really good. A good watch overally, worth it. Surely not a time waste. Highly recommended.",
       "date": "2020-08-10T05:35:07.322Z",
       "type": "Tv Show"
@@ -144,7 +153,6 @@
       "imgURL": "https://m.media-amazon.com/images/M/MV5BZGRhOWM5MzQtM2FlNi00Zjc5LThmZmUtZTI2NzY0MTA1YjM2XkEyXkFqcGdeQXVyODQwODA1MjY@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
       "description": "Hmm. This is a typical feel good movie. Nothing to take home. Will keep you interested while it lasts, probably put a smile on your face and that's it. The actress is hot but wear's too much makeup. I looked at her instagram, she isn't as good looking as she was in the movie. Too much makeup, but hot nonetheless. I would recommend if you're looking for a light watch movie after a very hard-working day...",
       "date": "2020-08-16T05:35:07.322Z",
-      "img_name": "the_perfect_date.jpg",
       "type": "Movie"
     },
     {
@@ -152,7 +160,6 @@
       "imgURL": "https://upload.wikimedia.org/wikipedia/en/d/d3/The_Queen%27s_Gambit.jpg",
       "description": "Totally worth it. Past paced episodes, didn't feel like much of a lag. The whole life of the protagonist is captured in 8 episodes, all the way from prodigy, reaching the top, not able to sustain it, alcholism and self-centered, downfall and then rise again to the stardom. This is close to being a masterpeice. Every scene is made with perfection. Great sets, captured 1900's beautifully.",
       "date": "2020-11-18T05:35:07.322Z",
-      "img_name": "the_queen_gambit.jpg",
       "type": "Tv Show"
     },
     {
@@ -160,7 +167,6 @@
       "imgURL": "https://images-na.ssl-images-amazon.com/images/I/81V%2Bb69u3xL._SL1500_.jpg",
       "description": "Easily will go down in my all time top 10. Realizing that the movie is based on a real person Frank Abagnale will make it even more special. It will easily keep you at your seat, hooked. The time will pass in a flash and you can't help but wonder 'how did the movie ended so soon?'. Why did I wait so long to watch this movie? Definitely Recommend it. One of the best movies I've watched ",
       "date": "2020-12-22T05:35:07.322Z",
-      "img_name": "catch_me_if_you_can.jpg",
       "type": "Movie"
     },
     {
@@ -168,7 +174,6 @@
       "imgURL": "https://m.media-amazon.com/images/M/MV5BODE2NjE4NjYyMV5BMl5BanBnXkFtZTgwNzk3MjQ0OTE@._V1_.jpg",
       "description": "Started out pretty strong and then normalized from there. A good normal storyline dealing with anxiety issues, 'am not good looking' and teenage problems. Another RomCom Feel-Good genre. Not much to look on the comedy side. One of the movies, where teenagers are really hot, mature, good looking and far beyond their age, which makes you wonder how did it go wrong for you? The movie has nothing spectatcular to offer but if you like Hailee Steinfeld, then it's a treat.",
       "date": "2020-10-11T05:35:07.322Z",
-      "img_name": "the_edge_of_seventeen.jpg",
       "type": "Movie"
     },
     {
@@ -176,7 +181,6 @@
       "imgURL": "https://m.media-amazon.com/images/M/MV5BZDcxOGI0MDYtNTc5NS00NDUzLWFkOTItNDIxZjI0OTllNTljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
       "description": "Interesting. Some episodes were really slow and can't wait to finish them. Lots of good plot twist. Didn't watch the last season tho. I think it's getting a little stretched now. First couple of season were good. I still have to watch the last season, but have no such plans at the moment. It surely has it's moment, biggest strengths being it's unpredicatable nature, lots of twists (really lot) and creative writing. Overall, I'll recommend you to watch it but not force you.",
       "date": "2020-07-08T05:35:07.322Z",
-      "img_name": "money_heist.jpg",
       "type": "Tv Show"
     },
     {
@@ -184,7 +188,6 @@
       "imgURL": "https://i.pinimg.com/originals/60/56/6c/60566c12f83a50d9b74bee807ca54065.jpg",
       "description": "First couple of seasons were brilliant, all uphill from there. The seasons got worse and worse as they progressed. Thankfully, they creators announced season4 to be the last season. It is supposed to be a Drama, but the creators tried to raise too many issues like Sexual Assault, Bully, School Shotting, Depression, Anxiety, and everything they can find online (not relevant). Failed Miserably. At the end it makes you wonder what message are the creators exactly trying to raise??. A stretched, mostly forgettable season",
       "date": "2020-06-16T05:35:07.322Z",
-      "img_name": "13_reasons_why.jpg",
       "type": "Tv Show"
     },
     {
@@ -192,7 +195,6 @@
       "imgURL": "https://images-na.ssl-images-amazon.com/images/I/51tBFj0%2BqvL._AC_SX385_.jpg",
       "description": "I'll recommend it in a heartbeat. Totally worth. You can't help but fall in love with Dr.Murphy. Murphy character development is amazing given he has Autism. All the episodes will interesting enough to keep you hooked, and wanting more.",
       "date": "2020-07-23T05:35:07.322Z",
-      "img_name": "the_good_doctor.jpg",
       "type": "Tv Show"
     },
     {
@@ -200,7 +202,6 @@
       "imgURL": "https://m.media-amazon.com/images/M/MV5BN2UyNGM3MDUtMTIzZi00ZDdkLThlYTktYjk0ZDMzM2JiMjMyXkEyXkFqcGdeQXVyNzE0MjkxMzA@._V1_.jpg",
       "description": "Time watse. Time waste. Time waste. The story is basically nothing, some random rich people's problem. The two co-stars are horny as fuck. Makeout and sex scenes every 10-15 min. They talk some random shit and then start making out. Even when they are fighting, angry or in general, they somehow always end up makeing out. The actress is hot, the actor is irritating. The movie does nothing but make you feel jealous, why an average, annoying, dumb guy and a terrible actor is making out with a hot and sexy actress. I literally just watched the entire movie, looking at Josephine Langford and cursing myself.",
       "date": "2020-10-22T05:35:07.322Z",
-      "img_name": "after_we_collided.jpg",
       "type": "Movie"
     }
   ]
