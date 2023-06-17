@@ -1,24 +1,10 @@
 @tailwind base;
-
-/* Write your own custom base styles here */
-
-/* Start purging... */
 @tailwind components;
-/* Stop purging. */
-
-/* Write you own custom component styles here */
-
-/* Start purging... */
 @tailwind utilities;
+
 /* Stop purging. */
 
 /* Your own custom utilities */
-
-.main-header {
-  display: flex;
-  justify-content: space-between;
-  align-content: space-between;
-}
 
 blockquote {
   background: #f9f9f9;
@@ -27,6 +13,7 @@ blockquote {
   padding: 0.5em 10px;
   quotes: "\201C""\201D""\2018""\2019";
 }
+
 blockquote:before {
   color: #ccc;
   content: open-quote;
@@ -35,6 +22,7 @@ blockquote:before {
   margin-right: 0.25em;
   vertical-align: -0.4em;
 }
+
 blockquote p {
   display: inline;
 }

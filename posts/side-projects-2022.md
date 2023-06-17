@@ -2,7 +2,7 @@
 title: "Side Projects 2022"
 excerpt: "Over the years, I have worked on a variety of personal projects in my free time, ranging from web apps to machine learning to Data Engineering to Web3. In this collection, you will find a selection of my most interesting and successful projects, each with its own unique challenges and accomplishments. I hope you enjoy exploring them as much as I enjoyed creating them!"
 coverImage: "https://lexica-serve-encoded-images2.sharif.workers.dev/md/c334db1e-571a-45e0-953c-eec226b776b3"
-date: "2022-12-22T12:04:07.322Z"
+date: "2023-01-22T12:04:07.322Z"
 author:
   name: Harshit Singhai
   picture: "/images/profile.jpg"
@@ -214,6 +214,47 @@ With Loop, creators can also LIVE stream their content and do much more.
 **Source Code**
 [github.com/harshitsinghai77/web3-loop](https://github.com/harshitsinghai77/web3-loop)
 
+# UbeGrants
+
+[https://ube-grants.vercel.app/](https://ube-grants.vercel.app/)
+
+<img src='https://iili.io/HcQoI0G.png' />
+
+UbeGrants is a Hackathon project that allows for milestone-based payments using smart contracts.
+
+Ubeswap is in the process of transitioning platform decision making to the Ubeswap DAO (composed of all UBE holders). In order to facilitate contracts and grants fulfillment by the DAO, we have developed a set of smart contracts with the following functions:
+
+1. Milestone-based payments: The DAO can transfer a grant lump sum to the contract, which will then disburse the grant according to pre-determined milestone completion dates and amounts.
+2. Milestone payment approval and cancellation: A DAO Agent multisig wallet has the ability to approve or cancel milestone payments. If a grant's milestones are not met, the funds will be returned to the DAO. These contracts are written in Solidity and are built using the Hardhat Ethereum development environment.
+
+### Gitcoin
+
+Here's the problem statement: [https://gitcoin.co/issue/29600](https://gitcoin.co/issue/29600)
+
+### Live URLs
+
+1. Subgraph: [https://thegraph.com/hosted-service/subgraph/shreyaspapi/ubegrants](https://thegraph.com/hosted-service/subgraph/shreyaspapi/ubegrants)
+2. Frontend: [http://ube-grants.vercel.app/](http://ube-grants.vercel.app/)
+
+## Installation
+
+To use these contracts, you will need to have the following installed:
+
+1. Solidity
+2. Hardhat
+
+Once these dependencies are installed, you can clone this repository and install the remaining dependencies by running npm install in the project directory.
+
+## Backend
+
+The contracts are written in solidity and are deployed on the Goerli and CELO alfregos testnets. You can view the contract on the Goerli etherscan here: [goerli.etherscan.io/address/](https://goerli.etherscan.io/address/0x41bb6856e824af55fa2f10d68cf5a74c351cba41)
+
+Contracts: [contracts/UbeMilestones.sol](https://github.com/harshitsinghai77/ube-grants/blob/main/contracts/contracts/UbeMilestones.sol)
+
+## Frontend
+
+Frontend is written in react and allows users to interact with the contracts on the blockchain.
+
 # Web3 Build
 
 [Opensea NFT](https://opensea.io/0xdcd0527cc1D33411C63171c4F9488e3E0be88858?tab=private)
@@ -300,6 +341,35 @@ I made it during college, so it was kinda big deal back than (not really).
 With Nemo you can mix and match different sounds in order to create your perfect environment. Todobase helps you stay on top of your work routine, tasks and todolist.
 
 **Source Code** [github.com/harshitsinghai77/todobase](https://github.com/harshitsinghai77/todobase)
+
+# EthereumETL
+
+[github.com/harshitsinghai77/ethereum-etl](https://github.com/harshitsinghai77/ethereum-etl)
+
+<img src="https://iili.io/HcQ3akX.png" />
+
+Cetl is a short ETL pipeline that does the following:
+
+1. Download a fixed set of ethereum blocks (lets say around 20K latest blocks, which should cover ~3 days) as CSV files
+2. Convert into a better format that optimises for storage and retrieval
+3. Load into Kafka for real-time analytics
+4. Load into a columnar store (like Clickhouse) for ad-hoc analysis
+
+### Real-time analytics
+
+1. The moving average of the number of transactions in a block (for a window of 5 blocks)
+2. Total value of gas every hour
+3. Running count of number of transfers sent and received by addresses
+
+### Ad-hoc analysis
+
+1. How many ERC-20 token contracts were found? (token_address gives the address of the ERC-20 contract)
+2. Current balance for any token address (difference between value in transfers involving the address in to_address and from_address)
+3. Highest transaction in a block
+
+Download Blocks using [https://github.com/blockchain-etl/ethereum-etl](https://github.com/blockchain-etl/ethereum-etl).
+
+**Source Code** [github.com/harshitsinghai77/ethereum-etl](https://github.com/harshitsinghai77/ethereum-etl)
 
 # Vocabby
 
@@ -396,4 +466,4 @@ That's it, all the side projects that I'm little proud of. Lot of them sounds ba
 
 I'll be building more projects (hopefully meaningful) in the future. Feel free to reach out to me for collaboration.
 
-That’s it for today, see you soon. :) -->
+That’s it for today, see you soon. :)

@@ -25,8 +25,8 @@ export default function Menu({ preview }) {
             </>
           ) : (
             <>
-              <div className="main-header">
-                <div>
+              <div className="flex justify-between xs:justify-center sm:justify-center">
+                <div className="xs:hidden sm:hidden">
                   The source code for this blog is&nbsp;
                   <a
                     href={`https://github.com/harshitsinghai77/fictionally-irrelevant`}

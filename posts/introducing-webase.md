@@ -260,7 +260,7 @@ We will also be working on the payment gateway to enable monetization. In the fu
 
 > “If everything seems under control, you’re not going fast enough.”
 
-Find more details here at [https://webaselandingpage.netlify.com](https://webaselandingpage.netlify.com)
+Find more details here at [https://webaseai.netlify.app/](https://webaseai.netlify.app/)
 
 Platform: [https://app-webase.netlify.com/](https://app-webase.netlify.com/)
 
