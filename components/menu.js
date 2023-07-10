@@ -38,24 +38,24 @@ export default function Menu({ preview }) {
                   .
                 </div>
                 <div>
-                  <Link href="/">
-                    <a className="mx-1">Home</a>
+                  <Link href="/" className="mx-2">
+                    Home
                   </Link>
 
-                  <Link href="/devlogs">
-                    <a className="mx-1">My daily logs</a>
+                  <Link href="/devlogs" className="mx-2">
+                    My daily logs
                   </Link>
 
-                  <Link href="/movies">
-                    <a className="mx-1">Movies</a>
+                  <Link href="/movies" className="mx-2">
+                    Movies
                   </Link>
 
-                  <Link href="/books">
-                    <a className="mx-1">Books</a>
+                  <Link href="/books" className="mx-2">
+                    Books
                   </Link>
 
-                  <Link href="/certificates">
-                    <a className="mx-1">Certifications</a>
+                  <Link href="/certificates" className="mx-2">
+                    Certifications
                   </Link>
                 </div>
               </div>

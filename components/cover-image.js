@@ -20,7 +20,7 @@ export default function CoverImage({ title, src, id, height, width }) {
     <div className="sm:mx-0">
       {id ? (
         <Link as={`/posts/${id}`} href="/posts/[id]">
-          <a aria-label={title}>{image}</a>
+          {image}
         </Link>
       ) : (
         image

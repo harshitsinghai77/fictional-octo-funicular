@@ -12,27 +12,19 @@ export default function DevLogsLayout({ children, home }) {
         <SEO title="Devlogs | Harshit" />
         <div className={styles.header}>
           <Link href="/devlogs">
-            <a>
-              <h1 className={utilStyles.headingLg}>My Dev Logs</h1>
-            </a>
+            <h1 className={utilStyles.headingLg}>My Dev Logs</h1>
           </Link>
         </div>
         <main>{children}</main>
         {home ? (
           <div className={styles.backToHome}>
-            <Link href="/">
-              <a>← Back to home</a>
-            </Link>
+            <Link href="/">← Back to home</Link>
           </div>
         ) : (
           <div className={styles.backToHome}>
-            <Link href="/devlogs">
-              <a>← Back to devlogs</a>
-            </Link>
+            <Link href="/devlogs">← Back to devlogs</Link>
             &nbsp;&nbsp;&nbsp;
-            <Link href="/">
-              <a>← Back to home</a>
-            </Link>
+            <Link href="/">← Back to home</Link>
           </div>
         )}
       </div>

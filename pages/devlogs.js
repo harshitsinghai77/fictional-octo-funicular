@@ -30,8 +30,8 @@ export default function Devlogs({ alldevlogs }) {
           <ul className={utilStyles.list}>
             {alldevlogs.map(({ id, date, title }) => (
               <li className={utilStyles.listItem} key={id}>
-                <Link href={`/devlogs/${id}`}>
-                  <a className={utilStyles.hyperlink}>{title}</a>
+                <Link href={`/devlogs/${id}`} className={utilStyles.hyperlink}>
+                  {title}
                 </Link>
                 <br />
                 <small className={utilStyles.lightText}>
