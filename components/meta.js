@@ -57,18 +57,6 @@ export default function Meta({ defaultSEOImage }) {
       )}
 
       <meta name="og:title" content="Fictionally Irrelevant." />
-      <link
-        rel="stylesheet"
-        href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.27.0/themes/prism.min.css"
-        integrity="sha512-tN7Ec6zAFaVSG3TpNAKtk4DOHNpSwKHxxrsiw4GHKESGPs5njn/0sMCUMl2svV4wo4BK/rCP7juYz+zx+l6oeQ=="
-        crossOrigin="anonymous"
-        referrerPolicy="no-referrer"
-      />
-
-      <link
-        rel="stylesheet"
-        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
-      />
       {/* <script src="https://player.vimeo.com/api/player.js"></script> */}
     </Head>
   );
