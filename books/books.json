@@ -2,6 +2,13 @@
   "updated_at": "05-01-20222",
   "books": [
     {
+      "title": "14 Habits of Highly Productive Developers",
+      "imgURL": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594841776i/54438214.jpg",
+      "description": "Todo...",
+      "date": "2023-09-09T05:35:07.322Z",
+      "author": "Zeno Rocha"
+    },
+    {
       "title": "Dopamine Nation",
       "imgURL": "https://images-na.ssl-images-amazon.com/images/I/61wKKrcUO7L.jpg",
       "description": "Todo...",
