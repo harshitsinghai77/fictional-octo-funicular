@@ -20,7 +20,7 @@ export default function MovieLogs({ movie }) {
             The main purpose of the movie logs is to help me identify and keep
             track of all the movies and tv shows I watch during a year. It helps
             me stay accountable to myself and serves as a historical record that
-            I can look back on. I'll update it regularly from 2022.
+            I can look back on.
           </p>
         </div>
         <MovieCards movie={movie} />

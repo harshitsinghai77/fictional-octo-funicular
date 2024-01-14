@@ -5,11 +5,11 @@ export default function Intro() {
         Fictionally Irrelevant.
       </h1>
       <h4 className="text-center xl:text-left lg:text-left text-lg mt-5 lg:pl-8">
-        Hey I'm Harshit, working as a Data Engineer. Interested in AI, ML and
-        Data Engineering. As a Software Engineer, I have gained diverse
-        experience working with both startups and consulting companies in
-        various roles and capacities. In my spare time, I enjoy building
-        projects, reading books, playing football, and supporting Chelsea FC.
+        As a Data Engineer, I craft data pipelines and explore the potential of
+        AI, leveraging my diverse software engineering background gained in
+        startups and consulting. When not building tech stacks, you'll find me
+        with a book in hand, supporting Chelsea FC, or building my next side
+        project. 🧑‍💻 🚀
         <br />
         <a
           href="https://nemo-landing-page.netlify.app/"

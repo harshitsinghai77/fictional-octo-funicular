@@ -1,7 +1,7 @@
 ---
 title: "Introducing Nemo Lofi"
 excerpt: "Nemo Lofi provides a soothing and relaxing soundtrack to help you focus and concentrate. Whether you're studying for an exam, working on a challenging project, or just need a break from the hustle and bustle of everyday life, the lofi music on Nemo will help to keep you calm and relaxed."
-coverImage: "https://iili.io/HBVlHrb.jpg"
+coverImage: "https://images.unsplash.com/photo-1563089145-599997674d42?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 date: "2022-12-18T12:04:07.322Z"
 author:
   name: Harshit Singhai
@@ -12,9 +12,9 @@ ogImage:
 
 If you're someone who struggles to focus and get work done, you're not alone. In today's fast-paced, digital world, it can be difficult to stay focused and productive.
 
-<img src="https://iili.io/HBVc4Bn.jpg" />
+<img src="https://iili.io/HB6gw3F.png" />
 
-[Nemo Lofi](https://nemo-app.netlify.app/lofi) is a lofi music player by [Nemo](https://nemo-landing-page.netlify.app/) that allows you to listen to lofi sounds to help you focus, be productive and get work done. Nemo makes it perfect for listening to while you work, study or simply want to unwind. With Nemo Lofi, you can choose from a variety of lofi tracks to suit your mood and needs.
+[Nemo Lofi](https://nemo-lofi.netlify.app/) is a lofi music player by [Nemo](https://nemo-landing-page.netlify.app/) that allows you to listen to lofi sounds to help you focus, be productive and get work done. Nemo makes it perfect for listening to while you work, study or simply want to unwind. With Nemo Lofi, you can choose from a variety of lofi tracks to suit your mood and needs.
 
 <img src="https://iili.io/HBVcDIS.jpg" />
 
@@ -60,7 +60,7 @@ If you're someone who struggles to stay focused and productive, Nemo Lofi is a g
 
 So why wait? Visit [Nemo](https://nemo-landing-page.netlify.app/) today and let him be your guide on your journey to focus and productivity. You'll be glad you did!
 
-<img src="https://iili.io/HBVlHrb.jpg" />
+<img src="https://iili.io/HB6NLKJ.png" />
 
 ## Conclusion
 

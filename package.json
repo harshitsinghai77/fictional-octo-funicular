@@ -27,6 +27,6 @@
   "devDependencies": {
     "postcss-preset-env": "^9.0.0",
     "tailwindcss": "3.3.2",
-    "vercel": "^32.6.0"
+    "vercel": "^33.0.1"
   }
 }

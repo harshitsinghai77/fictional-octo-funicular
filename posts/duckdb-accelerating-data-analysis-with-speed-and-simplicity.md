@@ -1,5 +1,5 @@
 ---
-title: "Introducing DuckDB - Accelerating Data Analysis with Speed and Simplicity"
+title: "DuckDB - Accelerating Data Analysis with Speed and Simplicity"
 excerpt: "Discover the power of DuckDB, the lightning-fast analytics database for Python and R. Explore its unique features, seamless integration, and exceptional performance in handling large datasets."
 coverImage: "https://images.unsplash.com/photo-1547393144-41480cf15125?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1201&q=80"
 date: "2023-07-16T12:04:07.322Z"

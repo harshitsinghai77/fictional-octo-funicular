@@ -45,17 +45,18 @@ Nemo analytics help you keep track of your productivity and focussed session wit
 
 # Nemo Lofi
 
-[https://nemo-app.netlify.app/lofi](https://nemo-app.netlify.app/lofi)
+[https://nemo-lofi.netlify.app/](https://nemo-lofi.netlify.app/)
 
-<img src='https://iili.io/HBVlHrb.jpg' />
+DEPRECATED - Youtube policy changes broke music streaming, so we had to say goodbye.
+
+<img src='https://iili.io/HB6gw3F.png' />
 
 Nemo Lofi is a lofi music player by Nemo that allows you to listen to lofi sounds to help you focus, be productive and get work done. Nemo makes it perfect for listening to while you work, study or simply want to unwind. With Nemo Lofi, you can choose from a variety of lofi tracks to suit your mood and needs.
 
 Nemo lofi lets you choose from a variety of lofi tracks to suit your mood and needs. All you have to do is select the track you want to listen to and set a timer for how long you want to listen. Nemo Lofi will then play the track for the specified amount of time, allowing you to focus and get work done.
 
-<img src='https://iili.io/HB6gw3F.png' />
-
-**Get Started** [Nemo Lofi](https://nemo-app.netlify.app/lofi)
+**Get Started** [Nemo Lofi](https://nemo-lofi.netlify.app/) (DEPRECATED - Youtube policy changes broke music streaming, so we had to say goodbye.
+)
 
 **Find out more:** [Introducing Nemo Lofi](https://fictionally-irrelevant.vercel.app/posts/introducing-nemo-lofi)
 
@@ -65,9 +66,11 @@ Nemo lofi lets you choose from a variety of lofi tracks to suit your mood and ne
 
 # Nemo Thread
 
-[https://nemo-thread.deta.dev/](https://nemo-thread.deta.dev/)
+[https://nemothread-1-e7133226.deta.app/](https://nemothread-1-e7133226.deta.app/)
 
 <img src='https://i.ibb.co/TKcYKqL/Screenshot-from-2022-12-21-12-28-00.png' />
+
+DEPRECATED - Due to recent changes in Twitter's free tier API policy, we've reached a dead end. We regret to inform you that Nemo Threads can no longer fly.
 
 Are you tired of losing track of those amazing Twitter threads you come across? Do you wish there was an easier way to save and organize them? Introducing Nemo Threads – the solution to all your Twitter thread woes.
 
@@ -79,7 +82,7 @@ But that's not all – Nemo Threads is completely free and doesn't even require 
 
 Saving Twitter threads have never been easier. No sign up required. Just tag `@focus_with_nemo` and you're done.
 
-**Get Started** [Nemo Threads](https://nemo-thread.deta.dev/)
+**Get Started** [Nemo Threads](https://nemothread-1-e7133226.deta.app/)
 
 **Find out more:** [Introducing Nemo Thread](https://fictionally-irrelevant.vercel.app/posts/introducing-nemo-thread)
 

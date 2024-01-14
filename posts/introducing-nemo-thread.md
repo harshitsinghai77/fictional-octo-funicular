@@ -12,7 +12,7 @@ ogImage:
 
 Are you tired of losing track of those amazing Twitter threads you come across? Do you wish there was an easier way to save and organize them? Introducing Nemo Threads – the solution to all your Twitter thread woes.
 
-[https://nemo-thread.deta.dev/](https://nemo-thread.deta.dev/)
+[https://nemothread-1-e7133226.deta.app/](https://nemothread-1-e7133226.deta.app/)
 
 <img src='https://i.ibb.co/TKcYKqL/Screenshot-from-2022-12-21-12-28-00.png' />
 
@@ -21,8 +21,6 @@ Saving Twitter threads have never been easier. No sign up required. Just mention
 With Nemo Threads, you can create your own wall of favorite threads, all in one convenient place. And if you want to see what threads your friends are saving, simply check out their public Nemo Threads wall with their Twitter handle.
 
 But that's not all – Nemo Threads is completely free and doesn't even require a sign-up process. And, as a bonus, it's brought to you by the creators of [Nemo](https://nemo-landing-page.netlify.app/) – a helpful tool for increasing productivity, relaxation, and focus.
-
-<img src='https://media.tenor.com/Kt8pNHXHLKwAAAAC/module-free.gif' />
 
 ## The Product
 
@@ -39,12 +37,14 @@ Create your own wall consisting of all your favourite Twitter threads. All you h
 
 ## Nemo Feed
 
-[https://nemo-thread.deta.dev/feed](https://nemo-thread.deta.dev/feed)
+[https://nemothread-1-e7133226.deta.app/feed](https://nemothread-1-e7133226.deta.app/feed)
 
-**Get Started** [Nemo Threads](https://nemo-thread.deta.dev/)
+**Get Started** [Nemo Threads](https://nemothread-1-e7133226.deta.app/)
 
 **Source Code**
 [https://github.com/harshitsinghai77/nemo-thread](https://github.com/harshitsinghai77/nemo-thread)
+
+<img src='https://media.tenor.com/Kt8pNHXHLKwAAAAC/module-free.gif' />
 
 ## Conclusion
 
