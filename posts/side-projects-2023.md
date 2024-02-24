@@ -1,8 +1,8 @@
 ---
-title: "Side Projects 2022"
+title: "Side Projects 2023"
 excerpt: "Over the years, I have worked on a variety of personal projects in my free time, ranging from web apps to machine learning to Data Engineering to Web3. In this collection, you will find a selection of my most interesting and successful projects, each with its own unique challenges and accomplishments. I hope you enjoy exploring them as much as I enjoyed creating them!"
-coverImage: "https://lexica-serve-encoded-images2.sharif.workers.dev/md/c334db1e-571a-45e0-953c-eec226b776b3"
-date: "2023-01-22T12:04:07.322Z"
+coverImage: "https://images.unsplash.com/photo-1542332213-9b5a5a3fad35?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+date: "2023-12-15T12:04:07.322Z"
 author:
   name: Harshit Singhai
   picture: "/images/profile.jpg"
@@ -43,26 +43,29 @@ Nemo analytics help you keep track of your productivity and focussed session wit
 3. [Nemo Landing Page (Next JS)](https://github.com/harshitsinghai77/noisli-landing-page-nextjs)
 4. [CI/CD (Github Actions)](https://github.com/harshitsinghai77/nemo-backend/blob/master/.github/workflows/main.yml)
 
-# Nemo Lofi
+# Nemo Hirefolio
 
-[https://nemo-lofi.netlify.app/](https://nemo-lofi.netlify.app/)
+[https://nemo-hirefolio.netlify.app/](https://nemo-hirefolio.netlify.app/)
 
-DEPRECATED - Youtube policy changes broke music streaming, so we had to say goodbye.
+<img src='https://i.postimg.cc/26FP9XTM/hirefolio-landing.png' />
 
-<img src='https://iili.io/HB6gw3F.png' />
+Do you ever lose track of job applications, deadlines, and important contacts? If so, you're not alone. The job search can be a chaotic and overwhelming experience, but it doesn't have to be.
 
-Nemo Lofi is a lofi music player by Nemo that allows you to listen to lofi sounds to help you focus, be productive and get work done. Nemo makes it perfect for listening to while you work, study or simply want to unwind. With Nemo Lofi, you can choose from a variety of lofi tracks to suit your mood and needs.
+Nemo HireFolio is a new app that takes the stress out of your job search and helps you stay organized and efficient every step of the way.
 
-Nemo lofi lets you choose from a variety of lofi tracks to suit your mood and needs. All you have to do is select the track you want to listen to and set a timer for how long you want to listen. Nemo Lofi will then play the track for the specified amount of time, allowing you to focus and get work done.
+**With HireFolio, you can:**
 
-**Get Started** [Nemo Lofi](https://nemo-lofi.netlify.app/) (DEPRECATED - Youtube policy changes broke music streaming, so we had to say goodbye.
-)
+1. Effortlessly track every detail: Create a custom grid to capture company names, job titles, application status, notes, contacts, and more.
+2. Stay organized, stay focused: Sort and filter information to identify leads, prioritize tasks, and stay on top of your job search progress.
+3. Work efficiently,save time: Say goodbye to tedious form-filling and manual saving. HireFolio's intuitive interface lets you make updates directly within the grid, instantly capturing every detail without disrupting your flow.
+4. Keep your information secure: Rest assured that your valuable job search data is protected with secure storage and password hashing.
+5. Enjoy a seamless experience: Benefit from a simple, intuitive interface that's easy to use and navigate.
 
-**Find out more:** [Introducing Nemo Lofi](https://fictionally-irrelevant.vercel.app/posts/introducing-nemo-lofi)
+**Get Started** [https://nemo-hirefolio.netlify.app/](https://nemo-hirefolio.netlify.app/)
 
-<img src='https://iili.io/HB6NLKJ.png' />
+**Find out more:** [Introducing Nemo Hirefolio](https://fictionally-irrelevant.vercel.app/posts/introducing-nemo-hirefolio)
 
-**Source code:** [Nemo Lofi Frontend](https://github.com/harshitsinghai77/nemo-frontend)
+**Source code:** [https://github.com/harshitsinghai77/nemo-hirefolio](https://github.com/harshitsinghai77/nemo-hirefolio)
 
 # Nemo Thread
 
@@ -88,6 +91,27 @@ Saving Twitter threads have never been easier. No sign up required. Just tag `@f
 
 **Source Code**
 [https://github.com/harshitsinghai77/nemo-thread](https://github.com/harshitsinghai77/nemo-thread)
+
+# Nemo Lofi
+
+[https://nemo-lofi.netlify.app/](https://nemo-lofi.netlify.app/)
+
+DEPRECATED - Youtube policy changes broke music streaming, so we had to say goodbye.
+
+<img src='https://iili.io/HB6gw3F.png' />
+
+Nemo Lofi is a lofi music player by Nemo that allows you to listen to lofi sounds to help you focus, be productive and get work done. Nemo makes it perfect for listening to while you work, study or simply want to unwind. With Nemo Lofi, you can choose from a variety of lofi tracks to suit your mood and needs.
+
+Nemo lofi lets you choose from a variety of lofi tracks to suit your mood and needs. All you have to do is select the track you want to listen to and set a timer for how long you want to listen. Nemo Lofi will then play the track for the specified amount of time, allowing you to focus and get work done.
+
+**Get Started** [Nemo Lofi](https://nemo-lofi.netlify.app/) (DEPRECATED - Youtube policy changes broke music streaming, so we had to say goodbye.
+)
+
+**Find out more:** [Introducing Nemo Lofi](https://fictionally-irrelevant.vercel.app/posts/introducing-nemo-lofi)
+
+<img src='https://iili.io/HB6NLKJ.png' />
+
+**Source code:** [Nemo Lofi Frontend](https://github.com/harshitsinghai77/nemo-frontend)
 
 # WeBase
 
@@ -239,7 +263,7 @@ Here's the problem statement: [https://gitcoin.co/issue/29600](https://gitcoin.c
 1. Subgraph: [https://thegraph.com/hosted-service/subgraph/shreyaspapi/ubegrants](https://thegraph.com/hosted-service/subgraph/shreyaspapi/ubegrants)
 2. Frontend: [http://ube-grants.vercel.app/](http://ube-grants.vercel.app/)
 
-## Installation
+### Installation
 
 To use these contracts, you will need to have the following installed:
 
@@ -248,13 +272,13 @@ To use these contracts, you will need to have the following installed:
 
 Once these dependencies are installed, you can clone this repository and install the remaining dependencies by running npm install in the project directory.
 
-## Backend
+### Backend
 
 The contracts are written in solidity and are deployed on the Goerli and CELO alfregos testnets. You can view the contract on the Goerli etherscan here: [goerli.etherscan.io/address/](https://goerli.etherscan.io/address/0x41bb6856e824af55fa2f10d68cf5a74c351cba41)
 
 Contracts: [contracts/UbeMilestones.sol](https://github.com/harshitsinghai77/ube-grants/blob/main/contracts/contracts/UbeMilestones.sol)
 
-## Frontend
+### Frontend
 
 Frontend is written in react and allows users to interact with the contracts on the blockchain.
 
@@ -344,6 +368,26 @@ I made it during college, so it was kinda big deal back than (not really).
 With Nemo you can mix and match different sounds in order to create your perfect environment. Todobase helps you stay on top of your work routine, tasks and todolist.
 
 **Source Code** [github.com/harshitsinghai77/todobase](https://github.com/harshitsinghai77/todobase)
+
+# Peach Pixel
+
+[https://peach-pixel.netlify.app](https://peach-pixel.netlify.app/)
+
+<img src='https://raw.githubusercontent.com/harshitsinghai77/peach-pixel/master/markdown/peachpixel.JPG' />
+
+Turn Design Mockups into HTML Code using Deep Learning
+
+### Why Peach Pixel?
+
+1. Difficulty faced by small businesses, local traders and inviduals with no technical background to create a website to showcase their product or service that looks similar or exactly like their requirement - More than 50% of small/medium-sized businesses in India do not have their own website
+
+We use deep learning algorithms for front-end automation. We’ll teach a neural network how to code a basic HTML and CSS website based on a picture of a design mockup.
+
+With Peach Pixel every user (regardless of the amount of technical knowledge they possess) right from a ten year old to sixty five year old can create and deploy a website - which looks exactly like they envisioned it to be - in matter of minutes. The same would be achieved using the following following 5 steps:
+
+<img src='https://raw.githubusercontent.com/harshitsinghai77/peach-pixel/master/markdown/steps.png' />
+
+**Source Code** [github.com/harshitsinghai77/peach-pixel](https://github.com/harshitsinghai77/peach-pixel)
 
 # EthereumETL
 

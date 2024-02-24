@@ -10,11 +10,11 @@ ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
 
+[**Get started with Nemo**](https://nemo-landing-page.netlify.app/)
+
 ## Be productive with Nemo
 
 Nemo is your little helper and companion no matter if you need to focus, tune out other noises or if you want to have a moment of calm and relax.
-
-[**Get started with Nemo**](https://nemo-landing-page.netlify.app/)
 
 ## Nemo is your digital place for focus.
 

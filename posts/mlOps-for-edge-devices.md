@@ -1,6 +1,6 @@
 ---
 title: "MLOps for Edge Devices"
-excerpt: MLOps is the practice of applying DevOps principles and practices to the development and deployment of machine learning (ML) models. MLOps for edge devices is a specific approach to MLOps that focuses on deploying and managing ML models on edge devices, such as sensors, cameras, and IoT devices. In this article, we will explore MLOps for edge devices, including the benefits and challenges of this approach, and some of the key tools and technologies that are commonly used..
+excerpt: MLOps is the practice of applying DevOps principles and practices to the development and deployment of machine learning (ML) models. MLOps for edge devices is a specific approach to MLOps that focuses on deploying and managing ML models on edge devices, such as sensors, cameras, and IoT devices.
 coverImage: "https://images.unsplash.com/photo-1499602211854-122b55ef8f5d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=746&q=80"
 date: "2021-07-21T12:04:07.322Z"
 author:

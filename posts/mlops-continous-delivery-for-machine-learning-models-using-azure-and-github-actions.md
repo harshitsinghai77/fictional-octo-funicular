@@ -1,6 +1,6 @@
 ---
 title: "MLOps - Continous Delivery for Machine Learning Models using Azure and Github Actions"
-excerpt: "MLOps is the practice of applying DevOps principles and practices to the development and deployment of machine learning (ML) models. One of the key challenges in MLOps is to create a continuous delivery pipeline for ML models, which can automate the process of building, testing, and deploying ML models. In this article, we will explore how to create a continuous delivery pipeline for ML models using Azure and GitHub Actions, two popular cloud-based tools for DevOps."
+excerpt: "MLOps is the practice of applying DevOps principles and practices to the development and deployment of machine learning (ML) models. One of the key challenges in MLOps is to create a continuous delivery pipeline for ML models, which can automate the process of building, testing, and deploying ML models."
 coverImage: "https://images.unsplash.com/photo-1520038410233-7141be7e6f97?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=753&q=80"
 date: "2021-07-23T12:04:07.322Z"
 author:

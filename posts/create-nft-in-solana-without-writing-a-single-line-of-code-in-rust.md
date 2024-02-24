@@ -1,6 +1,6 @@
 ---
 title: "Create NFT in Solana without writing a single line of code in Rust."
-excerpt: "A web app that lets users connect their wallet, click mint, and receive a random anime NFT from our collection in their wallet."
+excerpt: "A web app that lets users connect their wallet, click mint, and receive a random anime NFT from our collection in their wallet. Metaplex is the NFT standard on Solana and has created a set of standardized tools and libraries to create NFTs. Over $1 billion in sales have been done so far on NFTs that use the Metaplex standard."
 coverImage: "https://images.unsplash.com/photo-1519638399535-1b036603ac77?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1031&q=80"
 date: "2021-12-14T12:04:07.322Z"
 author:

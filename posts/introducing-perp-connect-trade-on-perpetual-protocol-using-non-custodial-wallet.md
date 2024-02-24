@@ -1,6 +1,6 @@
 ---
 title: "Introducing Perp Connect - Trade on Perpetual Protocol using Non Custodial Wallet."
-excerpt: "The most secure non custodial wallet."
+excerpt: "The most secure non custodial wallet. A non-custodial wallet is a decentralized type of wallet. Perp Connect does not transfer funds, or store your keys making it the most secure wallet app."
 coverImage: "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
 date: "2021-11-09T12:04:07.322Z"
 author:

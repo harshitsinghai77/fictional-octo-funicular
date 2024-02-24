@@ -1,6 +1,6 @@
 ---
 title: "Introducing WeBase — Making deep learning simple"
-excerpt: "WeBase is a new deep learning platform that aims to make the process of building and training deep learning models simpler and more accessible. In this article, we will introduce WeBase and explore some of its key features and benefits.WeBase is a cloud-based platform that provides a user-friendly interface for building and training deep learning models. It allows users to quickly and easily create and configure their models using a drag-and-drop interface, without the need for complex coding or technical expertise."
+excerpt: "WeBase is a new deep learning platform that aims to make the process of building and training deep learning models simpler and more accessible without the need of machine learning knowledge or technical expertise."
 coverImage: "https://miro.medium.com/max/1400/1*qc8gdXkCCnBOtgLeaqYX_Q.png"
 date: "2020-12-18T12:04:07.322Z"
 author:

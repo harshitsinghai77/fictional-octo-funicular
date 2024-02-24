@@ -1,8 +1,8 @@
 ---
-title: "Python: Array List vs LinkedList performance when iterating over a huge Array."
-excerpt: "Python List took 24 min, whereas LinkedList took only 0.42 seconds for the same operation, here's why..."
+title: "Unlocking Efficiency with LinkedLists in Python"
+excerpt: "Removing items from a massive list? Deleting elements from large lists using Python's default lists can be surprisingly slow. We'll reveal a smoother path with LinkedLists."
 coverImage: "https://images.unsplash.com/photo-1562979314-bee7453e911c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
-date: "2022-04-12T12:04:07.322Z"
+date: "2023-04-12T12:04:07.322Z"
 author:
   name: Harshit Singhai
   picture: "/images/profile.jpg"
@@ -10,31 +10,27 @@ ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
 
-Let's say you have a huge list and you want to remove items from the list based on some condition, what data structure will you use? Me, I'll go with list. I'll iterate through each element, perform the check and then remove the item from the list.
+Imagine this: You're facing a massive list of items, and your mission is to remove certain ones based on specific conditions. Your first instinct might be to reach for Python's lists, iterate through the elements, and remove them as needed. But what if I told you there's a more efficient way?
 
-Here's why you shouldn't.
+Let's dive into a scenario to illustrate this. Picture a function that's tasked with cleaning up a list of email addresses by removing any with invalid formats. Whether you use a list or a linked list, both approaches require iterating through each address and performing the validation check. That's the common ground. But the difference emerges when it comes to deletion.
 
-## Context
+### Lists
 
-Let's say, we've created a function that iterates through a list of email address and removes any email address that has an invalid format.
+Here's the catch with lists: each time you remove an invalid email, the remaining elements need to be shifted to fill the gap. This shifting process, often hidden behind the scenes, can significantly impact performance, especially for large lists.
 
-No matter whether we use Python list or a linked list, in both the cases we need to iterate and validate through each email address. This takes N steps. Let's see what happens when we delete the invalid email address.
+Imagine a list of 1,000 email addresses with a 10% rate of invalid ones. That means about 100 deletions. While reading all addresses takes 1,000 steps, the deletion process can add up to 100,000 extra steps due to the shifting of elements!
 
-## What happens inside Python List?
+### LinkedLists
 
-With list, each time we delete an email address, we need another O(N) steps to shift the remaining data to the left to close the gap. All this shifting will happen before we can even inspect the next email address.
+This is where LinkedLists step in to save the day. In a LinkedList, each element (or "node") holds a reference to the next one, forming a chain-like structure. The secret sauce? When you delete a node, you simply update the link to point to the appropriate next node, without any shifting involved.
 
-Let's say that 1 in 10 email address are invalid. If we had a list of 1,000 email addresses, we’d have about 100 invalid ones. Our algorithm, then, would take 1,000 steps to read all 1,000 email addresses. On top of that, though, it might take up to an additional 100,000 steps for deletion, as for each of the 100 deleted addresses, we might shift up to 1,000 other elements.
+In our email example, using a LinkedList would mean a total of approximately 1,100 steps: 1,000 for reading and only 100 for deletion. That's a significant difference!
 
-## LinkedList to the rescue.
+### Ready for Action
 
-With a linked list, however, as we iterate through the list, each deletion takes just one step, as we can simply change a node’s link to point to the appropriate node and move on. For our 1000 emails, then, our algorithm would take just 1,100 steps, as there are 1,000 reading steps, and 100 deletion steps.
+Let's get hands-on and explore code examples to witness this efficiency in action. We'll put both lists and LinkedLists to the test and measure their performance to see the real-world impact of choosing the right data structure for the job.
 
-## Hands-on
-
-Let's see some code and do a quick testing to see if what we discussed hold true. And if yes, then by what difference?
-
-## Setting up a huge list
+### Setting up a list
 
 Instead of email validator, we're going to generate random names. We will iterate through the generated names list and remove the name which starts with "Adam".
 
@@ -182,7 +178,7 @@ class LinkedList:
             current = current.next
 ```
 
-## Testing with Simple Python List
+### Testing with Simple Python List
 
 ```python
 start_time = perf_counter()
@@ -201,7 +197,7 @@ Elapsed time  during the whole program in seconds: 1414.1675999180006
 
 That is close to 24 min.
 
-## Testing with LinkedList
+### Testing with LinkedList
 
 ```python
 linked_list = LinkedList(generated_name)
@@ -219,42 +215,19 @@ Elapsed time during the whole program in seconds: 0.1479311709990725
 
 This is significantly less than 24 min took by the List.
 
-## Validate if all the Adam has been removed in Linkedlist.
+### Validate if all the Adam has been removed in Linkedlist.
 
 ```python
-total = 0
 for name in linked_list:
     if name.startswith("Adam"):
         print("Adam Exists", name)
-    total += 1
 
-print("Total iterations ", total)
-print("total_generated_name", total_generated_name)
-print(total_generated_name == total)
-```
-
-Running the code resulted
-
-```terminal
-generated_name:  1100000
-Elapsed time during the whole program in seconds: 0.42018345699761994
-Total items  1000000
-total_generated_name 1000000
-True
-```
-
-Also you can also print all the names in the linkedlist and check if
-all names starting with `Adam` has been removed
-
-```python
-for name in linked_list:
-    print("Wrong logic", name)
 ```
 
 ## Conclusion
 
 Linked lists are an amazing data structure for moving through an entire list while making insertions or deletions, as we never have to worry about shifting other data as we make an insertion or deletion.
 
-Doing the operation with Python List took 24 min, whereas LinkedList took only 0.42 seconds.
+The operation with Python List took 24 min, whereas LinkedList took only 0.42 seconds. That's percentage drop of approximately 99.99%.
 
 That’s it for today, see you soon. :)

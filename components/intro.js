@@ -9,7 +9,7 @@ export default function Intro() {
         AI, leveraging my diverse software engineering background gained in
         startups and consulting. When not building tech stacks, you'll find me
         with a book in hand, supporting Chelsea FC, or building my next side
-        project. 🧑‍💻 🚀
+        project 🧑‍💻 🚀
         <br />
         <a
           href="https://nemo-landing-page.netlify.app/"

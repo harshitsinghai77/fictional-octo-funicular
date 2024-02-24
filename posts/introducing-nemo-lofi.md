@@ -10,6 +10,8 @@ ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
 
+[**Get started with Nemo Lofi https://nemo-lofi.netlify.app**](https://nemo-lofi.netlify.app/)
+
 If you're someone who struggles to focus and get work done, you're not alone. In today's fast-paced, digital world, it can be difficult to stay focused and productive.
 
 <img src="https://iili.io/HB6gw3F.png" />
@@ -61,6 +63,8 @@ If you're someone who struggles to stay focused and productive, Nemo Lofi is a g
 So why wait? Visit [Nemo](https://nemo-landing-page.netlify.app/) today and let him be your guide on your journey to focus and productivity. You'll be glad you did!
 
 <img src="https://iili.io/HB6NLKJ.png" />
+
+**Nemo Lofi** [https://nemo-lofi.netlify.app](https://nemo-lofi.netlify.app/)
 
 ## Conclusion
 

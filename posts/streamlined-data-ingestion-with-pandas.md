@@ -1,6 +1,6 @@
 ---
 title: "Streamlined Data Ingestion With Pandas"
-excerpt: "Data Engineer workflow using Pandas."
+excerpt: "As a data engineer, one of the most common tasks is to import and process data from various sources. Efficient data ingestion is crucial for smooth data workflows and analysis."
 coverImage: "https://images.unsplash.com/photo-1613310023042-ad79320c00ff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
 date: "2023-06-01T01:56:07.322Z"
 author:
