@@ -2,6 +2,20 @@
   "updated_at": "12-29-2020",
   "movies": [
     {
+      "title": "Dunki",
+      "imgURL": "https://m.media-amazon.com/images/M/MV5BMzQ0NDRhNmItYzllYS00NDdlLTk0YTctZDQ5YmFkYjdkNDcyXkEyXkFqcGdeQXVyNTYwMzA0MTM@._V1_.jpg",
+      "description": "Todo...",
+      "date": "2024-02-18T05:35:07.322Z",
+      "type": "Movie"
+    },
+    {
+      "title": "Animal",
+      "imgURL": "https://m.media-amazon.com/images/I/61OmlO9stnL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Todo...",
+      "date": "2024-01-21T05:35:07.322Z",
+      "type": "Movie"
+    },
+    {
       "title": "Ae Dil Hai Mushkil",
       "imgURL": "https://m.media-amazon.com/images/M/MV5BMjA5MzcyNjg0Ml5BMl5BanBnXkFtZTgwOTY2NTc4OTE@._V1_.jpg",
       "description": "Todo...",

@@ -1,7 +1,7 @@
 ---
 title: "Side Projects 2023"
 excerpt: "Over the years, I have worked on a variety of personal projects in my free time, ranging from web apps to machine learning to Data Engineering to Web3. In this collection, you will find a selection of my most interesting and successful projects, each with its own unique challenges and accomplishments. I hope you enjoy exploring them as much as I enjoyed creating them!"
-coverImage: "https://images.unsplash.com/photo-1542332213-9b5a5a3fad35?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+coverImage: "https://images.unsplash.com/photo-1501854140801-50d01698950b?q=80&w=1950&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 date: "2023-12-15T12:04:07.322Z"
 author:
   name: Harshit Singhai
