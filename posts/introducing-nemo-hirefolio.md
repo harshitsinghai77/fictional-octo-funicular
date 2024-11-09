@@ -1,7 +1,7 @@
 ---
 title: "Introducing Nemo Hirefolio"
 excerpt: "Organize & track your job search. HireFolio is a new app that takes the stress out of your job search and helps you stay organized and efficient every step of the way."
-coverImage: "https://i.ibb.co/8cnLWnT/Screenshot-from-2024-01-14-12-36-24.png"
+coverImage: "https://images.unsplash.com/photo-1479267658415-ff274a213280?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 date: "2024-01-14T12:04:07.322Z"
 author:
   name: Harshit Singhai
