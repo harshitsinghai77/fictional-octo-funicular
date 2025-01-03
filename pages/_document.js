@@ -1,4 +1,5 @@
 import Document, { Head, Main, NextScript, Html } from "next/document";
+import { Analytics } from '@vercel/analytics/next';
 
 import { getSiteMetaData } from "../utils/helpers";
 
@@ -16,27 +17,17 @@ export default class MyDocument extends Document {
             referrerPolicy="no-referrer"
           />
 
-          <link
-            rel="stylesheet"
-            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
-          />
-          <link
-            href="/fonts/raleway-v17-latin-regular.woff2"
-            rel="stylesheet"
-          />
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+          <link href="/fonts/raleway-v17-latin-regular.woff2" rel="stylesheet"/>
           <link href="/fonts/raleway-v17-latin-500.woff2" rel="stylesheet" />
           <link href="/fonts/raleway-v17-latin-600.woff2" rel="stylesheet" />
           <link href="/fonts/raleway-v17-latin-700.woff2" rel="stylesheet" />
-          <script
-            defer
-            data-domain="fictionally-irrelevant.vercel.app"
-            src="https://plausible.io/js/script.js"
-          ></script>
           <base target="_blank" />
         </Head>
         <body>
           <Main />
           <NextScript />
+          <Analytics />
         </body>
       </Html>
     );

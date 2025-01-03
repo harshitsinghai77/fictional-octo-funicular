@@ -1,8 +1,8 @@
 ---
-title: "Building a Personal RAG Assistant: A Learning Journey"
-excerpt: "Building a custom document question-answering system. Learn how I leveraged LLMs, Langchain, and FastAPI to create a powerful tool that can answer questions based on your documents."
+title: "Building a Personal RAG Assistant"
+excerpt: "Building a custom document question-answering system using LLMs, Langchain, and FastAPI to create a tool that can answer questions based on documents."
 coverImage: "https://images.unsplash.com/photo-1503455637927-730bce8583c0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-date: "2024-06-30T12:04:07.322Z"
+date: "2024-08-18T01:56:07.322Z"
 author:
   name: Harshit Singhai
   picture: "/images/profile.jpg"

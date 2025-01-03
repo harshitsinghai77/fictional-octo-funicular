@@ -9,6 +9,7 @@
     "deploy": "npx vercel --prod"
   },
   "dependencies": {
+    "@vercel/analytics": "^1.4.1",
     "autoprefixer": "10.4.14",
     "bcryptjs": "^2.4.3",
     "bootstrap": "^5.1.3",

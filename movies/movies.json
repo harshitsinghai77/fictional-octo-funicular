@@ -1,383 +1,418 @@
 {
-  "updated_at": "12-29-2020",
-  "movies": [
-    {
-      "title": "Euphoria - Season 2",
-      "imgURL": "https://resizing.flixster.com/nLlinp2Ai4XPSenL_yx07hDMmRM=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vYmJhMWVhNTUtMGQyNS00OTNmLTgyMjktZGNlMGVjYjRhNjE0LmpwZw==",
-      "description": "Todo...",
-      "date": "2024-05-06T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "Euphoria - Season 1",
-      "imgURL": "https://m.media-amazon.com/images/M/MV5BMDMzZDkyNzEtYTY5Ni00NzlhLWI4MzUtY2UzNjNmMjI1YzIzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",
-      "description": "Todo...",
-      "date": "2024-05-06T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "Monsters, Inc.",
-      "imgURL": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_FMjpg_UX1000_.jpg",
-      "description": "Todo...",
-      "date": "2024-05-06T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "Onward",
-      "imgURL": "https://lumiere-a.akamaihd.net/v1/images/p_onward_19732_09862641.jpeg?region=0%2C0%2C540%2C810",
-      "description": "Todo...",
-      "date": "2024-05-05T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "Dunki",
-      "imgURL": "https://m.media-amazon.com/images/M/MV5BMzQ0NDRhNmItYzllYS00NDdlLTk0YTctZDQ5YmFkYjdkNDcyXkEyXkFqcGdeQXVyNTYwMzA0MTM@._V1_.jpg",
-      "description": "Todo...",
-      "date": "2024-02-18T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "Animal",
-      "imgURL": "https://m.media-amazon.com/images/I/61OmlO9stnL._AC_UF1000,1000_QL80_.jpg",
-      "description": "Todo...",
-      "date": "2024-01-21T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "Ae Dil Hai Mushkil",
-      "imgURL": "https://m.media-amazon.com/images/M/MV5BMjA5MzcyNjg0Ml5BMl5BanBnXkFtZTgwOTY2NTc4OTE@._V1_.jpg",
-      "description": "Todo...",
-      "date": "2023-12-28T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "Sanju",
-      "imgURL": "https://m.media-amazon.com/images/M/MV5BMjI3NTM1NzMyNF5BMl5BanBnXkFtZTgwOTE4NTgzNTM@._V1_.jpg",
-      "description": "Todo...",
-      "date": "2023-12-17T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "Love at First Sight",
-      "imgURL": "https://m.media-amazon.com/images/M/MV5BNDIzMzQ1ZTUtZjhkYS00ZTYzLTkxZTgtYWZlNzhhMWM0NTk5XkEyXkFqcGdeQXVyMTUyMzg5NzM2._V1_.jpg",
-      "description": "Todo...",
-      "date": "2023-12-04T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "Unpregnant",
-      "imgURL": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQphWnunTS5LGx8FnrPpUQAN2mmZkR6szEVKnyyVJZDsptMQXPj",
-      "description": "Todo...",
-      "date": "2023-12-02T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "Falling Inn Love",
-      "imgURL": "https://m.media-amazon.com/images/M/MV5BNWE1NmMzNjUtMDc3NS00ZjBlLTllMTktZTVkMWQzZGVlYzdhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
-      "description": "Todo...",
-      "date": "2023-11-25T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "OMG 2",
-      "imgURL": "https://m.media-amazon.com/images/M/MV5BZjRjMjExMTMtOWZmNS00MzE0LTlhZTYtMDRjMjBmN2IzZjdhXkEyXkFqcGdeQXVyMTA1NTY0NzQ0._V1_.jpg",
-      "description": "Todo...",
-      "date": "2023-09-27T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "Rocky Aur Rani Kii Prem Kahaani",
-      "imgURL": "https://m.media-amazon.com/images/M/MV5BY2FlZTE5ZjgtZGY5Ny00ZjIzLWFmZjktNjc1OWIwZjIwN2IzXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_.jpg",
-      "description": "Todo...",
-      "date": "2023-09-17T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "Bhediya",
-      "imgURL": "https://assetscdn1.paytm.com/images/cinema/Bhediya-min-95c99e20-4f80-11ed-b52a-81cb1fa00a10.jpg",
-      "description": "Todo...",
-      "date": "2023-08-01T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "Oppenheimer",
-      "imgURL": "https://m.media-amazon.com/images/M/MV5BMDBmYTZjNjUtN2M1MS00MTQ2LTk2ODgtNzc2M2QyZGE5NTVjXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
-      "description": "Todo...",
-      "date": "2023-07-25T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "Suits Season 2",
-      "imgURL": "https://m.media-amazon.com/images/I/91ziEZy5iIL._AC_UF1000,1000_QL80_.jpg",
-      "description": "Todo...",
-      "date": "2023-05-22T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "Suits Season 3",
-      "imgURL": "https://image.tmdb.org/t/p/w500/j57BE70Ja4JrCsXib8yzeiUpVl8.jpg",
-      "description": "Todo...",
-      "date": "2023-05-30T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "Suits Season 4",
-      "imgURL": "https://tv-fanatic-res.cloudinary.com/iu/s--9JeMPmmS--/t_full/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1398731491/suits-season-4-poster.jpg",
-      "description": "Todo...",
-      "date": "2023-06-05T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "Suits Season 5",
-      "imgURL": "https://flxt.tmsimg.com/assets/p11710293_b1t_v8_aa.jpg",
-      "description": "Todo...",
-      "date": "2023-06-14T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "Suits Season 6",
-      "imgURL": "https://image.tmdb.org/t/p/original/p0kgDJlq8AAleNwNZyi9LLrDP37.jpg",
-      "description": "Todo...",
-      "date": "2023-06-17T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "YOU Season4 part 2",
-      "imgURL": "https://www.thenews.com.pk/assets/uploads/updates/2023-01-09/1028778_1560703_Untitled-2gio_updates.jpg",
-      "description": "Todo...",
-      "date": "2023-03-10T05:35:07.322Z",
-      "type": "Tv Show"
-    },
-    {
-      "title": "YOU Season4 part 1",
-      "imgURL": "https://i0.wp.com/www.nerdsandbeyond.com/wp-content/uploads/2022/12/Fi522I4VQAAeK9g.jpeg",
-      "description": "Todo...",
-      "date": "2023-02-16T05:35:07.322Z",
-      "type": "Tv Show"
-    },
-    {
-      "title": "An Action Hero",
-      "imgURL": "https://m.media-amazon.com/images/M/MV5BMDJiOTdmMGItMmM5MC00ZTRiLWIzNjctNDE4ZTZkMWMzZTg0XkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_FMjpg_UX1000_.jpg",
-      "description": "Todo...",
-      "date": "2023-02-11T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "Eternally Confused and Eager for Love",
-      "imgURL": "https://assets.gadgets360cdn.com/pricee/assets/product/202202/Eternally_Confused_and_Eager_for_Love-p_1645075896.jpeg",
-      "description": "Todo...",
-      "date": "2023-02-09T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "Thor: Love and Thunder",
-      "imgURL": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHXV5at6mvLIF852fvIA5jeUi6bVYs8swuCPUCRWdRxWp0sr5Q",
-      "description": "Todo...",
-      "date": "2022-10-12T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "The Girl with the Dragon Tattoo",
-      "imgURL": "https://m.media-amazon.com/images/M/MV5BMTczNDk4NTQ0OV5BMl5BanBnXkFtZTcwNDAxMDgxNw@@._V1_.jpg",
-      "description": "Todo...",
-      "date": "2023-01-02T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "Shutter Island",
-      "imgURL": "https://www.whatsnewnetflix.com/wp-content/uploads/netflix/tt1130884-poster.jpg",
-      "description": "Todo...",
-      "date": "2022-12-27T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "Locke & Key Season 3",
-      "imgURL": "https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQRDfMNInZ6zhGWVEK84yerPl9IXsD7DQ4xwRqEMFajjtONBNTtLXSJoKjHfuXCg9_j_VOsWJ_hNOescf46vXmyDuRfXob9XT57edVN4w4q9tzEg9FQDf0BfOnb5e1Gsz8bhZ813cYwht0mMsHsVdQHIX.jpg?r=949",
-      "description": "Todo...",
-      "date": "2022-08-06T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "Laal Singh Chaddha",
-      "imgURL": "https://m.media-amazon.com/images/M/MV5BMTY4YjFhMzUtMWIxMC00NDI2LTgxOGYtMDM1ZGQ1ZDUxZTE0XkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_.jpg",
-      "description": "Todo...",
-      "date": "2022-10-18T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "Badhaai Do",
-      "imgURL": "https://m.media-amazon.com/images/M/MV5BZjExNGM5MTMtNTFlNy00OThlLTlhYzctOWEzZjQ4MWY3YTUyXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_.jpg",
-      "description": "Todo...",
-      "date": "2022-03-18T05:35:07.322Z",
-      "type": "Tv Show"
-    },
-    {
-      "title": "Locke & Key Season 2",
-      "imgURL": "https://resizing.flixster.com/aY5IjT0sOYLG3KfPfFufY6Mrl8U=/ems.ZW1zLXByZC1hc3NldHMvdHZzZWFzb24vYjc2YmNjZDktMzBjOS00ZTQ4LWJlM2UtZmVlMzA3ZTIwMmUyLmpwZw==",
-      "description": "Todo...",
-      "date": "2022-03-02T05:35:07.322Z",
-      "type": "Tv Show"
-    },
-    {
-      "title": "Locke & Key Season 1",
-      "imgURL": "https://flxt.tmsimg.com/assets/p17699282_b_v13_ab.jpg",
-      "description": "Todo...",
-      "date": "2022-02-13T05:35:07.322Z",
-      "type": "Tv Show"
-    },
-    {
-      "title": "Pushpa: The Rise",
-      "imgURL": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/pushpa--the-rise-et00129538-08-12-2021-01-21-46.jpg",
-      "description": "Todo...",
-      "date": "2022-02-04T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "Venom (2018)",
-      "imgURL": "https://m.media-amazon.com/images/M/MV5BNzAwNzUzNjY4MV5BMl5BanBnXkFtZTgwMTQ5MzM0NjM@._V1_.jpg",
-      "description": "Todo...",
-      "date": "2022-01-22T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "Every Day",
-      "imgURL": "https://m.media-amazon.com/images/M/MV5BZTQ0OWM4MTItNmY4NC00ZDMyLTkxZWYtNTU5ZGY4NjBlNWM3XkEyXkFqcGdeQXVyODI1MzgzNjM@._V1_.jpg",
-      "description": "Todo...",
-      "date": "2022-01-15T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "Spiderman - No Way Home",
-      "imgURL": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_FMjpg_UX1000_.jpg",
-      "description": "Todo...",
-      "date": "2021-12-22T05:35:07.322Z",
-      "type": "Tv Show"
-    },
-    {
-      "title": "YOU Season3",
-      "imgURL": "https://resizing.flixster.com/wZPpEHoFi-6Zp5zCUM5wZKKRWxc=/ems.ZW1zLXByZC1hc3NldHMvdHZzZWFzb24vNGNmOGM4ZmUtZmI5My00ZDU2LTk4MzAtZGFiMDQ2YTc2N2EwLmpwZw==",
-      "description": "Todo...",
-      "date": "2021-12-17T05:35:07.322Z",
-      "type": "Tv Show"
-    },
-    {
-      "title": "Steve Jobs 2015",
-      "imgURL": "https://i.pinimg.com/564x/8e/97/d6/8e97d600f06c9f6fa6a47c764c8d193c.jpg",
-      "description": "Todo...",
-      "date": "2021-04-11T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "The Imitation Game",
-      "imgURL": "https://occ-0-1723-1722.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAABcgvVma9Vn9qBHh5ggKwR-1Wyy8FtY1C6bfWCdI3lTJ4rXT9U8zKfMg3xekG8xKx63YpZaNvaw4Rn4skUDJPciS54fhAxoKU4w.jpg",
-      "description": "Todo...",
-      "date": "2021-03-29T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "Lady In The Van",
-      "imgURL": "https://i2.netflixmovies.com/dibsl9ebc/image/upload/w_600,h_891,c_lfill,g_north/rf971xtivoedkfdsvmmq.jpg",
-      "description": "A sweet watch. There is nothing much to be taken from the movie except few good scenes and magnificent Maggie Smith. It's a touching story of human connections, but feels like a very forgettable movie. The acting is on point and make it worth while watching it but nothing to take home once the movie ends.",
-      "date": "2021-03-22T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "Behind her eyes",
-      "imgURL": "https://m.media-amazon.com/images/M/MV5BMDk2Njg0ZTUtNTFjZS00NzUwLWEwZDQtZTg5MDZiMmJhNGEzXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg",
-      "description": "The last episode was worth the mediocrity of first few episodes. The series is short with only 6 episodes. Nothing much in the first few episodes to be honest. The mystery unfolds as we move on, the last episode in particular will hold you by your nerves as the plot unfolds leaving you wanting more. Great watch, just hold on for a while, and be patience before the story gets interesting. Be ready for the last episode to take you by surprise and blow the charts.",
-      "date": "2021-02-26T05:35:07.322Z",
-      "type": "Tv Show"
-    },
-    {
-      "title": "Leap Year",
-      "imgURL": "https://images.moviesanywhere.com/5376715ceb2340e5596d3eb11af8d140/2eee0fdd-dbd6-4d81-9f25-7dc9c9475847.jpg",
-      "description": "The movie revolves around Anna who is in relationship with Jeremy for 4 years. Waiting for Jeremy to purpose her, she decides to travel to Dublin to propose marriage to Jeremy on Leap Day in accordance with an old Irish tradition. On her trip to Dublin, she meets Declan and thing starts getting complicated. Overall, movie is weak, unfunny for large parts, and zero spark between the leads. Apart from this, the only thing worth sticking is the beauty of the Ireland.",
-      "date": "2021-01-30T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "The White Tiger",
-      "imgURL": "https://m.media-amazon.com/images/M/MV5BMDVkMDRkMzItN2EyYS00ZTI5LTljYzgtNzRmZDQ0OTQ3M2VjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
-      "description": "Based on the book with the same name, The white tiger tells the story of the class inequality and the emphasis on the relationship between a master and a servant and how the anger burning inside the servant finally leads to betraying his own master and killing him. The cinematography is on point. Great storytelling. The only thing lacking to become the next Slumdog Millionaire is the emotional aspect. Include that and we could have potentially witnessed another master class.",
-      "date": "2021-01-23T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "The Founder",
-      "imgURL": "https://m.media-amazon.com/images/M/MV5BMzExNDg0MDk1M15BMl5BanBnXkFtZTgwNzE1Mjg0MDI@._V1_.jpg",
-      "description": "A good watch. The movie reflect on the betrayal of McDonald's brothers and how Ray Kroc went behind their back, took their legacy and called himself The Founder. The movie is the perfect example of a wolf in the hen house. Ray Kroc was onboarded as a franchiser, what went on to raise his own empire based on the Mcdonalds branding and eventually buying the company from the brothers leaving them with nothing but penny of what could potentially be billions.",
-      "date": "2020-12-30T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "YOU Season2",
-      "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkVr6pUmVjfGARjI0uhJOwvTfoGHzfEnJNxZ0oUMec3q09rDrA",
-      "description": "Woah. Talk about stalker murdering psychopath, antisocial, narcissistic this show has everything. Can't wait for the next season. I'll recommend it to anyone. Some episodes were really good. A good watch overally, worth it. Surely not a time waste. Highly recommended.",
-      "date": "2020-09-14T05:35:07.322Z",
-      "type": "Tv Show"
-    },
-    {
-      "title": "YOU Season1",
-      "imgURL": "https://images.justwatch.com/poster/243481452/s332/season-1.%7Bformat%7D ",
-      "description": "Woah. Talk about stalker murdering psychopath, antisocial, narcissistic this show has everything. Can't wait for the next season. I'll recommend it to anyone. Some episodes were really good. A good watch overally, worth it. Surely not a time waste. Highly recommended.",
-      "date": "2020-08-10T05:35:07.322Z",
-      "type": "Tv Show"
-    },
-    {
-      "title": "The Perfect Date",
-      "imgURL": "https://m.media-amazon.com/images/M/MV5BZGRhOWM5MzQtM2FlNi00Zjc5LThmZmUtZTI2NzY0MTA1YjM2XkEyXkFqcGdeQXVyODQwODA1MjY@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
-      "description": "Hmm. This is a typical feel good movie. Nothing to take home. Will keep you interested while it lasts, probably put a smile on your face and that's it. The actress is hot but wear's too much makeup. I looked at her instagram, she isn't as good looking as she was in the movie. Too much makeup, but hot nonetheless. I would recommend if you're looking for a light watch movie after a very hard-working day...",
-      "date": "2020-08-16T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "The Queen's Gambit",
-      "imgURL": "https://m.media-amazon.com/images/M/MV5BM2EwMmRhMmUtMzBmMS00ZDQ3LTg4OGEtNjlkODk3ZTMxMmJlXkEyXkFqcGdeQXVyMjM5ODk1NDU@._V1_.jpg",
-      "description": "Totally worth it. Past paced episodes, didn't feel like much of a lag. The whole life of the protagonist is captured in 8 episodes, all the way from prodigy, reaching the top, not able to sustain it, alcholism and self-centered, downfall and then rise again to the stardom. This is close to being a masterpeice. Every scene is made with perfection. Great sets, captured 1900's beautifully.",
-      "date": "2020-11-18T05:35:07.322Z",
-      "type": "Tv Show"
-    },
-    {
-      "title": "Catch me if you can",
-      "imgURL": "https://images-na.ssl-images-amazon.com/images/I/81V%2Bb69u3xL._SL1500_.jpg",
-      "description": "Easily will go down in my all time top 10. Realizing that the movie is based on a real person Frank Abagnale will make it even more special. It will easily keep you at your seat, hooked. The time will pass in a flash and you can't help but wonder 'how did the movie ended so soon?'. Why did I wait so long to watch this movie? Definitely Recommend it. One of the best movies I've watched ",
-      "date": "2020-12-22T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "The Edge of Seventeen",
-      "imgURL": "https://m.media-amazon.com/images/M/MV5BODE2NjE4NjYyMV5BMl5BanBnXkFtZTgwNzk3MjQ0OTE@._V1_.jpg",
-      "description": "Started out pretty strong and then normalized from there. A good normal storyline dealing with anxiety issues, 'am not good looking' and teenage problems. Another RomCom Feel-Good genre. Not much to look on the comedy side. One of the movies, where teenagers are really hot, mature, good looking and far beyond their age, which makes you wonder how did it go wrong for you? The movie has nothing spectatcular to offer but if you like Hailee Steinfeld, then it's a treat.",
-      "date": "2020-10-11T05:35:07.322Z",
-      "type": "Movie"
-    },
-    {
-      "title": "Money Heist",
-      "imgURL": "https://m.media-amazon.com/images/M/MV5BZDcxOGI0MDYtNTc5NS00NDUzLWFkOTItNDIxZjI0OTllNTljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
-      "description": "Interesting. Some episodes were really slow and can't wait to finish them. Lots of good plot twist. Didn't watch the last season tho. I think it's getting a little stretched now. First couple of season were good. I still have to watch the last season, but have no such plans at the moment. It surely has it's moment, biggest strengths being it's unpredicatable nature, lots of twists (really lot) and creative writing. Overall, I'll recommend you to watch it but not force you.",
-      "date": "2020-07-08T05:35:07.322Z",
-      "type": "Tv Show"
-    },
-    {
-      "title": "13 Reasons Why",
-      "imgURL": "https://i.pinimg.com/originals/60/56/6c/60566c12f83a50d9b74bee807ca54065.jpg",
-      "description": "First couple of seasons were brilliant, all uphill from there. The seasons got worse and worse as they progressed. Thankfully, they creators announced season4 to be the last season. It is supposed to be a Drama, but the creators tried to raise too many issues like Sexual Assault, Bully, School Shotting, Depression, Anxiety, and everything they can find online (not relevant). Failed Miserably. At the end it makes you wonder what message are the creators exactly trying to raise??. A stretched, mostly forgettable season",
-      "date": "2020-06-16T05:35:07.322Z",
-      "type": "Tv Show"
-    },
-    {
-      "title": "The Good Doctor",
-      "imgURL": "https://images-na.ssl-images-amazon.com/images/I/51tBFj0%2BqvL._AC_SX385_.jpg",
-      "description": "I'll recommend it in a heartbeat. Totally worth. You can't help but fall in love with Dr.Murphy. Murphy character development is amazing given he has Autism. All the episodes will interesting enough to keep you hooked, and wanting more.",
-      "date": "2020-07-23T05:35:07.322Z",
-      "type": "Tv Show"
-    },
-    {
-      "title": "After We Collided",
-      "imgURL": "https://m.media-amazon.com/images/M/MV5BN2UyNGM3MDUtMTIzZi00ZDdkLThlYTktYjk0ZDMzM2JiMjMyXkEyXkFqcGdeQXVyNzE0MjkxMzA@._V1_.jpg",
-      "description": "Time watse. Time waste. Time waste. The story is basically nothing, some random rich people's problem. The two co-stars are horny as fuck. Makeout and sex scenes every 10-15 min. They talk some random shit and then start making out. Even when they are fighting, angry or in general, they somehow always end up makeing out. The actress is hot, the actor is irritating. The movie does nothing but make you feel jealous, why an average, annoying, dumb guy and a terrible actor is making out with a hot and sexy actress. I literally just watched the entire movie, looking at Josephine Langford and cursing myself.",
-      "date": "2020-10-22T05:35:07.322Z",
-      "type": "Movie"
-    }
-  ]
+    "updated_at": "12-29-2020",
+    "movies": [
+        {
+            "title": "Ready or Not",
+            "imgURL": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfl2H2Hd7Lf3_4QEElNKG-XKZLpNDHziIfKaVKBn8X_HIPeewbZNbCGybVuZj8yjOusBm5",
+            "description": "Todo...",
+            "date": "2024-12-06T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Patrick Melrose",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BZWVmNzEyMmEtZWIxOC00MDM3LWE0NjctNTczYzJmNGJmYTcxXkEyXkFqcGc@._V1_.jpg",
+            "description": "Todo...",
+            "date": "2024-11-22T05:35:07.322Z",
+            "type": "Tv Show"
+        },
+        {
+            "title": "Kabhi Alvida Naa Kehna",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BYmRkOWQ1NDItYTk2ZC00YWM2LWE4ZWEtNjIwNTczMmRmZjc3XkEyXkFqcGc@._V1_.jpg",
+            "description": "Todo...",
+            "date": "2024-11-18T14:13:17.231760Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Euphoria - Season 2",
+            "imgURL": "https://resizing.flixster.com/nLlinp2Ai4XPSenL_yx07hDMmRM=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vYmJhMWVhNTUtMGQyNS00OTNmLTgyMjktZGNlMGVjYjRhNjE0LmpwZw==",
+            "description": "Todo...",
+            "date": "2024-05-06T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Euphoria - Season 1",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BMDMzZDkyNzEtYTY5Ni00NzlhLWI4MzUtY2UzNjNmMjI1YzIzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",
+            "description": "Todo...",
+            "date": "2024-05-06T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Monsters, Inc.",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_FMjpg_UX1000_.jpg",
+            "description": "Todo...",
+            "date": "2024-05-06T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "A Teacher",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BMTk2ODYwMDU3MV5BMl5BanBnXkFtZTcwNDc3MDA1OQ@@._V1_.jpg",
+            "description": "Todo...",
+            "date": "2024-03-12T00:41:23.447942Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Lethal Seduction",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BMjI4MzA3NDA2N15BMl5BanBnXkFtZTgwODg1MTQzNzE@._V1_FMjpg_UX1000_.jpg",
+            "description": "Todo...",
+            "date": "2024-07-15T16:15:35.658161Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Onward",
+            "imgURL": "https://lumiere-a.akamaihd.net/v1/images/p_onward_19732_09862641.jpeg?region=0%2C0%2C540%2C810",
+            "description": "Todo...",
+            "date": "2024-05-05T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Dunki",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BMzQ0NDRhNmItYzllYS00NDdlLTk0YTctZDQ5YmFkYjdkNDcyXkEyXkFqcGdeQXVyNTYwMzA0MTM@._V1_.jpg",
+            "description": "Todo...",
+            "date": "2024-02-18T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Animal",
+            "imgURL": "https://m.media-amazon.com/images/I/61OmlO9stnL._AC_UF1000,1000_QL80_.jpg",
+            "description": "Todo...",
+            "date": "2024-01-21T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Ae Dil Hai Mushkil",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BMjA5MzcyNjg0Ml5BMl5BanBnXkFtZTgwOTY2NTc4OTE@._V1_.jpg",
+            "description": "Todo...",
+            "date": "2023-12-28T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Sanju",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BMjI3NTM1NzMyNF5BMl5BanBnXkFtZTgwOTE4NTgzNTM@._V1_.jpg",
+            "description": "Todo...",
+            "date": "2023-12-17T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Love at First Sight",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BNDIzMzQ1ZTUtZjhkYS00ZTYzLTkxZTgtYWZlNzhhMWM0NTk5XkEyXkFqcGdeQXVyMTUyMzg5NzM2._V1_.jpg",
+            "description": "Todo...",
+            "date": "2023-12-04T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Unpregnant",
+            "imgURL": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQphWnunTS5LGx8FnrPpUQAN2mmZkR6szEVKnyyVJZDsptMQXPj",
+            "description": "Todo...",
+            "date": "2023-12-02T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Falling Inn Love",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BNWE1NmMzNjUtMDc3NS00ZjBlLTllMTktZTVkMWQzZGVlYzdhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+            "description": "Todo...",
+            "date": "2023-11-25T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "OMG 2",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BZjRjMjExMTMtOWZmNS00MzE0LTlhZTYtMDRjMjBmN2IzZjdhXkEyXkFqcGdeQXVyMTA1NTY0NzQ0._V1_.jpg",
+            "description": "Todo...",
+            "date": "2023-09-27T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Rocky Aur Rani Kii Prem Kahaani",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BY2FlZTE5ZjgtZGY5Ny00ZjIzLWFmZjktNjc1OWIwZjIwN2IzXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_.jpg",
+            "description": "Todo...",
+            "date": "2023-09-17T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Bhediya",
+            "imgURL": "https://assetscdn1.paytm.com/images/cinema/Bhediya-min-95c99e20-4f80-11ed-b52a-81cb1fa00a10.jpg",
+            "description": "Todo...",
+            "date": "2023-08-01T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Oppenheimer",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BMDBmYTZjNjUtN2M1MS00MTQ2LTk2ODgtNzc2M2QyZGE5NTVjXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
+            "description": "Todo...",
+            "date": "2023-07-25T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Suits Season 2",
+            "imgURL": "https://m.media-amazon.com/images/I/91ziEZy5iIL._AC_UF1000,1000_QL80_.jpg",
+            "description": "Todo...",
+            "date": "2023-05-22T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Suits Season 3",
+            "imgURL": "https://image.tmdb.org/t/p/w500/j57BE70Ja4JrCsXib8yzeiUpVl8.jpg",
+            "description": "Todo...",
+            "date": "2023-05-30T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Suits Season 4",
+            "imgURL": "https://tv-fanatic-res.cloudinary.com/iu/s--9JeMPmmS--/t_full/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1398731491/suits-season-4-poster.jpg",
+            "description": "Todo...",
+            "date": "2023-06-05T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Suits Season 5",
+            "imgURL": "https://flxt.tmsimg.com/assets/p11710293_b1t_v8_aa.jpg",
+            "description": "Todo...",
+            "date": "2023-06-14T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Suits Season 6",
+            "imgURL": "https://image.tmdb.org/t/p/original/p0kgDJlq8AAleNwNZyi9LLrDP37.jpg",
+            "description": "Todo...",
+            "date": "2023-06-17T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "YOU Season4 Part 2",
+            "imgURL": "https://www.thenews.com.pk/assets/uploads/updates/2023-01-09/1028778_1560703_Untitled-2gio_updates.jpg",
+            "description": "Todo...",
+            "date": "2023-03-10T05:35:07.322Z",
+            "type": "Tv Show"
+        },
+        {
+            "title": "YOU Season4 Part 1",
+            "imgURL": "https://i0.wp.com/www.nerdsandbeyond.com/wp-content/uploads/2022/12/Fi522I4VQAAeK9g.jpeg",
+            "description": "Todo...",
+            "date": "2023-02-16T05:35:07.322Z",
+            "type": "Tv Show"
+        },
+        {
+            "title": "An Action Hero",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BMDJiOTdmMGItMmM5MC00ZTRiLWIzNjctNDE4ZTZkMWMzZTg0XkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_FMjpg_UX1000_.jpg",
+            "description": "Todo...",
+            "date": "2023-02-11T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Eternally Confused and Eager for Love",
+            "imgURL": "https://assets.gadgets360cdn.com/pricee/assets/product/202202/Eternally_Confused_and_Eager_for_Love-p_1645075896.jpeg",
+            "description": "Todo...",
+            "date": "2023-02-09T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Thor: Love and Thunder",
+            "imgURL": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHXV5at6mvLIF852fvIA5jeUi6bVYs8swuCPUCRWdRxWp0sr5Q",
+            "description": "Todo...",
+            "date": "2022-10-12T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "The Girl with the Dragon Tattoo",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BMTczNDk4NTQ0OV5BMl5BanBnXkFtZTcwNDAxMDgxNw@@._V1_.jpg",
+            "description": "Todo...",
+            "date": "2023-01-02T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Shutter Island",
+            "imgURL": "https://www.whatsnewnetflix.com/wp-content/uploads/netflix/tt1130884-poster.jpg",
+            "description": "Todo...",
+            "date": "2022-12-27T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Locke & Key Season 3",
+            "imgURL": "https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQRDfMNInZ6zhGWVEK84yerPl9IXsD7DQ4xwRqEMFajjtONBNTtLXSJoKjHfuXCg9_j_VOsWJ_hNOescf46vXmyDuRfXob9XT57edVN4w4q9tzEg9FQDf0BfOnb5e1Gsz8bhZ813cYwht0mMsHsVdQHIX.jpg?r=949",
+            "description": "Todo...",
+            "date": "2022-08-06T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Laal Singh Chaddha",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BMTY4YjFhMzUtMWIxMC00NDI2LTgxOGYtMDM1ZGQ1ZDUxZTE0XkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_.jpg",
+            "description": "Todo...",
+            "date": "2022-10-18T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Badhaai Do",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BZjExNGM5MTMtNTFlNy00OThlLTlhYzctOWEzZjQ4MWY3YTUyXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_.jpg",
+            "description": "Todo...",
+            "date": "2022-03-18T05:35:07.322Z",
+            "type": "Tv Show"
+        },
+        {
+            "title": "Locke & Key Season 2",
+            "imgURL": "https://resizing.flixster.com/aY5IjT0sOYLG3KfPfFufY6Mrl8U=/ems.ZW1zLXByZC1hc3NldHMvdHZzZWFzb24vYjc2YmNjZDktMzBjOS00ZTQ4LWJlM2UtZmVlMzA3ZTIwMmUyLmpwZw==",
+            "description": "Todo...",
+            "date": "2022-03-02T05:35:07.322Z",
+            "type": "Tv Show"
+        },
+        {
+            "title": "Locke & Key Season 1",
+            "imgURL": "https://flxt.tmsimg.com/assets/p17699282_b_v13_ab.jpg",
+            "description": "Todo...",
+            "date": "2022-02-13T05:35:07.322Z",
+            "type": "Tv Show"
+        },
+        {
+            "title": "Pushpa: The Rise",
+            "imgURL": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/pushpa--the-rise-et00129538-08-12-2021-01-21-46.jpg",
+            "description": "Todo...",
+            "date": "2022-02-04T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Venom (2018)",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BNzAwNzUzNjY4MV5BMl5BanBnXkFtZTgwMTQ5MzM0NjM@._V1_.jpg",
+            "description": "Todo...",
+            "date": "2022-01-22T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Every Day",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BZTQ0OWM4MTItNmY4NC00ZDMyLTkxZWYtNTU5ZGY4NjBlNWM3XkEyXkFqcGdeQXVyODI1MzgzNjM@._V1_.jpg",
+            "description": "Todo...",
+            "date": "2022-01-15T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Spiderman - No Way Home",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_FMjpg_UX1000_.jpg",
+            "description": "Todo...",
+            "date": "2021-12-22T05:35:07.322Z",
+            "type": "Tv Show"
+        },
+        {
+            "title": "YOU Season3",
+            "imgURL": "https://resizing.flixster.com/wZPpEHoFi-6Zp5zCUM5wZKKRWxc=/ems.ZW1zLXByZC1hc3NldHMvdHZzZWFzb24vNGNmOGM4ZmUtZmI5My00ZDU2LTk4MzAtZGFiMDQ2YTc2N2EwLmpwZw==",
+            "description": "Todo...",
+            "date": "2021-12-17T05:35:07.322Z",
+            "type": "Tv Show"
+        },
+        {
+            "title": "Steve Jobs 2015",
+            "imgURL": "https://i.pinimg.com/564x/8e/97/d6/8e97d600f06c9f6fa6a47c764c8d193c.jpg",
+            "description": "Todo...",
+            "date": "2021-04-11T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "The Imitation Game",
+            "imgURL": "https://occ-0-1723-1722.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAABcgvVma9Vn9qBHh5ggKwR-1Wyy8FtY1C6bfWCdI3lTJ4rXT9U8zKfMg3xekG8xKx63YpZaNvaw4Rn4skUDJPciS54fhAxoKU4w.jpg",
+            "description": "Todo...",
+            "date": "2021-03-29T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Lady In The Van",
+            "imgURL": "https://i2.netflixmovies.com/dibsl9ebc/image/upload/w_600,h_891,c_lfill,g_north/rf971xtivoedkfdsvmmq.jpg",
+            "description": "A sweet watch. There is nothing much to be taken from the movie except few good scenes and magnificent Maggie Smith. It's a touching story of human connections, but feels like a very forgettable movie. The acting is on point and make it worth while watching it but nothing to take home once the movie ends.",
+            "date": "2021-03-22T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Behind her eyes",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BMDk2Njg0ZTUtNTFjZS00NzUwLWEwZDQtZTg5MDZiMmJhNGEzXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg",
+            "description": "The last episode was worth the mediocrity of first few episodes. The series is short with only 6 episodes. Nothing much in the first few episodes to be honest. The mystery unfolds as we move on, the last episode in particular will hold you by your nerves as the plot unfolds leaving you wanting more. Great watch, just hold on for a while, and be patience before the story gets interesting. Be ready for the last episode to take you by surprise and blow the charts.",
+            "date": "2021-02-26T05:35:07.322Z",
+            "type": "Tv Show"
+        },
+        {
+            "title": "Leap Year",
+            "imgURL": "https://images.moviesanywhere.com/5376715ceb2340e5596d3eb11af8d140/2eee0fdd-dbd6-4d81-9f25-7dc9c9475847.jpg",
+            "description": "The movie revolves around Anna who is in relationship with Jeremy for 4 years. Waiting for Jeremy to purpose her, she decides to travel to Dublin to propose marriage to Jeremy on Leap Day in accordance with an old Irish tradition. On her trip to Dublin, she meets Declan and thing starts getting complicated. Overall, movie is weak, unfunny for large parts, and zero spark between the leads. Apart from this, the only thing worth sticking is the beauty of the Ireland.",
+            "date": "2021-01-30T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "The White Tiger",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BMDVkMDRkMzItN2EyYS00ZTI5LTljYzgtNzRmZDQ0OTQ3M2VjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+            "description": "Based on the book with the same name, The white tiger tells the story of the class inequality and the emphasis on the relationship between a master and a servant and how the anger burning inside the servant finally leads to betraying his own master and killing him. The cinematography is on point. Great storytelling. The only thing lacking to become the next Slumdog Millionaire is the emotional aspect. Include that and we could have potentially witnessed another master class.",
+            "date": "2021-01-23T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "The Founder",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BMzExNDg0MDk1M15BMl5BanBnXkFtZTgwNzE1Mjg0MDI@._V1_.jpg",
+            "description": "A good watch. The movie reflect on the betrayal of McDonald's brothers and how Ray Kroc went behind their back, took their legacy and called himself The Founder. The movie is the perfect example of a wolf in the hen house. Ray Kroc was onboarded as a franchiser, what went on to raise his own empire based on the Mcdonalds branding and eventually buying the company from the brothers leaving them with nothing but penny of what could potentially be billions.",
+            "date": "2020-12-30T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "YOU Season2",
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/b/bb/You_Season_2.jpg",
+            "description": "Woah. Talk about stalker murdering psychopath, antisocial, narcissistic this show has everything. Can't wait for the next season. I'll recommend it to anyone. Some episodes were really good. A good watch overally, worth it. Surely not a time waste. Highly recommended.",
+            "date": "2020-09-14T05:35:07.322Z",
+            "type": "Tv Show"
+        },
+        {
+            "title": "YOU Season1",
+            "imgURL": "https://images.justwatch.com/poster/243481452/s332/season-1.%7Bformat%7D ",
+            "description": "Woah. Talk about stalker murdering psychopath, antisocial, narcissistic this show has everything. Can't wait for the next season. I'll recommend it to anyone. Some episodes were really good. A good watch overally, worth it. Surely not a time waste. Highly recommended.",
+            "date": "2020-08-10T05:35:07.322Z",
+            "type": "Tv Show"
+        },
+        {
+            "title": "The Perfect Date",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BZGRhOWM5MzQtM2FlNi00Zjc5LThmZmUtZTI2NzY0MTA1YjM2XkEyXkFqcGdeQXVyODQwODA1MjY@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
+            "description": "Hmm. This is a typical feel good movie. Nothing to take home. Will keep you interested while it lasts, probably put a smile on your face and that's it. The actress is hot but wear's too much makeup. I looked at her instagram, she isn't as good looking as she was in the movie. Too much makeup, but hot nonetheless. I would recommend if you're looking for a light watch movie after a very hard-working day...",
+            "date": "2020-08-16T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "The Queen's Gambit",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BM2EwMmRhMmUtMzBmMS00ZDQ3LTg4OGEtNjlkODk3ZTMxMmJlXkEyXkFqcGdeQXVyMjM5ODk1NDU@._V1_.jpg",
+            "description": "Totally worth it. Past paced episodes, didn't feel like much of a lag. The whole life of the protagonist is captured in 8 episodes, all the way from prodigy, reaching the top, not able to sustain it, alcholism and self-centered, downfall and then rise again to the stardom. This is close to being a masterpeice. Every scene is made with perfection. Great sets, captured 1900's beautifully.",
+            "date": "2020-11-18T05:35:07.322Z",
+            "type": "Tv Show"
+        },
+        {
+            "title": "Catch me if you can",
+            "imgURL": "https://images-na.ssl-images-amazon.com/images/I/81V%2Bb69u3xL._SL1500_.jpg",
+            "description": "Easily will go down in my all time top 10. Realizing that the movie is based on a real person Frank Abagnale will make it even more special. It will easily keep you at your seat, hooked. The time will pass in a flash and you can't help but wonder 'how did the movie ended so soon?'. Why did I wait so long to watch this movie? Definitely Recommend it. One of the best movies I've watched ",
+            "date": "2020-12-22T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "The Edge of Seventeen",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BODE2NjE4NjYyMV5BMl5BanBnXkFtZTgwNzk3MjQ0OTE@._V1_.jpg",
+            "description": "Started out pretty strong and then normalized from there. A good normal storyline dealing with anxiety issues, 'am not good looking' and teenage problems. Another RomCom Feel-Good genre. Not much to look on the comedy side. One of the movies, where teenagers are really hot, mature, good looking and far beyond their age, which makes you wonder how did it go wrong for you? The movie has nothing spectatcular to offer but if you like Hailee Steinfeld, then it's a treat.",
+            "date": "2020-10-11T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Money Heist",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BZDcxOGI0MDYtNTc5NS00NDUzLWFkOTItNDIxZjI0OTllNTljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+            "description": "Interesting. Some episodes were really slow and can't wait to finish them. Lots of good plot twist. Didn't watch the last season tho. I think it's getting a little stretched now. First couple of season were good. I still have to watch the last season, but have no such plans at the moment. It surely has it's moment, biggest strengths being it's unpredicatable nature, lots of twists (really lot) and creative writing. Overall, I'll recommend you to watch it but not force you.",
+            "date": "2020-07-08T05:35:07.322Z",
+            "type": "Tv Show"
+        },
+        {
+            "title": "13 Reasons Why",
+            "imgURL": "https://i.pinimg.com/originals/60/56/6c/60566c12f83a50d9b74bee807ca54065.jpg",
+            "description": "First couple of seasons were brilliant, all uphill from there. The seasons got worse and worse as they progressed. Thankfully, they creators announced season4 to be the last season. It is supposed to be a Drama, but the creators tried to raise too many issues like Sexual Assault, Bully, School Shotting, Depression, Anxiety, and everything they can find online (not relevant). Failed Miserably. At the end it makes you wonder what message are the creators exactly trying to raise??. A stretched, mostly forgettable season",
+            "date": "2020-06-16T05:35:07.322Z",
+            "type": "Tv Show"
+        },
+        {
+            "title": "The Good Doctor",
+            "imgURL": "https://images-na.ssl-images-amazon.com/images/I/51tBFj0%2BqvL._AC_SX385_.jpg",
+            "description": "I'll recommend it in a heartbeat. Totally worth. You can't help but fall in love with Dr.Murphy. Murphy character development is amazing given he has Autism. All the episodes will interesting enough to keep you hooked, and wanting more.",
+            "date": "2020-07-23T05:35:07.322Z",
+            "type": "Tv Show"
+        },
+        {
+            "title": "After We Collided",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BN2UyNGM3MDUtMTIzZi00ZDdkLThlYTktYjk0ZDMzM2JiMjMyXkEyXkFqcGdeQXVyNzE0MjkxMzA@._V1_.jpg",
+            "description": "Time watse. Time waste. Time waste. The story is basically nothing, some random rich people's problem. The two co-stars are horny as fuck. Makeout and sex scenes every 10-15 min. They talk some random shit and then start making out. Even when they are fighting, angry or in general, they somehow always end up makeing out. The actress is hot, the actor is irritating. The movie does nothing but make you feel jealous, why an average, annoying, dumb guy and a terrible actor is making out with a hot and sexy actress. I literally just watched the entire movie, looking at Josephine Langford and cursing myself.",
+            "date": "2020-10-22T05:35:07.322Z",
+            "type": "Movie"
+        }
+    ]
 }

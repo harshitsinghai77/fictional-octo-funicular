@@ -30,9 +30,9 @@ ogImage:
 
 Before we move on, here’s a demo link
 
-[Landing Page](https://webaseai.netlify.com/)
+[Landing Page - https://webaseai.netlify.app/](https://webaseai.netlify.app/)
 
-[Demo](https://app-webase.netlify.com/)
+[Demo - https://app-webase.netlify.app/](https://app-webase.netlify.app/)
 
 ## Problem Statement
 

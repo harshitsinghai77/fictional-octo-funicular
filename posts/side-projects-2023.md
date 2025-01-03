@@ -10,7 +10,7 @@ ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
 
-Over the years, I have worked on a variety of personal projects in my free time, ranging from web apps to machine learning to Data Engineering to Web3. In this collection, you will find a selection of my most interesting and successful projects, each with its own unique challenges and accomplishments. I hope you enjoy exploring them as much as I enjoyed creating them!
+Over the years, I have worked on a variety of personal projects in my free time, ranging from web apps to machine learning to data engineering to web3. In this collection, you will find a selection of my most interesting and successful projects, each with its own unique challenges and accomplishments.
 
 # Nemo
 
